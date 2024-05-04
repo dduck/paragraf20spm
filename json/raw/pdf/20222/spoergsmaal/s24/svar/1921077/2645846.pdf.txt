@@ -1,0 +1,92 @@
+                             Sundhedsudvalget 2022-23 (2. samling)
+                                                                      Offentligt
+
+European Centre for Disease
+Prevention and Control
+
+                             
+
+Impact of surge in China COVID-19 cases
+on epidemiological situation in EU/EEA
+
+ News story
+
+3 Jan 2023
+
+         Translate this page
+
+  The number of COVID-19 cases has reached a record high in mainland China,
+  peaking on 2 December 2022. In the past three weeks, incidence has fallen, likely
+  also due to a lower number of tests being carried out, resulting in fewer infections
+  being detected.
+
+ECDC, together with the EU/EEA Member States and the European Commission has increased its
+monitoring activities and will revise risk assessments and adjust actions if needed. ECDC is working
+closely with the World Health Organization (WHO)/Europe and WHO/Headquarters and is in regular
+contact with the Chinese Center for Disease Control and Prevention (China CDC) and major CDCs
+globally.
+
+ECDC continues to routinely monitor and report on emerging SARS-CoV-2 variant threats via its
+Strategic Analysis of Variants in Europe (SAVE) Working Group, where variants and epidemiological
+trends in countries neighbouring China as well as in the EU/EEA will continue to be evaluated.
+
+The number of COVID-19 cases has reached a record high in mainland China, peaking on 2
+December 2022. In the past three weeks, incidence has fallen, likely also due to a lower number of
+tests being carried out, resulting in fewer infections being detected. There continues to be a lack of
+reliable data on COVID-19 cases, hospital admissions, deaths as well as Intensive Care Unit (ICU)
+capacity and occupancy in China. High levels of SARS-CoV-2 infections and increased pressure on
+healthcare services in China are expected in the coming weeks due to low population immunity and
+the relaxation of non-pharmaceutical interventions.
+
+China has started depositing SARS-CoV-2 sequences in GISAID EpiCoV[1] in higher numbers. From
+1 to 30 December 2022, China has deposited 592 sequences, out of which 540 sequences were
+being deposited this week (from 25 December to 30 December 2022). As of 30 December 2022, of
+the total 592 sequences submitted from China, 437 had recent sample collection dates between 1
+and 24 December 2022 in GISAID EpiCoV. These sequences mainly belonged to the lineages
+(including their sub-lineages) BA.5.2 (35%), BF.7 (24%), BQ.1 (18%), BA.2.75 (5%), XBB (4%), BA.2
+(2%). In addition, from travel related cases, the variants BA.5.6, BA.4.6, BM.4.1.1 and BA.2.3.20
+have also been detected to be circulating in China. No new variant has been detected.
+The variants circulating in China are already circulating in the EU, and as such are not challenging for
+the immune response of EU/EEA citizens. In addition, EU/EEA citizens have relatively high
+immunisation and vaccination levels.
+Given higher population immunity in the EU/EEA, as well as the prior emergence and subsequent
+replacement of variants currently circulating in China by other Omicron sub-lineages in the EU/EEA,
+a surge in cases in China is not expected to impact the COVID-19 epidemiological situation in the
+EU/EEA. This is based on the information available as of this week, and the ECDC assessment, as
+detailed in Communicable Diseases Threat Report of week 51
+(https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-18-24-
+december-2022-week-51), remains currently unchanged.
+[1] Global Initiative on Sharing All Influenza Data (GISAID) (https://gisaid.org/) is a global scientific
+platform that provides open access to influenza virus sequence data and related information.
+Emerging Pandemic Threats – COVID-19 (GISAID EPICOV) is a sub-database within GISAID that
+specifically focuses on the COVID-19 pandemic.
+
+ COVID-19 (/en/search?diseases%5B%5D=2942) Public health threat (/en/search?
+
+public_health_areas%5B%5D=1583) Surveillance (/en/search?public_health_areas%5B%5D=1598)
+
+More on this topic
+
+ COVID-19
+
+ See all information on COVID-19, situation updates, risk assessments, questions and
+ answers, latest evidence, surveillance and laboratory guidance and how to protect yourself
+ and others.
+ Read more 
+(/en/covid-19)
+ COVID-19 situation updates
+
+ Overview of all the data available on the COVID-19 pandemic, including the vaccine tracker
+ and situation dashboards.
+ Read more 
+(/en/covid-19/situation-updates)
+
+ Prevention and control of COVID-19
+
+ Information on how to protect yourself and others from COVID-19, including risk groups,
+ vaccines, contact tracing and non-pharmaceutical interventions.
+ Read more 
+(/en/infectious-disease-topics/z-disease-list/covid-19/prevention-and-control-covid-19)
+
+   © European Centre for Disease Prevention and Control (ECDC) 2023
+

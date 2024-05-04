@@ -1,0 +1,136 @@
+                                                                                           Sundhedsudvalget 2021-22
+
+                                                                                           Holbergsgade 6       Offentligt
+                                                                                           DK‐1057 København K
+
+                                                                                           T +45 7226 9000
+                                                                                           F +45 7226 9001
+                                                                                           M sum@sum.dk
+                                                                                           W sum.dk
+
+Folketingets Sundhedsudvalg                                                                Dato: 30‐03‐2022
+                                                                                           Enhed: JURPEM
+                                                                                           Sagsbeh.: DEPNMWI
+                                                                                           Sagsnr.: 2203741
+                                                                                           Dok. nr.: 2161531
+
+Folketingets Sundhedsudvalg har den 2. marts 2022 stillet følgende spørgsmål nr. 484
+(Alm. del) til sundhedsministeren, som hermed besvares. Spørgsmålet er stillet efter
+ønske fra Liselott Blixt (UFG).
+
+Spørgsmål nr. 484:
+”Ved stikprøvekontrol har Styrelsen for Patientsikkerhed opdaget flere ulovlige log‐
+ind i patientjournaler og sundhedspersoner har oprettet flere konsultationer i pati‐
+entjournaler uden at se patienten. Mener ministeren, at systemet er godt nok, som
+det er, eller vil ministeren arbejde på, at alle patienter får en besked enten på sms el‐
+ler mail, når en person åbner for ens patientjournal?”
+
+Svar:
+Sundhedslovgivningen giver mulighed for, at sundhedspersoner på tværs af sund‐
+hedsvæsenet i relevant omfang kan få adgang til oplysninger om patienter, når det er
+nødvendigt i forbindelse med aktuel behandling af patienten.
+
+Der er således skabt gode retlige rammer for digitalt samarbejde i sundhedsvæsenet
+til gavn for patienten. Samtidig indeholder patientjournaler nogle af de mest føl‐
+somme oplysninger om os som patienter.
+
+Det er derfor vigtigt, at patienter har mulighed for at kontrollere, hvem der har fore‐
+taget opslag i patientjournalerne.
+
+Patienter har allerede i dag i et vist omfang mulighed for at se, hvem der har foreta‐
+get opslag i ens patientjournal. Patienten har således i dag i ”MinLog” på sundhed.dk
+adgang til logoplysninger på opslag i systemer, der er forbundet hertil, såsom e‐jour‐
+naler, Det Fælles Medicinkort (FMK) og Det Danske Vaccinationscenter (DDV). Patien‐
+ten har adgang til at se tidspunkt for opslag, hvem der har foretaget opslaget (fulde
+navn), samt hvilken organisation (om det er apotek eller læge), der har slået op. På
+sundhed.dk har patienten imidlertid endnu ikke adgang til opslag fra sygehusenes in‐
+terne systemer, herunder patientjournalsystemer m.v. Dog har borgere i Region Ho‐
+vedstaden og Region Sjælland adgang til at se opslag i journaler via ”Min Sundheds‐
+platform”.
+
+For også på sundhed.dk at tilbyde borgere overblik over opslag fra regionernes in‐
+terne patientjournalsystemer, aftalte regeringen i regi af økonomiforhandlingerne for
+2020 med Danske Regioner, at logoplysninger fra sygehusenes elektroniske patient‐
+journaler skal indgå i Min Log på sundhed.dk.
+
+Sundhedsministeriet har i forlængelse heraf udstedt bekendtgørelse nr. 200 af
+7. februar 2022 om pligt til at registrere logoplysninger og indsigt i logoplysninger.
+Bekendtgørelsen indebærer, at regionsrådet senest den 1. marts 2024 vil skulle give
+patienter adgang til en oversigt over, hvem der har foretaget opslag i patientens egen
+patientjournal.
+
+Det fremgår således af bekendtgørelsens § 2, at regionsrådet er forpligtet til senest
+den 1. marts 2024 at sikre, at en patient, der er fyldt 15 år, i en periode på to år fra
+opslagstidspunktet får adgang til en overskuelig og letforståelig oversigt over oplys‐
+ninger om fornavn, efternavn og titel på den, der har foretaget opslag i patientens
+elektroniske patientjournal, behandlingssted, hvorfra opslaget er foretaget, og tids‐
+punkt for opslaget, jf. dog bekendtgørelsens § 3.
+
+Det fremgår endvidere af bekendtgørelsens § 3, stk. 1, at regionsrådet i særlige til‐
+fælde kan beslutte, at patienten i stedet for oplysningerne om fornavn og efternavn
+får adgang til oplysninger om anden entydig identifikation på den person, der har fo‐
+retaget opslag. Af bekendtgørelsens § 3, stk. 2, fremgår, at behandlingsstedet efter
+anmodning fra patienten skal udlevere oplysninger om identiteten på personen bag
+oplysningerne i stk. 1, medmindre der foreligger afgørende hensyn til andres private
+interesser.
+
+I forhold til spørgsmålet om en mulig løsning, hvor alle patienter får en besked enten
+på sms eller mail, når en person åbner for ens patientjournal, kan jeg oplyse, at sund‐
+hedsloven ikke stiller krav om, at patienten skal have besked, eksempelvis på sms el‐
+ler mail, hver gang der bliver søgt i patientens journal. En sådan løsning vil i øvrigt
+ikke nødvendigvis skabe overblik for borgerne, da der kan være mange opslag i løbet
+af f.eks. en indlæggelse, som i givet fald vil afstedkomme så mange beskeder, at det
+vil kunne opleves som uoverskueligt for den enkelte og dermed modvirke formålet.
+Sundhedsministeriets tilgang er derfor for nu at skabe forudsætningerne for borge‐
+rens indsigt i logoplysningerne i form af en samlet, brugervenlig visning af logoplys‐
+ninger på sundhed.dk.
+
+Jeg kan i øvrigt generelt oplyse, at behandling af patienters helbredsoplysninger er
+reguleret af sundhedslovens kapitel 9 om tavshedspligt, indhentning og videregivelse
+af helbredsoplysninger og af databeskyttelsesforordningen og ‐loven.
+
+Den dataansvarlige region eller privatpraktiserende læge m.v. er således efter data‐
+beskyttelsesforordningens regler forpligtet til at overholde forordningen, herunder
+forordningens krav om bl.a. behandlingssikkerhed.
+
+Det følger bl.a. af databeskyttelsesforordningens artikel 32, stk. 1, at den dataansvar‐
+lige skal træffe passende tekniske og organisatoriske foranstaltninger for at sikre et
+sikkerhedsniveau, der passer til de risici, der er ved den pågældende behandlingsakti‐
+vitet.
+
+Der påhviler således den dataansvarlige region, praktiserende læge m.v. en pligt til at
+identificere de risici, den dataansvarliges behandling udgør for de registrerede pati‐
+enter og til at sikre, at der indføres passende sikkerhedsforanstaltninger, der beskyt‐
+ter patienterne mod disse risici.
+
+Kravet om passende sikkerhed vil f.eks. kunne indebære, at den dataansvarlige lø‐
+bende kontrollerer om adgangsrettigheder til systemer er begrænset til de personop‐
+lysninger, som er nødvendige og relevante for den pågældende brugers arbejdsbetin‐
+gede behov.
+
+                                                                                          Side 2
+En sådan kontrol vil eksempelvis kunne bestå af en verifikation af det arbejdsbetin‐
+gede behov ved tildelingen, en løbende kontrol baseret på verifikation af, at dette be‐
+hov stadig er til stede og en form for auditering heraf, f.eks. som stikprøvekontrol.
+Hvis man som patient bliver opmærksom på uberettigede opslag i sine helbredsoplys‐
+ninger, kan man foretage anmeldelse til den myndighed, som er ansvarlig for opsla‐
+get, se f.eks. dette link: Mistanke om uberettigede opslag i dine sundhedsdata ‐ sund‐
+hed.dk
+En patient kan klage til Datatilsynet, hvis vedkommende mener, at en dataansvarlig
+region behandler personoplysninger i strid med databeskyttelseslovgivningen.
+Jeg kan afslutningsvis oplyse, at man som patient desuden har mulighed for at klage
+til Styrelsen for Patientklager eller Sundhedsvæsenets Disciplinærnævn, hvis man me‐
+ner, at en sundhedsperson har indhentet oplysninger om helbredsforhold eller andre
+fortrolige oplysninger i strid med sundhedslovens regler om indhentning, eller hvis
+man mener, at en sundhedsperson har videregivet oplysninger om helbredsforhold
+eller andre fortrolige oplysninger i strid med sundhedslovens regler om tavshedspligt
+og videregivelse af helbredsoplysninger m.v.
+De nærmere regler om klageadgang følger af §§ 1 og 2, i lov om klage‐ og erstatnings‐
+adgang inden for sundhedsvæsenet (klage‐ og erstatningsloven).
+
+                                         Med venlig hilsen
+
+                  Magnus Heunicke / Nikoline Marie Werner Isaksen
+
+                                                                                                                                               Side 3
+

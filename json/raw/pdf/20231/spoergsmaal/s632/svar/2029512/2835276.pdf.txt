@@ -1,0 +1,28 @@
+                             Udvalget for Digitalisering og It 2023-24
+                                                                      Offentligt
+
+Folketingets Lovsekretariat  Stormgade 2-6
+                             1470 København K
+                             Telefon 72 28 24 00
+                             digmin@digmin.dk
+
+Sagsnr.     Svar på spørgsmål stillet af Betina Kastbjerg (DD) den 27. februar 2024.
+2024 - 730
+            Spørgsmål nr. S 632:
+Doknr.      ”Hvad mener ministeren om, at hackere potentielt kan eller har fået adgang til al data, som
+70002       Netcompany har udviklet for staten?”
+
+Dato        Svar:
+07-03-2024  Jeg tager sikkerheden i vores digitale infrastruktur meget alvorligt. I dag er langt de fleste ker-
+            neopgaver i offentlige myndigheder understøttet af it-systemer. Det kræver et vedvarende
+            fokus på sikkerheden i og omkring systemerne. Derfor sætter vi høje krav til den digitale sik-
+            kerhed, samtidig med at vi prioriterer væsentlige midler til at sørge for, at borgernes data bli-
+            ver passet godt på. Det bliver vi ved med.
+
+            Jeg noterer mig, at Datatilsynet har stillet Netcompany nogle spørgsmål i sagen. Jeg er derfor
+            tryg ved, at den belyses grundigt. Grundet den igangværende efterforskning, kan jeg ikke gå
+            yderligere ind i den konkrete sag.
+
+            Med venlig hilsen
+            Marie Bjerre
+

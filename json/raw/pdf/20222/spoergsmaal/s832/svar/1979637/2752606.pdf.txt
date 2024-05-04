@@ -1,0 +1,65 @@
+                             Udvalget for Digitalisering og It 2022-23 (2. samling)
+                                                                                      Offentligt
+
+Folketingets Lovsekretariat  Stormgade 2-6
+                             1470 København K
+                             Telefon 72 28 24 00
+                             digmin@digmin.dk
+
+Sagsnr.     Svar på spørgsmål stillet af Morten Messerschmidt (DF) den 12. september 2023.
+2023-3233
+            Spørgsmål nr. S 832:
+Doknr.      ”Mener ministeren, at det er hensigtsmæssigt, at visse erhvervssektorer, herunder typehusfir-
+37555       maer, er afhængige af at kunne søge byggetilladelser og indhente ledningsoplysninger gen-
+            nem MitID Erhverv, og at aktiveringen heraf kræver en privat MitID, som ikke er obligatorisk,
+Dato        og hvad mener ministeren man bør gøre ved problematikken?”
+20-09-2023
+            Svar:
+            Digitalisering af den offentlige forvaltning, herunder særligt på erhvervsområdet, har været
+            grundlaget for en omfattende forbedring og effektivisering af den offentlige sektor gennem
+            de seneste årtier. En central forudsætning for denne digitalisering er sikre digitale identitets-
+            løsninger, hvor man kan have tillid til digitale borger- og erhvervsidentiteter.
+
+            Det er ikke et lovmæssigt krav at have MitID, men der er en række erhvervsområder, hvor lov-
+            givning om obligatorisk digital selvbetjening er implementeret.
+
+            Af bekendtgørelse om MitID Erhverv og MitID privat til erhverv (Bkg. nr. 1256 af 07/09/2022)
+            fremgår følgende af § 2, stk. 3:
+
+                  En fysisk person kan med et privat MitID oprette en erhvervsidentitet i MitID Erhverv
+                  ved digital selvbetjening. Digitaliseringsstyrelsen er identitetsgarant for oprettelsen af
+                  den fysiske persons erhvervsidentitet.
+
+            For at Digitaliseringsstyrelsen kan udføre sin rolle som identitetsgarant for den fysiske per-
+            sons erhvervsidentitet, er det en forudsætning, at den fysiske person anvender sit private Mi-
+            tID ved oprettelsen af en erhvervsidentitet i MitID Erhverv.
+
+            En virksomhed eller myndighed kan vælge selv at tage ansvaret for identitetssikringen, hvis de
+            opretter en Lokal IdP (Identity Provider). Med en Lokal IdP bliver virksomheden eller myndig-
+            heden selv identitetsgarant og udsteder selv erhvervsidentiteter og loginmidler til sine medar-
+            bejdere. Så længe udstedelsen af lokale identiteter sker i overensstemmelse med kriterierne
+            specificeret i National Standard for Identiteters Sikringsniveauer (NSIS), er det op til den en-
+            kelte virksomhed eller myndighed at afgøre, hvilke krav ansatte skal efterleve i forbindelse
+            med identitetssikringen, herunder eksempelvis om identitetssikringen kan håndteres ved do-
+            kumentation af manuel kontrol af identitetsmidler, som eksempelvis pas.
+
+            Baggrunden for at der såvel i lovgivningen om MitID Erhverv som i den tekniske løsning stilles
+            krav til identitetssikring af erhvervsidentiteter, er hensynet til sikkerheden i løsningen og der-
+            med, at brugere kan have tillid til, at de personer, som agerer på vegne af virksomheder, myn-
+            digheder og foreninger, er dem, som de udgiver sig for at være.
+I spørgsmålet anføres det endvidere, at privat MitID ikke er obligatorisk. Det er korrekt, at der
+ikke er krav om, at man som borger skal have privat MitID, ligesom der heller ikke var krav
+om, at man havde NemID. Hvis en borger har behov for ikke-digital behandling, kan borgeren
+i den forbindelse kontakte den relevante myndighed, som kan oplyse, hvordan man ellers kan
+få oplysninger, ansøge eller andet. Det er fx muligt at blive fritaget for Digital Post og den of-
+fentlige digitale selvbetjening, så man i stedet for får breve med papirpost. Har man brug for
+at blive fritaget, kan man få hjælp i sin kommunes borgerservice.
+I forhold til private tjenester skal man kontakte den pågældende private tjenesteudbyder og
+forhøre sig om mulighederne for betjening, hvis man ikke har MitID.
+På baggrund af ovenstående mener jeg, at der er alternative løsninger til rådighed for dem,
+som ikke ønsker at have et privat MitID.
+Med venlig hilsen
+Marie Bjerre
+
+                                                                                                                  2
+

@@ -1,0 +1,99 @@
+                                                                                       Beskæftigelsesudvalget 2023-24
+                                                                                                                      Offentligt
+
+Folketingets Lovsekretariat                                                            Beskæftigelsesministeriet
+lov@ft.dk                                                                              Holmens Kanal 20
+                                                                                       1060 København K
+Morten Messerschmidt (DF)
+Morten.Messerschmidt@ft.dk                                                             T +45 72 20 50 00
+                                                                                       E bm@bm.dk
+Folketingsmedlem Morten Messerschmidt (DF) har den 26. februar stillet følgende        www.bm.dk
+spørgsmål nr. S 631, som hermed besvares.
+                                                                                       CVR 10172748
+Spørgsmål nr. S 631:
+”Er det korrekt, at ministeren vil fremsætte et lovforslag i den kommende tid, der     J.nr. 2024 - 1267
+vil betyde, at en gruppe pensionister fremadrettet vil blive modregnet af en partners  5. marts 2024
+indkomst fra ikke-arbejdsmarkedsbidragspligtig indkomst som følge af lovforsla-
+get, og hvis dette er korrekt, hvorfor vil ministeren så modregne denne gruppe?”
+
+Svar:
+Med Aftale om en ny reformpakke for dansk økonomi – Hurtigere i job og et stær-
+kere arbejdsmarked af januar 2022 blev et bredt flertal blandt Folketingets partier
+enige om at lempe modregningsreglerne for ”arbejdsindkomst” for de pensionister
+og deres partnere, der fortsat bidrager på arbejdsmarkedet med henblik på at gøre
+det mere attraktivt at fortsætte med at arbejde. Aftalen blev implementeret med
+lovændringer, der trådte i kraft med virkning fra den 1. januar 2023, og som såle-
+des indebar afskaffelse af modregning i folke-, senior- og førtidspension som følge
+af en ægtefælles eller samlevers arbejdsindtægt og senest afskaffelsen af modreg-
+ning som følge af pensionistens egen arbejdsindtægt i folkepensionens grundbeløb
+og pensionstillæg.
+
+I forbindelse med udmøntningen af en lempeligere modregning ift. arbejdsind-
+komst blev der taget udgangspunkt i et allerede anvendt begreb i pensionslovgiv-
+ningen; ”indtægt ved personligt arbejde”. Indtægt ved personligt arbejde er et bre-
+dere begreb end arbejdsindkomst, men hensigten med anvendelsen var ikke at ind-
+føre noget nyt og komplicere området yderligere.
+
+I forbindelse med implementeringen har det dog vist sig, at begrebet indtægt ved
+personligt arbejde er meget udfordrende at understøtte digitalt i den automatiserede
+pensionsberegning i Udbetaling Danmark. Ikke mindst som følge af, at de ændrede
+modregningsregler også vedrører ægtefælles/samlevers indtægtsforhold. Konkret
+har det vist sig vanskeligt automatisk at udstille alle de forskellige indkomsttyper
+via Skatteforvaltningens systemer, hvorfra Udbetaling Danmark primært modtager
+oplysninger om indkomstforhold.
+Som jeg orienterede Beskæftigelsesudvalget om i oktober 2023, håndterer Udbeta-
+ling Danmark aktuelt lovændringerne fra 1. januar 2023 ved en midlertidig selvbe-
+tjeningsløsning på borger.dk. Selvbetjeningsløsningen indebærer, at en gruppe pen-
+sionister med visse særlige indkomsttyper kontaktes af Udbetaling Danmark. Pen-
+sionisten skal således selv korrigere, hvilke typer af indkomst der er indtægt ved
+personligt arbejde, og som skal udgå af pensionsberegningen. Udbetaling Danmark
+har i 2023 og 2024 sendt 39.000 breve til berørte borgere og har modtaget 15.000
+opkald fra borgere, der ønskede hjælp til at forstå, hvad de skulle gøre. Det er ikke
+vurderingen, at selvbetjeningsløsningen er egnet som en permanent løsning.
+
+Med lovforslaget foreslås det derfor at anvende det skatteretlige begreb arbejds-
+markedsbidragspligtig indkomst (AM-bidragspligtig indkomst) i stedet for indtægt
+ved personligt arbejde. Det betyder, at indkomster, der er AM-bidragspligtige ikke
+vil indgå i ægtefællens/samleverens indtægtsgrundlag, når folke-, senior- og før-
+tidspensionen skal beregnes, eller i pensionistens eget indtægtsgrundlag, når folke-
+pensionens grundbeløb og pensionstillæg beregnes. Det foreslås, at ændringen træ-
+der i kraft fra 1. januar 2025.
+
+AM-bidragspligtig indkomst omfatter i overvejende grad lønindkomster, og æn-
+dringen er derfor i tråd med intentionen i aftalen om at lempe modregningsreglerne
+og tilskynde pensionister til fortsat at arbejde. Langt størstedelen af de 1,4 mio.
+pensionister vil derfor heller ikke opleve nogen ændring i deres pensionsydelse,
+idet indtægt ved personligt arbejde først og fremmest omfatter lønindkomster, der
+er AM-bidragspligtige.
+
+Den foreslåede ændring indebærer imidlertid en mindre indsnævring af de ind-
+komsttyper, der efter gældende praksis i pensionsberegningen betragtes som ind-
+tægt ved personligt arbejde. Det er indkomsttyper, der ikke er AM-bidragspligtige,
+og som igen vil blive modregnet i pensionsberegningen ligesom de gjorde i årene
+før 2023. Det gælder bl.a. visse overførselsindkomster, herunder efterløn, dagpenge
+og sygedagpenge.
+
+Det betyder, at en mindre gruppe af modtagere af social pension med en ægtefælle
+eller samlever, der modtager en offentlig ydelse, midlertidigt har oplevet en forhø-
+jelse af deres pension under implementeringen i 2023 og 2024. Det skønnes, at i
+størrelsesordenen 6.000 fuldtidspersoner, svarende til 0,4 pct. af alle pensionister,
+fra 1. januar 2025 igen vil blive stillet som ved reglerne før 2023. Pensionister der
+selv har lønindkomst eller har en ægtefælle/samlever med lønindkomst, vil ikke
+blive berørt af ændringen. Disse vil i tråd med den politiske intention i aftalen fort-
+sat ikke blive modregnet i deres pensionsydelse.
+
+Det bemærkes, at det fortsat er muligt for både folkepensionisten og dennes even-
+tuelle ægtefælle/samlever at have en vis samlet indkomst op til fradragsgrænsen på
+187.100 kr. for pensionister med en ægtefælle/samlever, inden pensionstillægget
+bliver sat ned. Det ændres der ikke ved. Det vil derfor kun være i de tilfælde, hvor
+fradragsgrænsen er nået, at pensionstillægget potentielt nedsættes.
+
+                                                                                                   2
+Jeg orienterede den 20. februar 2024 på en teknisk gennemgang Folketingets par-
+tier om den kommende lovændring.
+Venlig hilsen
+Ane Halsboe-Jørgensen
+Beskæftigelsesminister
+
+                                                                                                   3
+

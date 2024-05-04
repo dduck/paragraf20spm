@@ -1,0 +1,65 @@
+                                                                                      Udvalget for Digitalisering og It 2022-23 (2. samling)
+                                                                                                                                               Offentligt
+
+Folketingets Lovsekretariat                                                                         Stormgade 2-6
+                                                                                               1470 København K
+                                                                                              Telefon 72 28 24 00
+
+Sagsnr.     Svar på spørgsmål stillet af medlem af Folketinget Lisbeth Bech-Nielsen (SF) den 11.
+2023 - 297  januar 2023.
+
+Doknr.      Spørgsmål nr. S 74:
+583962      ”Hvad mener ministeren om, at kun 4,8 pct. af danskerne i november 2022 brugte
+            mit.dk som digital postkasse?”
+Dato
+30-01-2023  Svar:
+            Jeg vil indledningsvis bemærke, at jeg principielt ikke har en holdning til, hvor mange
+            danskere der benytter forskellige private tjenester.
+
+            Den procentvise fordeling af log-ins på de forskellige visningsklienter, som Digitalise-
+            ringsstyrelsen har oplyst til Danmarks Radio, viser hvor stor en andel af trafikken, der
+            tilgår de pågældende visningsklienter. Den procentvise fordeling viser derfor ikke, at
+            4,8 pct. af danskerne benytter mit.dk-appen, men at 4,8 pct. af log-ins i en given peri-
+            ode er sket via mit.dk-appen.
+
+            Tallene for log-in ændrer sig løbende, og i tabel 1 nedenfor kan fordelingen for perio-
+            den 23. december 2022 til 6. januar 2023 ses.
+
+            Tabel 1
+
+                Fordeling af log-ins i perioden 23. december 2022 til 6. januar 2023
+
+            (fordeling i pct.)     Web                                                   App   Total
+            Klient
+            Offentlige Klienter  4,75*                                                4,42**   9,17
+            e-Boks                                                                            83,84
+            Mit.dk               15,83                                                68,01
+                                  0,87                                                  6,12   6,99
+
+            * Borger.dk og Virk
+            ** Den offentlige Digital Post-app
+
+            Ordningen med kommercielle visningsklienter muliggjorde, at e-Boks kunne fortsætte
+            med at vise offentlig Digital Post, hvis en anden leverandør end e-Boks vandt det lov-
+            pligtige udbud af Digital Post i 2019. Ligeledes muliggjorde det, at Netcompany kunne
+            vise offentlig Digital Post på deres private visningsklient mit.dk. Endvidere betyder
+            ordningen, at der nu er etableret et frit marked for digital post fra private virksomhe-
+            der.
+Ifølge lov om Digital Post fra offentlige afsendere, er alle visningsklienter retligt side-
+stillet, og borgernes retsstilling er den samme, uanset hvilken visningsklient de anven-
+der.
+Introduktionen af kommercielle visningsklienter har derudover muliggjort, at dan-
+skerne kan læse offentlig Digital Post på den platform de ønsker, uafhængigt af hvilken
+leverandør der måtte vinde et udbud på et givent tidspunkt. Derudover bidrager mo-
+dellen til, at de forskellige platforme udvikler bedre services til brugerne, da der nu er
+konkurrence på området.
+Til forskel fra den tidligere Digital Post-løsning, så ejer den offentlige sektor nu Digital
+Post-løsningen, som er en kritisk offentlig infrastruktur, og kan frit tilpasse løsningen,
+samt konkurrenceudsætte den til en ny leverandør. Det står i modsætning til tidligere,
+hvor den offentlige sektor var kunde hos e-Boks, og dermed ikke havde fri adgang til at
+tilpasse Digital Post løsningen, eller flytte denne til en ny leverandør.
+Med venlig hilsen
+Marie Bjerre
+
+                                                                                                                                              2
+

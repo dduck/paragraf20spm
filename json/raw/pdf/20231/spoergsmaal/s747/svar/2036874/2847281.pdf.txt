@@ -1,0 +1,1500 @@
+                                                                                                                                                      Retsudvalget 2023-24
+                                                                                                                               Europaudvalget 2022-23 (2. samOlifnfegn) tligt
+
+                                                                                                                                                       EUU Alm.del - Bilag 434
+                                                                                                                                                                            Offentligt
+
+Notat om sommerhusprotokollen og mulighederne for at skærpe
+kontrollen og sagsbehandlingen
+
+Indholdsfortegnelse
+
+    1. Opdraget
+    2. Sommerhusprotokollens baggrund og de senere drøftelser om dens
+
+        rækkevidde
+          2.1. Tiden frem til indførelsen af sommerhusprotokollen
+          2.2. Sommerhusprotokollen og senere overvejelser om at ændre reglerne om
+              erhvervelse af sommerhuse
+
+    3. Sommerhusprotokollens betydning
+    4. Sommerhusprotokollens fortolkning belyst ved domspraksis
+
+          4.1. Sager om sommerhusprotokollen
+          4.2. Sager vedrørende den østrigske undtagelse for sommerhuse
+
+                         4.2.1. Konle-dommen
+                         4.2.2. Senere sager der bekræfter Konle-formularen
+          4.3. Sager om art. 64, stk. 1, TEUF
+                         4.3.1. Art. 64, stk. 1, TEUF og koblingen til
+
+                                 sommerhusprotokollen
+                         4.3.2. Undtagelser fortolkes strengt
+                         4.3.3. Lempelse eller fjernelse af restriktioner
+                         4.3.4. Ændringer der hviler på nye principper eller som indfører
+
+                                 nye procedurer
+                                    4.3.4.1. Hvilke ændringer hviler på nye principper eller
+                                            indfører nye procedurer?
+                                    4.3.4.2. Konsekvensen af at indføre nye principper og
+                                            nye procedurer
+
+          4.4. Andre sager om standstill-klausuler
+    5. Sammenfattende om protokollens rækkevidde og mulighederne for at skærpe
+
+        den danske praksis
+          5.1. Skæringsdatoen den 1. november 1993
+          5.2. Lempelser i de danske regler
+          5.3. Ændringer der falder uden for Konle-formularen
+          5.4. Særligt om muligheden for at skærpe dansk ret
+          5.5. Konsekvenserne af en ændring uden for Konle-formularen
+
+    6. Konklusioner
+
+                                                             1
+    1. Opdraget
+
+Undertegnede er af Justitsministeriet blevet anmodet om at vurdere mulighederne for
+at ændre den eksisterende praksis for at indrømme udlændinge tilladelse til at
+erhverve sommerhuse i Danmark efter dispensationshjemlen i Lov om erhvervelse af
+fast ejendom (Erhvervelsesloven).1 Mere specifikt ønskes en undersøgelse af
+mulighederne for at skærpe kontrollen med ansøgernes oplysninger eller på anden
+måde skærpe sagsbehandlingen inden for rammerne af sommerhusprotokollen. En
+ekstern vurdering af dette forhold blev stillet Europaudvalget i udsigt i brev fra
+Justitsministeriet dateret den 30. juni 2022.
+
+Jeg forstår opdraget således, at man ønsker en vurdering af, hvorvidt
+sommerhusprotokollen gør det muligt at skærpe kontrollen eller på anden måde
+skærpe den eksisterende sagsbehandling, når det gælder tilladelse til udlændinges
+erhvervelse af sommerhuse i Danmark. Da opgaven således består i at vurdere
+mulighederne for en skærpelse, har jeg ikke fundet behov for at foretage en
+undersøgelse af den eksisterende dispensationspraksis samt den eksisterende kontrol,
+idet jeg alene forholder mig til spørgsmålet om hvorvidt sommerhusprotokollen er til
+hinder for en skærpet kontrol eller sagsbehandling.
+
+Rækkevidden af sommerhusprotokollen rejser også en række spørgsmål i relation til
+reguleringen af anvendelse af sommerhuse, men disse problemstillinger inddrages
+alene i det omfang, de er relevante for at besvare opdraget.
+
+Til brug for nærværende notat har jeg undersøgt relevante love og forarbejder, danske
+domme og EU-domme samt den foreliggende litteratur. Alt det materiale, der indgår,
+er offentligt tilgængelige kilder, bortset fra to notater udarbejdet af
+Kammeradvokaten om hhv. planlovens § 40 og § 41 dateret den 2. maj 2000 og den
+20. oktober 2004. Disse to notater har jeg fået stillet til rådighed af Justitsministeriet.
+
+Nærværende vurdering er disponeret således, at der først redegøres for baggrunden
+for sommerhusprotokollen og den diskussion, der hidtil har været omkring denne.
+Dernæst vurderes det kort, hvordan de eksisterende danske regler kan krænke EU-
+retten, hvis sommerhusprotokollen ikke fandtes, og i tilslutning hertil analyseres
+rækkevidden af sommerhusprotokollen på baggrund af praksis fra EU-Domstolen.2
+Dette munder ud i en drøftelse af mulighederne for at skærpe både kontrollen og
+sagsbehandlingen. En sammenfatning af vurderingens konklusioner findes til sidst.
+
+1 Lov nr. 265 af 21/03/2014.
+2 EU-Domstolens har siden Lissabon-traktatens ikrafttræden officielt været benævnt Den Europæiske Unions
+Domstol. I det følgende bruges betegnelsen EU-Domstolen om instansen både før og efter Lissabon-traktatens
+ikrafttræden.
+
+                                                             2
+    2. Sommerhusprotokollens baggrund og de senere drøftelser om dens
+        rækkevidde
+
+      2.1. Tiden frem til indførelsen af sommerhusprotokollen
+
+Før den danske indtræden i det daværende EF havde man taget skridt til at regulere
+erhvervelse af fast ejendom, herunder sommerhuse. Hjørnestenen i denne regulering
+var Lov om erhvervelse af fast ejendom (Erhvervelsesloven) fra 1959, som bestemte,
+og stadig bestemmer, at personer, der ikke har bopæl i Danmark og ej heller tidligere
+har haft bopæl i landet i et tidsrum af i alt 5 år, kun kan erhverve adkomst til fast
+ejendom her i landet med Justitsministerens tilladelse.3 Det fremgår af forarbejderne
+til bestemmelsen, at fordi befolkningstætheden kun efterlader meget begrænsede
+arealer, der kan benyttes som ferieområder for befolkningen, anser man det for
+rimeligt, at personer, der er bosat her i landet, får en fortrinsret til at erhverve fast
+ejendom. Selvom sigtet var at regulere adgangen til sommerhuse, lod man
+reguleringen omfatte erhvervelse af al fast ejendom, fordi det for det første ville være
+svært at afgrænse, hvad der udgør sommerhuse, og fordi de hensyn, der ligge bag, at
+give landets borgere fortrinsret i større eller mindre omfang, gør sig gældende ved al
+fast ejendom.4
+
+Forarbejderne slår ydermere fast, at loven ikke angiver nærmere retningslinjer for,
+hvornår Justitsministeriet skal give tilladelse til erhvervelse, men det ”må forventes, at
+ordningen vil blive administreret liberalt.” Det tilføjes, at forslaget ”navnlig kunne få
+betydning ved den mulighed, det giver for at forhindre, at opkøb af fast ejendom fra
+personer eller selskaber m.m. hjemmehørende i udlandet tager for stort omfang i
+almindelighed eller på bestemte områder.”5 Justitsministeriet har udviklet en praksis,
+hvorefter der alene gives dispensation, hvis en person har en stærk tilknytning til
+Danmark. Dette sker ud fra en samlet vurdering, som tager hensyn til tidligere ophold
+i Danmark, særlig familiemæssig, erhvervsmæssig, kulturel og økonomisk tilknytning
+til Danmark og speciel tilknytning til den ejendom, der ønskes erhvervet.6
+
+Umiddelbart forud for tiltrædelsen til EF blev der tilføjet hjemmel til at indføre regler
+der undtager statsborgere og visse selskaber fra andre medlemsstater fra at opfylde
+bopælskravet.7 Udmøntningen af denne hjemmelsbestemmelse findes i dag i
+Erhvervelsesbekendtgørelsen.8 Bekendtgørelsen gør en række undtagelser for
+
+3 Se nu Erhvervelsesloven, lov nr. 265 af 21/3/2014, § 1, stk. 1. I dag er kompetencen til at indrømme
+dispensation overladt til Civilstyrelsen.
+4 Jf. forslag til lov om erhvervelse af fast ejendom, FT 1959-60, Tillæg A, sp. 287-288.
+5 Jf. FT 1959-60, Tillæg A, sp. 288-289.
+6 Civilstyrelsen har redegjort for den eksisterende praksis i brev til Justitsministeriet dateret den 24/06/2022 og
+en tidligere redegørelse for samme findes i Justitsministerens besvarelse af spørgsmål nr. 95, 29/08/2014.
+7 Hjemlen fandtes i Tiltrædelseslovens § 4, lov nr. 447 af 11/10/1972 og nu også Erhvervelseslovens § 1, stk. 3.
+8 Nu bekendtgørelse nr. 764 af 18/09/1995, Bekendtgørelse om erhvervelse af fast ejendom for så vidt angår
+visse EF-statsborgere og EF-selskaber samt visse personer og selskaber fra lande, der har tiltrådt aftalen om Det
+Europæiske Økonomiske Samarbejdsområde (Erhvervelsesbekendtgørelsen).
+
+                                                             3
+statsborgere fra andre EU/EØS-medlemsstater, for så vidt disse er arbejdstagere i
+Danmark, eller personer og selskaber fra EU/EØS-medlemsstater, der udøver den fri
+etableringsret eller gør brug af retten til at udveksle tjenesteydelser. Senere har man
+tilføjet, at også ikke-erhvervsaktive EU/EØS-borgere, der har opholdsret efter EU’s
+regler herom, vil kunne erhverve en fast ejendom uden at opfylde bopælskravet.9 De
+nævnte personer skal ikke opfylde Erhvervelseslovens bopælskrav, hvis de enten
+erhverver en helårsbolig eller erhverver fast ejendom, der er en forudsætning for at
+udøve selvstændig virksomhed eller levere tjenesteydelser.10 Selvom der således gives
+visse indrømmelser til personer og selskaber fra andre EU/EØS-medlemsstater, vil de
+normalt ikke omfatte en ret til at erhverve et sommerhus i Danmark.
+
+Erhvervelsesloven og Erhvervelsesbekendtgørelsen var (og er) de centrale regelsæt,
+der regulerede betingelserne for erhvervelse af fast ejendom, men disse suppleres af
+regler, der regulerede anvendelsen af sommerhuse. Der er således et forbud mod, at
+en bolig i et sommerhusområde anvendes til helårsbolig.11 Dette er kombineret med
+et forbud mod erhvervsmæssig udlejning.12 Det følger af forarbejderne til sidstnævnte
+lovændring, at formålet med dette forbud var at begrænse den yderligere
+efterspørgsel efter jord til privat rekreativ udnyttelse som medlemskabet af EF
+forventes at skabe. Således håbede man bl.a. at begrænse efterspørgslen efter jord
+med henblik på erhvervsmæssig udnyttelse, f.eks. i form af sommerhuskolonier til
+udlejning.13 Forbuddet mod erhvervsmæssig udlejning fortolkes således, at hvis man
+alene ejer et eller to sommerhuse kan man udleje disse så længe man overholder
+reglerne om at sommerhusene ikke må bruges som helårsbolig.14
+
+Efter den danske tiltrædelse til EF blev det ovennævnte værn udsat for pres pga.
+udviklingen af EF/EU-retten. I første omgang betød liberaliseringen af kapitalens fri
+bevægelighed, at det var nødvendigt at få indført et forbehold om, at denne
+liberalisering ikke påvirkede den eksisterende nationale lovgivning om erhvervelse af
+ejendomme, der ikke er helårsbolig.15 Formålet var at afskære udenlandske
+statsborgere og selskaber fra at erhverve danske sommerhuse som en investering
+beskyttet af kapitalens fri bevægelighed i de tilfælde, hvor investorerne ikke opfyldte
+
+9 Erhvervelsesbekendtgørelsens § 2.
+10 Erhvervelsesbekendtgørelsens § 3.
+11 Dette blev oprindeligt indført i lov nr. 288 af 26/06/1975, § 7a og findes i dag i Planlovens § 40, stk. 1, jf. lov
+nr. 1157 af 01/07/2020. Før denne lovændring i 1975 fulgte tilsvarende begrænsninger af bygningsvedtægter.
+12 Jf. dette blev indført i sommerhusloven, som blev indført i 1972 og således umiddelbart inden den danske
+tiltrædelse, jf. lov nr. 267 af 07/07/1972, § 1. Forbuddet findes stadig i sommerhusloven jf. nu lov nr. 949 af
+03/07/2013, § 1. Der er i lovens § 2 hjemmel til at fravige dette forbud, men hjemlen bruges meget sjældent,
+hvilket også var forudset, da loven blev indført jf. forslag til sommerhuslov fremsat 09/02/1972, FT 1971-72,
+Tillæg A, sp. 1961.
+13 Jf. forslag til sommerhuslov fremsat 09/02/1972, FT 1971-72, Tillæg A, sp. 1959.
+14 Reglerne er en smule mere komplicerede end angivet i teksten, se nærmere Erhvervsstyrelsens vejledning om
+udlejning af sommerhuse m.v., vejledning nr. 9035 af 08/01/2021.
+15 Jf. Kapitalliberaliseringsdirektivet, Direktiv 88/361/EØF af 24/08/1988, Artikel 6, stk. 4.
+
+                                                             4
+de danske krav om bopæl. Da man et par år efter begyndte at liberalisere ikke-
+erhvervsdrivendes adgang til at udøve fri bevægelighed, fik man også her indføjet
+undtagelser, som sikrede, at direktiverne ikke berører gældende ret om erhvervelse af
+sekundærboliger.16 Hensigten var at sikre, at disse personer ikke havde mulighed for
+at erhverve sommerhuse i Danmark uden først at have bopæl i landet (eller havde fået
+dispensation fra kravet).
+
+Maastricht-traktaten medførte, at man ville sikre både kapitalens fri bevægelighed og
+unionsborgernes (dvs. også de ikke-erhvervsaktive personers) fri bevægelighed
+gennem traktaten. Dette betød, at de undtagelser for erhvervelse for sommerhuse
+som man havde sikret gennem de ovennævnte direktiver ikke på sigt ville være
+tilstrækkelige.17 Derfor fik man forhandlet en særlig protokol (oprindelig protokol 16,
+nu protokol nr. 32), der bestemmer:18
+
+”Uanset bestemmelserne i traktaterne kan Danmark opretholde den gældende
+lovgivning om erhvervelse af ejendomme, der ikke er helårsboliger.”
+
+Den danske protokol indebærer en undtagelse, der gælder på traktatniveau, jf. således
+den nuværende art. 51 TEUF. Desuden er der tale om en permanent undtagelse, der
+gælder så længe Danmark opfylder dens forudsætninger, jf. herom nedenfor, og så
+længe man ikke ophæver protokollen. Andre medlemsstater har fået lignende
+undtagelser for erhvervelse af sommerhuse, men normalt kun for en kortere
+overgangsperiode.19 Dette gør således det danske forbehold til noget særligt, og derfor
+omtales det undertiden som det femte forbehold.
+
+Protokollen tillader at Danmark opretholder eksisterende lovgivning, som var
+gældende den 1. november 1993, da Maastricht-traktaten trådte i kraft. Heraf følger
+også, at det er uden betydning hvilke regler der eksisterede før denne dato. Selvom
+man således har haft en strengere lovgivning eller en strengere dispensationspraksis
+før denne dato, giver sommerhusprotokollen ikke mulighed for at vende tilbage til en
+
+16 Jf. således Opholdsdirektivet for lønmodtagere og selvstændige, der er ophørt med erhvervsaktivitet
+(pensionister), Direktiv 90/365/EØF, Artikel 2, stk. 3 og Opholdsdirektivet (for restgruppen), Direktiv
+90/364/EØF, Artikel 2, stk. 3. Der blev ikke indsat et tilsvarende forbehold i det direktiv, der regulerede
+opholdsret for studerende, jf. oprindeligt Direktiv 90/366/EØF.
+17 Man havde dog ved formuleringen af Artikel 21 TEUF (tidligere art. 18 TEF) sikret at, unionsborgernes fri
+bevægelighed var underlagt de begrænsninger, der var fastsat i traktaten og gennemførelsesbestemmelserne
+hertil. Det ville således være muligt at sikre en undtagelse ved et direktiv således som det på dette område var
+sket hidtil, men det var også klart, at en sådan undtagelse kunne ændres eller ophæves af EU-lovgiver. Derfor
+var sommerhusprotokollen også på dette område vigtig.
+18 Se hertil også Poul Skytte Christoffersen: Konferencen vedrørende Traktaten om den Europæiske Union, 1992,
+s. 69-70.
+19 Der blev således lavet overgangsordninger på 5 år for Sverige, Finland og Østrig da disse lande blev optaget i
+1995. Ved udvidelsen i 2004 fik følgende lande en overgangsordning på mellem 5-10 år: Cypern, Tjekkiet, Ungarn
+og Polen. Malta fik ved samme lejlighed indrømmet en permanent undtagelse.
+
+                                                             5
+sådan strengere retstilstand. Omvendt er det også uden betydning for protokollen, at
+man måske tidligere har haft en mere lempelig retstilstand på området.
+
+      2.2. Sommerhusprotokollen og senere overvejelser om at ændre reglerne
+          om erhvervelse af sommerhuse
+
+Efter dens indførsel har rækkevidden af sommerhusprotokollen været genstand for
+diskussion ved forskellige lejligheder. Enkelte gange har det været overvejet at justere
+reglerne om erhvervelse af sommerhuse:
+
+I 2012 og igen i 2016 fremsatte en række folketingsmedlemmer et forslag til
+folketingsbeslutning om afskaffelse af sommerhusreglen.20 Baggrunden var, at de
+pågældende folketingsmedlemmer fandt, at reglen var dobbeltmoralsk bl.a. fordi der
+ikke var noget til hinder for, at danskere kunne købe sommerhus i andre
+medlemsstater. Begge beslutningsforslag blev forkastet.
+
+I regeringsgrundlaget for VKLA-regeringen fra november 2016 fremgik det at man ville
+undersøge, om man kunne lave et forsøg, hvor "særligt udvalgte områder" i landet
+undtages for reglerne om udlændinges erhvervelse af sommerhuse. Forslaget blev
+aldrig udmøntet i et konkret forslag, om end det fremgår af et ministerspørgsmål, at
+regeringen var i dialog med Kommissionen om hvorvidt det var muligt inden for
+rammerne af sommerhusprotokollen.21
+
+Den 12. oktober 2018 fremsatte en række folketingspolitikere forslag til en
+folketingsbeslutning om at indføre en politisk bestemt kvote på 0-20 dispensationer
+om året.22 Baggrunden herfor var, at man mente, at Justitsministeriet gav for mange
+dispensationer og dermed havde udvandet det bopælskrav, der var
+Erhvervelseslovens udgangspunkt. I en beretning fra Europaudvalget fra den 8. februar
+2019 pålagde et flertal af udvalget regeringen ”hurtigst muligt at sikre, at der sker et
+væsentlig fald i antallet af dispensationer, f.eks. ved at indføre retningslinjer og
+kriterier, der ikke fraviger sommerhusprotokollens krav om reel, fast og varig bopæl i
+Danmark som en forudsætning for at give dispensation til udlændinges køb af danske
+sommerhuse.”23 Justitsministeriet fulgte op på denne opfordring i skrivelse af 12.
+marts 2020 til Europaudvalget, hvori ministeriet redegjorde for, at det havde skærpet
+kontrollen med de oplysninger ansøger angav om den særlige tilknytning til Danmark.
+Mens der tidligere som udgangspunkt ikke var sket nogen prøvelse af ansøgningerne,
+ville man nu stille krav om indsendelse af dokumentation for rigtigheden af
+oplysninger om bl.a. tidligere ophold. Formålet med den skærpede kontrol var at sikre,
+at der ikke gives flere tilladelser end nødvendigt, men det var ifølge ministeriet
+
+20 Beslutningsforslag B 40, folketingsåret 2012-13 samt beslutningsforslag B 71 folketingsåret 2015-16.
+21 Jf. Justitsministerens svar på spørgsmål 309 fra folketingsmedlem Tilde Bork, dateret 07/12/2016.
+22 Jf. 2018/1 BSF 19.
+23 Jf. 2018/1 BRB 19, Beretning over Forslag til folketingsbeslutning om et årligt kvoteloft på 0-20 dispensationer
+for køb af sommerhuse i Danmark, når bopælspligten ikke er opfyldt.
+
+                                                             6
+usikkert, om kontrollen ville føre til et fald i antallet af tilladelser. Det var
+Justitsministeriets opfattelse, at en sådan skærpelse kunne ske inden for rammerne af
+sommerhusprotokollen, mens en skærpelse af betingelserne for at få dispensation
+ville falde uden for rammerne af protokollen. En redegørelse for behandling af
+ansøgninger udarbejdet af Civilstyrelsen og dateret 24. juni 2022 angiver, at det
+skærpede dokumentationskrav, som blev indført i 2020, kun har haft betydning i
+enkelte tilfælde. En notits om reglerne for udlændinges erhvervelse af sommerhuse i
+Danmark udarbejdet af Justitsministeriet den 29. marts 2022 citerer ydermere
+Civilstyrelsen for at antage, at kravet om dokumentation ikke selvstændigt har medført
+et fald i antallet af tilladelser.
+
+Som en opfølgning på beslutningsforslaget fra 2018 besluttede man på et møde
+afholdt den 30. marts 2022 mellem den daværende justitsminister og EU-ordførende,
+at indhente en ekstern vurdering, der skulle undersøge muligheden for at skærpe
+kontrollen med ansøgernes oplysninger eller på anden måde skærpe
+sagsbehandlingen inden for rammerne af sommerhusprotokollen.
+
+For fuldstændighedens skyld skal det også nævnes, at man et par gange har vurderet
+sommerhusprotokollens betydning for at ændre reglerne om anvendelse af
+sommerhuse.
+
+I 1999 blev Kammeradvokaten anmodet om at foretage en vurdering af, hvorvidt det
+var muligt at præcisere Planlovens § 40, som bestemmer, at sommerhuse ikke må
+anvendes til helårsboliger. Kammeradvokaten anbefalede, at man ikke ændrede den
+eksisterende lovgivning, idet han var af den opfattelse, at sommerhusprotokollen også
+dækkede disse regler og enhver lempelse af Planlovens § 40, således at den tillod
+yderligere beboelse, ville medføre en risiko for, at sommerhusprotokollen herefter
+ikke dækkede denne.24 Man undlod dengang at ændre reglerne, men efterfølgende er
+der sket en ændring af praksis, således at man i dag tillader, at man benytter
+sommerhus (eller udlejer samme) i op til 41 uger om året.25
+
+I 2004 blev der fremsat forslag om at ændre ejertidskravet i Planlovens § 41 således,
+at pensionister kunne bosætte sig hele året i sommerhuse de havde ejet 3 år, modsat
+de 8 år der krævedes efter de daværende regler.26 Kammeradvokaten blev anmodet
+om at vurdere, om det var muligt at ændre Planlovens § 41 ved at nedsætte
+ejertidskravet, uden at dette ville udfordre sommerhusprotokollen.
+Kammeradvokaten konkluderede, at Planlovens § 41 var en del af den værnlovgivning,
+der skulle beskytte danske sommerhuse, og en ændring af disse regler kunne derfor
+betyde, at Planloven ikke længere blev dækket af protokollen, og ydermere at
+
+24 Jf. Kammeradvokatens Redegørelse for Planlovens § 40 og Sommerhusprotokollen, dateret 02/05/2000.
+25 Den eksisterende fortolkning af reglerne fremgår af Erhvervsstyrelsens vejledning om udlejning af
+sommerhuse m.v., vejledning nr. 9035 af 08/01/2021.
+26 Jf. Forslag til lov om ændring af lov om planlægning, fremsat 16/04/2004.
+
+                                                             7
+protokollens undtagelse bortfaldt. Derfor anbefalede Kammeradvokaten, at man ikke
+ændrede på ejertidskravet. På denne baggrund anbefalede regeringen, at en ændring
+blev opgivet.27 Senere i 2017 gennemførte man dog alligevel en ændring af Planlovens
+§ 41 hvorved ejertidskravet blev nedsat til 1 år.28 I forarbejderne til loven anføres: ”De
+foreslåede udvidelser af anvendelsen af sommerhuse vil ikke have betydning for
+opretholdelsen af de gældende regler om erhvervelse af ferieboliger i Danmark, jf. lov
+om erhvervelse af fast ejendom, som senest bekendtgjort ved lovbekendtgørelse nr.
+265 af 21. marts 2014, og giver på den baggrund ikke anledning til overvejelser i
+forhold til protokol af 1992 om ejendomserhvervelse i Danmark
+(sommerhusprotokollen).”29 I modsætning til Kammeradvokaten har man således
+ment, at reglerne om anvendelse af sommerhus ikke omfattes af
+sommerhusprotokollen og derfor kunne de ændres, uden at det betyder, at
+protokollen bortfalder.30
+
+Opdraget i nærværende notat vedrører mulighederne for at ændre reglerne om
+tildeling af dispensation til udlændinge, og vedrører således begrænsninger på
+erhvervelse og ikke begrænsninger på anvendelse. Derfor er de sidstnævnte
+problemstillinger mindre relevante for nærværende notat.
+
+    3. Sommerhusprotokollens betydning
+
+Sommerhusprotokollen giver Danmark mulighed for at fastholde regler, der er i
+konflikt med andre dele af EU-retten. For at vurdere betydningen af
+sommerhusprotokollen er det således relevant at vurdere, om de eksisterende regler
+om erhvervelse af sommerhuse i Danmark er i strid med dele af EU-retten.31 Det er
+dog forholdsvis ukontroversielt, at der eksisterer en sådan konflikt, og derfor skal
+spørgsmål alene berøres kort.
+
+På det tidspunkt hvor Danmark tiltræder EF, synes man at have antaget, at
+statsborgere og selskaber fra andre medlemsstater, der enten er arbejdstagere eller
+selvstændige erhvervsdrivende i Danmark, alene er sikret ret til at erhverve en
+helårsbolig samt de bygninger, der var nødvendig til erhvervsaktiviteten.32 For at
+
+27 Jf. notat fra Mijøministeriet til Europaudvalget og Miljø- og Planlægningsudvalget dateret 29. oktober 2004.
+28 Jf. lov nr. 668 af 08/06/2017 om ændring af lov om planlægning, lov om naturbeskyttelse og lov om aktindsigt
+i miljøoplysninger.
+29 Jf. L 121, forslag tl lov om ændring af lov om planlægning m.fl., fremsat den 25/01/2017, pkt. 7.
+30 Se hertil også Justitsministerens besvarelse af spørgsmål nr. 76 fra Folketinget Erhvervsudvalg dateret
+11/11/2020.
+31 Se tilsvarende sag C-355/97, Beck og Bergdorf, præmis 28.
+32 Pga. vigtigheden af at have et CPR-nummer, når man erhverver en helårsbolig, er der stadig visse hindringer
+for, at unionsborgere fra andre medlemsstater kan gøre dette, jf. Katarina Hyltén-Cavallius, ’Bopæl, CPR-
+nummer og EU-opholdsbevis: når husdrømme går i stå for unionsborgere i Danmark’, EU-ret og Menneskeret
+2020, nr. 2, s. 51 ff.
+
+                                                             8
+sommerhuse ikke selv kunne være ramme for erhvervsaktiviteten udelukkede man
+den erhvervsmæssige udleje af sommerhuse. Dermed syntes man at have antaget at
+man havde imødekommet EF-rettens krav.33
+
+Men denne forudsætning viste sig at være uholdbar, da EU-Domstolen fik lejlighed til
+at fortolke de rettigheder, der følger af, hvad der i dag er art. 45 TEUF om
+arbejdskraftens fri bevægelighed, art. 49 TEUF om etableringsretten og art. 56 TEUF
+den fri udveksling af tjenesteydelser. Det blev således klart, at de erhvervsaktive
+personer når de nyder godt af de nævnte rettigheder, ikke alene er sikret ret i forhold
+til, hvad der er snævert forbundet med arbejdet eller erhvervsaktiviteten, men også
+er sikret rettigheder i forhold til de aktiviteter, der knytter sig til den private sfære,
+herunder fritidsaktiviteter.34 Således udtalte EU-Domstolen i sag C-334/94,
+Kommissionen mod Frankrig følgende omkring regler, der bl.a. begrænsede
+udlændinges adgang til at erhverve fritidsfartøjer, jf. præmis 21:
+
+”I den henseende bemærkes, at fællesskabsretten garanterer enhver statsborger fra
+en medlemsstat såvel retten til at rejse ind i en anden medlemsstat for dér at udøve
+lønnet beskæftigelse eller selvstændig virksomhed samt retten til at bo dér efter at
+have udøvet en sådan virksomhed. Imidlertid er adgangen til fritidsaktiviteter i denne
+medlemsstat en naturlig følge af retten til fri bevægelighed.”
+
+Som nævnt ovenfor ville en erhvervsaktiv person, der flyttede til Danmark ikke straks
+være berettiget til at erhverve et sommerhus, idet bopælskravet i Erhvervelsesloven
+først ville være opfyldt efter en vis periode. 35 Dermed sker der en forskelsbehandling
+af personer, der netop er flyttet til Danmark. Denne forskelsbehandling kan ikke
+begrundes i saglige hensyn, idet forarbejderne til Erhvervelsesloven indikerer, at
+hensigten er at give danskere en fortrinsret og begrænse udlændinges erhvervelse af
+sommerhuse. Derfor er Erhvervelseslovens bopælskrav udtryk for diskrimination af
+udenlandske statsborgere. Dertil kommer at man godt kan være arbejdstager eller
+selvstændig erhvervsdrivende i Danmark uden at have bopæl her i landet, og sådanne
+
+33 Se nærmere om overvejelserne og forløbet op til tiltrædelsen i Morten Rasmussen: Joining the European
+Communities – Danmark’s Road to EC-membership, 1961-73, ph.d.-afhandling antaget 07/06/2004, s. 458 ff
+samt Torsten Borring Olesen & Poul Villaume: I blokopdelingens tegn 1945-1972, Dansk Udenrigspolitiks Historie
+5, 2005 s. 704 f.
+34 Se hertil Karsten Engsig Sørensen & Jens Hartig Danielsen: EU-retten, 2022 s. 555 f og 587 og den her nævnte
+praksis. Derudover er der flere sager, hvor EU-Domstolen er afvisende over for diskriminerende begrænsninger
+på erhvervelse af fast ejendom, se bl.a. sag 63/86, Kommissionen mod Frankrig og 305/87, Kommissionen mod
+Grækenland.
+35 Bopælskravet er således ikke opfyldt, blot fordi man har flyttet sin bopæl til Danmark. Det skal vurderes om
+man har sit faste og varige hjem i Danmark. Ifølge Civilstyrelsens hjemmeside skal det ”afgøres ud fra en række
+forhold: Hvor længe har du boet i Danmark, har du din familie i Danmark, herunder om du fx har børn i
+daginstitution, om du taler dansk og har taget undervisning i dansk, og om du arbejder eller studerer i Danmark.
+Andre forhold kan også have betydning.” Jf. nærmere https://civilstyrelsen.dk/sagsomraader/erhvervelse-af-
+fast-ejendom/ofte-stillede-spoergsmaal. Ifølge Karnov’s note 1 til Erhvervelsesloven skal bopælskravet fortolkes
+strengt, idet ophold i uddannelses- eller studieøjemed eller ophold med henblik på nogle års beskæftigelse inden
+tilbagevenden til hjemlandet ikke betragtes som bopæl, selvom opholdet har været af længere varighed.
+
+                                                             9
+personer vil aldrig (eller dog kun efter mange år) kunne opnå ret til at erhverve et
+sommerhus.
+
+De oprindelige regler tog ikke højde for at ikke-erhvervsaktive unionsborgere kan
+udøve fri bevægelighed, men Erhvervelsesbekendtgørelsen tillader nu, at de personer
+der har ret til at udøve fri bevægelighed efter opholdsdirektivet36 har ret til at erhverve
+helårsbolig, jf. bekendtgørelsens § 2 sammenholdt med § 3. Men dermed er de ikke
+sikret ret til at erhverve et sommerhus, idet de først må afvente, at de opfylder
+bopælskravet i Erhvervelsesloven. Dermed diskriminerer man også her ikke-
+erhvervsaktive unionsborgere i strid med art. 21 TEUF og Opholdsdirektivets art. 24,
+stk. 1.
+
+Slutteligt er der ingen tvivl om, at en begrænsning af muligheden for at erhverve
+sommerhuse i Danmark kan være en hindring for kapitalens fri bevægelighed.37 Denne
+ret beskytter som udgangspunkt såvel investorer fra andre EU/EØS-medlemsstater
+som investorer fra tredjelande. Den danske ordning forhindrer, at investorer der ikke
+opfylder bopælskravet, kan foretage investeringer i danske sommerhuse, og reglen
+kan således være diskriminerende. Medlemsstaterne har mulighed for at undtage
+visse restriktioner fra reglerne om kapitalens fri bevægelighed efter art. 64-66 TEUF.
+Ikke-diskriminerende hindringer for erhvervelse af fast ejendom kan også være
+begrundet i formål af almenhedens interesse, såfremt de er i overensstemmelse med
+proportionalitetsprincippet.38 Hvis reglerne forskelsbehandler udenlandske investorer
+– som det er tilfældet med de danske regler – er det dog vanskeligt at forestille sig, at
+de kan opretholdes efter de nævnte bestemmelser.39
+
+Ifølge art. 345 TEUF berøres de ejendomsretlige ordninger i medlemsstaterne ikke af
+traktaterne. Østrig gjorde under sag C-302/97, Konle, gældende, at denne
+bestemmelse skulle legitimere, at man opretholdt en procedure, der krævede
+forudgående tilladelse til erhvervelse af fast ejendom. Dette afviste EU-Domstolen,
+
+36 Direktiv 2004/38/EF. Erhvervelsesbekendtgørelsen henviser faktisk til de tidligere gældende
+opholdsdirektiver, men henvisningen må forstås som en henvisning til det nævnte opholdsdirektiv, idet dette
+afløser de tre tidligere opholdsdirektiver, jf. også Tinglysningsrettens publikation ’Erhvervelsesloven og
+tinglysning’ senest opdateret 21/01/2022, version 14 (https://domstol.dk/media/yg1ezfbu/erhvervelsesloven-
+og-tinglysning.pdf).
+37 Det fremgår af fast retspraksis, at nationale foranstaltninger, som kan hindre eller begrænse erhvervelse af en
+fast ejendom i andre medlemsstater, kan anses for restriktioner for de frie kapitalbevægelser, jf. eksempelvis
+sag C-377/07, STEKO Industriemontage, præmis 24, og sag C-35/08, Busley og Cibrian Fernandez, præmis 21, sag
+C-250/08, Kommissionen mod Belgien, præmis 31 og forenede sager C-478/19 og C-479/19, UBS Real Estate
+Kapitalanlagegesellschaft mbH, præmis 29. Som det bla. fremgår af sidstnævnte præmis, kan restriktioner på
+erhvervelse af fast ejendom mest oplagt være omfattet af reglerne om etableringsret eller kapitalens fri
+bevægelighed. Sidstnævnte er mest oplagt, hvor den erhvervede ejendom er et investeringsobjekt og således
+ikke danner rammen for en erhvervsaktivitet.
+38 Jf. f.eks. forenede sager C-515/99 m.fl., Reisch m.fl., præmis 33.
+39 Således er de østrigske regler om erhvervelse af sommerhuse også i flere tilfælde fundet at være i strid med
+reglerne om kapitalens fri bevægelighed, hvorfor de alene har kunne opretholdes i det omfang, de kan støttes
+på den særlige undtagelse, Østrig har fået, jf. hertil gennemgangen af retspraksis i afsnit 4.2.
+
+                                                            10
+idet den understregede, at sådanne godkendelsesordninger skal overholde traktatens
+grundlæggende principper.40 Som konsekvens vil de danske begrænsninger på
+erhvervelse af sommerhus ikke være undtaget EU-rettens krav på grundlag af art. 345
+TEUF.
+
+Det fremgår således, at hvis sommerhusprotokollen ikke eksisterede, ville Danmark
+være nødsaget til at ændre reglerne således, at man i videre omfang gav udlændinge
+adgang til at erhverve sommerhuse i Danmark. Derfor er sommerhusprotokollen en
+vidtrækkende særregel, der sikrer en undtagelse fra flere forskellige EU-rettigheder,
+der sikrer retten til at erhverve sommerhuse uden diskrimination og i et vist omfang
+også uden at der opstilles ikke-diskriminerende hindringer.
+
+    4. Sommerhusprotokollens fortolkning belyst ved domspraksis
+
+Sommerhusprotokollen er en del af EU-traktaterne og er ydermere tiltænkt som en
+undtagelse fra EU-retlige regler. Der er således ingen tvivl om, at det må tilkomme EU-
+Domstolen at fortolke protokollen og dermed fastlægge rækkevidden af den danske
+undtagelse. Derfor vil den relevante domspraksis blive analyseret i det følgende. Der
+er få domme, som vedrører sommerhusprotokollen (afsnit 4.1), men der er flere
+domme, som fortolker en lignende undtagelse indrømmet til Østrig, jf. afsnit 4.2.
+Dernæst er der en del praksis omkring, hvad der i dag er art. 64, stk. 1, TEUF, som også
+er relevant for forståelsen af sommerhusprotokollen (afsnit 4.3), og slutteligt er der
+andre standstill-klausuler, som bør overvejes (afsnit 4.4).
+
+      4.1. Sager om sommerhusprotokollen
+
+Som nævnt har der alene været en enkelt dom, hvor EU-Domstolen har forholdt sig
+direkte til den danske sommerhusprotokol, og denne dom er ikke specielt relevant for
+besvarelsen af det spørgsmål, der adresseres i nærværende notat. I sagen C-370/05,
+Festersen, forelagde Vestre Landsret EU-Domstolen en række spørgsmål, der skulle
+afklare, om de daværende regler om bopælspligt ved erhvervelse af visse
+landbrugsejendomme var i overensstemmelse med traktatens regler om kapitalens fri
+bevægelighed. Den danske regering havde under sagen gjort gældende, at disse regler
+om bopælspligt var omfattet af undtagelsen i sommerhusprotokollen. Dette afviste
+EU-Domstolen henset til, at bopælspligten i landbrugsloven finder anvendelse uanset
+om den pålæggende ejendom er en helårsbolig eller ej. Svaret kan næppe betragtes
+som overraskende.
+
+Højesteret har også i en enkelt sag forholdt sig til sommerhusprotokollen. Således
+fastslog Højesteret i UfR 2007.99 H, at det ikke var i strid med Danmarks EU-retlige
+
+40 Jf. sag C-302/97, Konle, præmis 38. Dette præjudikat har EU-Domstolen bekræftet flere gange efterfølgende
+bl.a. i sag C-452/01, Ospelt, præmis 24.
+
+                                                            11
+forpligtelser, at boliger, der rent faktisk ikke anvendes som helårsbolig, omfattes af de
+restriktive regler, som beskyttes af sommerhusprotokollen. Denne dom vedrørte
+ligesom Festersen-sagen spørgsmålet om hvilke ejendomme der omfattes af
+protokollen, og er således ikke specielt interessant for den problemstilling, der er i
+fokus her.
+
+      4.2. Sager vedrørende den østrigske undtagelse for sommerhuse
+
+Danmark er som nævnt ikke det eneste land, der har fået en undtagelse for
+sommerhuse. Undtagelsen for Østrig, som findes i den aftale der regulerede Østrigs
+tiltrædelse til EF (tiltrædelsesakten)41 art. 70, lyder:
+
+”Uanset bestemmelserne i de traktater, som danner grundlag for Den Europæiske
+Union, kan Republikken Østrig opretholde sin gældende lovgivning om
+sekundærboliger i en periode på fem år fra tiltrædelsen.”
+
+Mens den danske undtagelse tillader, at Danmark kan ”opretholde den gældende
+lovgivning om erhvervelse af ejendomme, der ikke er helårsboliger”, tillader den
+østrigske undtagelse, at Østrig kan ”opretholde sin gældende lovgivning om
+sekundærboliger” i en vis periode. De to undtagelser er således nogenlunde ens
+formuleret, bortset fra at den østrigske undtagelse er tidsbegrænset og at udtrykkene
+’sekundærboliger’ og ’ejendomme der ikke er helårsboliger’ muligvis kan have en lidt
+forskellig udstrækning. Når det gælder hvad der ligger i begrebet ’opretholde
+gældende lovgivning’, må de to undtagelser antages at skulle forstås ens.
+
+Første gang EU-Domstolen fik lejlighed til at fortolke den østrigske undtagelse var sag
+C-224/97, Ciola. Sagens baggrund var at delstaten Vorarlberg i Østrig havde lavet
+begrænsninger på, hvor mange både ejet af personer, der havde bopæl i udlandet der
+kan ligge ved Bodensee’s bred. Disse regler var i strid med traktatens regler om fri
+udveksling af tjenesteydelser, og EU-Domstolen afviste, at tiltrædelsesaktens art. 70
+ændrede ved dette, idet undtagelsen for sommerhuse ikke kunne udstrækkes til udleje
+af bådpladser.42
+
+            4.2.1. Konle-dommen
+
+Mere interessant i nærværende sammenhæng er dommen i sag C-302/97, Konle, som
+er afsagt godt en måned senere af EU-Domstolens Store Afdeling. Konle var en tysk
+statsborger, som havde fået afslag på at erhverve en fast ejendom i delstaten Tyrol.
+Sagens hovedspørgsmål var, om det var i strid med EU-retten at kræve at udlændinge
+der erhverver en fast ejendom, skal søge om tilladelse, mens østrigske statsborgere er
+
+41 Akt vedrørende vilkårene for Republikken Østrigs, Republikken Finlands og Kongeriget Sveriges tiltrædelse og
+tilpasningerne af de traktater der danner grundlag for Den Europæiske Union, EFT 1994 C 241, s. 21 og EFT 1995
+L 1, s. 1.
+42 Jf. sag C-224/97, Ciola, præmis 18.
+
+                                                            12
+undtaget fra dette krav.43 EU-Domstolen konstaterede, at der var tale om en
+diskriminerende begrænsning af kapitalens fri bevægelighed, og spørgsmålet var
+således om undtagelsen i tiltrædelsesaktens art. 70 kunne lovliggøre denne
+diskrimination. I tilknytning hertil udtalte EU-Domstolen (præmis 27-28):
+
+”Det henhører i princippet under den nationale rets kompetence at fastlægge indholdet
+af gældende lovgivning vedrørende sekundærboliger den 1. januar 1995, som er
+datoen for Republikken Østrigs tiltrædelse. Det tilkommer dog Domstolen at forsyne
+den nationale ret med bidrag til fortolkning af fællesskabsbegrebet »gældende
+lovgivning«, således at den kan foretage denne fastlæggelse.
+
+Det bemærkes, at begrebet »gældende lovgivning« i henhold til tiltrædelsesaktens
+artikel 70 hviler på et materielt kriterium, således at det ved anvendelsen af det ikke er
+nødvendigt at vurdere de pågældende nationale bestemmelsers gyldighed i den
+interne retsorden. Enhver bestemmelse vedrørende sekundærboliger, der var
+gældende i Republikken Østrig på tidspunktet for tiltrædelsen, er herefter i princippet
+omfattet af undtagelsen i tiltrædelsesaktens artikel 70.”
+
+Selvom EU-Domstolen således overlader det til de nationale domstole at afgøre, hvad
+gældende lovgivning var den 1. januar 1995, forbeholder EU-Domstolen sig retten til
+at bidrage til, hvordan udtrykket ’gældende lovgivning’ skal fortolkes.
+
+Præmis 28 gør det klart, at enhver bestemmelse, som var gældende på den nævnte
+dato, kan opretholdes efter undtagelsen. Hvis man ophæver nationale regler og
+samtidig viderefører dem i en ny lovgivning, vil man således fortsat kunne påberåbe
+sig undtagelsen, men den konkrete sag viser, at det ikke er ligegyldigt, hvordan dette
+sker. I den konkrete sag var den østrigske lov, der indeholdt de kontroversielle regler
+om erhvervelse af fast ejendom, blevet tilsidesat som forfatningsstridig i 1996.
+Allerede inden den østrigske forfatningsdomstol tilsidesatte den forfatningsstridige
+lov indførte man dog et tilsvarende krav om forudgående tilladelse, idet kravet dog nu
+gjaldt alle erhververe, dvs. også østrigere. EU-Domstolen accepterede, at dette kunne
+være en videreførelse af de oprindelige regler, og at de nye regler derfor kunne være
+omfattet af undtagelsen i tiltrædelsesaktens art. 70. Det ville imidlertid have forholdt
+sig anderledes, hvis man havde ophævet de østrigske regler med tilbagevirkende kraft,
+idet der herefter ikke var nogen gældende regler per 1. januar 1995, man kunne
+videreføre. Derfor ville man i en sådan situation ikke længere kunne nyde godt af
+undtagelsen.
+
+43 Efter de oprindelige regler skulle østrigske statsborgere således blot erklære, at de var østrigsk statsborgere
+og at erhvervelsen ikke skete med henblik på at oprette en fritidsbolig. Udlændinge skulle derimod søge en
+tilladelse og havde man ikke godtgjort, at formålet med den planlagte erhvervelse ikke er at oprette en
+fritidsbolig, meddeles der afslag.
+
+                                                            13
+Som nævnt havde man ikke blot videreført de tidligere regler, men også lavet visse
+ændringer. Spørgsmålet var, hvorvidt der stadig var tale om ’gældende lovgivning’
+selvom der var indført sådanne ændringer. Hertil udtalte EU-Domstolen (præmis 52-
+53):
+
+”En bestemmelse, der er vedtaget efter tiltrædelsesdatoen, falder ikke allerede af
+denne grund automatisk uden for den undtagelsesordning, der er indført ved
+tiltrædelsesaktens artikel 70. Hvis den i det væsentlige er identisk med den tidligere
+lovgivning, eller hvis den alene lemper eller fjerner en hindring i den tidligere lovgivning
+for udøvelsen af rettigheder og friheder efter fællesskabsretten, er bestemmelsen
+omfattet af undtagelsen.
+
+Derimod kan en lovgivning, som hviler på andre principper end den tidligere lovgivning,
+og som indfører nye procedurer, ikke betragtes som lovgivning, der var gældende på
+tiltrædelsestidspunktet. Dette er tilfældet med TGVG 1996, der indeholder adskillige,
+betydningsfulde forskelle i forhold til TGVG 1993, og som ikke - selv om den i princippet
+ophæver den tidligere ordning med to procedurer for erhvervelse af fast ejendom -
+forbedrer behandlingen af medlemsstaternes statsborgere, bortset fra østrigske
+statsborgere, da den indfører nogle bestemmelser vedrørende behandlingen af
+ansøgninger om tilladelse, der, som allerede nævnt i præmis 41, i realiteten har til
+formål at favorisere de ansøgninger, som østrigske statsborgere indgiver.”
+
+En lovændring, der i det væsentlige er identisk med den tidligere lovgivning, eller som
+måske endda alene lemper eller fjerner hindringer, vil stadig være omfattet af
+undtagelsen. Det gælder dog ikke en lovændring, der hviler på andre principper og
+som indfører nye procedurer. Dette præjudikat – som i det følgende omtales som
+Konle-formularen – har Domstolen bekræftet i en række senere afgørelser,44 og det er
+således nøglen til at afgøre, om en ændring af en lov eller praksis betyder, at der ikke
+længere er tale om ’gældende lovgivning’. Det må antages, at formularen også skal
+anvendes ved fortolkning af sommerhusprotokollen.
+
+I relation til den østrigske lovændring var der tale om så omfattende ændringer, at
+undtagelsen ikke længere fandt anvendelse.45 Selvom man som nævnt udvidede
+tilladelsesordningen til også at omfatte østrigere, så indeholdt ordningen ifølge EU-
+Domstolen stadig diskriminerende elementer, idet udlændinge var pålagt bevisbyrden
+for at bevise hvad den faste ejendom skulle bruges til, mens østrigske statsborgere
+ikke blev mødt med sådanne krav.46 Derfor blev en ordning, der oprindeligt
+diskriminerede udlændinge, afløst af en ny diskriminerende ordning, og EU-Domstolen
+mente, at der var tale ’adskillige, betydningsfulde forskelle’ i forhold til de regler, der
+
+44 Jf. straks nedenfor om sag C-355/97, Beck og Bergdorf og C-300/01, Salzmann.
+45 Jf. også præmis 54 i dommen.
+46 Jf. præmis 41 som der også henvises til i den citerede præmis 58.
+
+                                                            14
+var gældende den 1. januar 1995. Reglerne skulle derfor vurderes efter traktatens
+regler om kapitalens fri bevægelighed, og EU-Domstolen konstaterede at de nye
+østrigske regler var i strid med disse.47
+
+            4.2.2. Senere sager der bekræfter Konle-formularen
+
+EU-Domstolen har i et par efterfølgende domme igen forholdt sig til den østrigske
+undtagelse for sekundære boliger.
+
+Sag C-355/97, Beck og Bergdorf, handlede om, hvorvidt det forhold, at den hjemmel,
+som myndighederne i delstaten Tyrol havde til at anlægge sag med påstand om
+annullation af handler vedrørende fast ejendom i delstaten, var flyttet til den tidligere
+omtalte lov fra 1996 betød, at lovgivningen ikke længere kunne opretholdes efter
+undtagelsen i tiltrædelsesaktens art. 70. Selvom loven var vedtaget efter den 1. januar
+1995, var der tale om en videreførelse af en tilsvarende hjemmel som havde fandtes i
+forskellige tidligere – nu ophævede – love. Spørgsmålet var således, om undtagelsen
+fortsat gælder for en lov vedtaget efter skæringsdatoen, som viderefører
+bestemmelser, der fandtes i en lov, der var gældende før skæringsdatoen. EU-
+Domstolen afgjorde sagen ved at gengive de centrale præmisser fra Konle-dommen,
+herunder Konle-formularen.48 Herefter konkluderede EU-Domstolen:
+
+”Det følger heraf, at hvis det må antages, at bestemmelserne i § 40 i TGVG 1996 alene
+har som virkning at opretholde de regler, der fandt anvendelse den 1. januar 1995, må
+de anses for at være omfattet af undtagelsesordningen i henhold til tiltrædelsesaktens
+artikel 70.”
+
+Dommen tilføjer ikke meget nyt til Konle-dommen, bortset fra at EU-Domstolen i
+denne sag ikke mente, det var nærliggende, at man havde ændret reglerne. Der var
+tale om en påtalehjemmel, og det var således også forholdsvis let at konstatere, at der
+var tale om en videreførelse af de tidligere gældende regler. Det er dog værd at
+bemærke, at generaladvokat La Pergola i sit forslag til afgørelse i sagen nåede frem til
+det modsatte resultat. Han mente ikke, at loven fra 1996 alene medførte visse formelle
+ændringer i den ordning, der var gældende per 1. januar 1995. Han lagde herved vægt
+på, at loven indførte en generel forpligtelse til at indhente tilladelse til at erhverve fast
+ejendom og desuden indføre en forkortet procedure, som ikke fandtes ved
+tiltrædelsen.49 Mens generaladvokaten derfor valgte at se på 1996-loven i sin helhed,
+valgte EU-Domstolen i Beck og Bergdorf alene at fokusere på påtalehjemlen.
+Konsekvensen var, at EU-Domstolen tilsyneladende var klar til at opretholde dele af
+en ny lovgivning, selvom den tidligere i Konle-dommen havde tilkendegivet, at andre
+
+47 Jf. herved Konle-dommens præmis 39-49.
+48 Jf. sag C-355/97, Beck og Bergdorf, præmis 34-35.
+49 Jf. generaladvokat La Pergola’s forslag til afgørelse fremsat 02/03/1999 i sag C-355/97, Beck og Bergdorf, Saml.
+1999 s. I-4986.
+
+                                                            15
+dele af samme lovgivning i delstaten Tyrol ikke kunne opretholdes efter undtagelsen.
+En anden konsekvens synes at være, at EU-Domstolen er parat til at lade undtagelsen
+gælde, selvom den godt en måned tidligere havde konstateret, at Østrig havde
+overtrådt undtagelsen. Det fremgår dog ikke klart af dommen at EU-Domstolen har
+forholdt sig til, om afgørelsen i Konle skulle have konsekvenser for den senere dom.
+
+Den næste sag, hvor den østrigske undtagelse blev behandlet af EU-Domstolen, var
+sag C-300/01, Salzmann.50 I denne sag havde en østrigsk statsborger, Doris Salzmann
+anfægtet det krav om en forudgående tilladelse for at erhverve fast ejendom som
+fandtes i delstaten Vorarlberg. Hun hævdede at kravet var i strid med reglerne om
+kapitalens fri bevægelighed, mens Østrig gjorde gældende, at reglerne var dækket af
+undtagelsen i tiltrædelsesaktens art. 70. Delstatens regler var trådt i kraft den 1. januar
+1998 og var vedtaget efter tiltrædelsesdatoen. Den østrigske regering gjorde
+imidlertid gældende, at den nye lovgivning i det væsentlige var identiske med den
+lovgivning, der var gældende ved Østrigs tiltrædelse af EU.
+
+EU-Domstolen gentog herefter Konle-formularen uden at tilføje nye aspekter.51
+Derefter overlod EU-Domstolen det til den forelæggende ret at vurdere, om den
+lovgivning, delstaten havde indført, alene opretholdt den lovgivning der var gældende
+1. januar 1995 eller om den indeholdt betydningsfulde forskelle og således i
+sidstnævnte tilfælde faldt uden for undtagelsen.52
+
+Med denne dom synes EU-Domstolen for sidste gang at have forholdt sig til den
+østrigske undtagelse,53 og der foreligger ingen domme om fortolkning af den
+undtagelse, som en række andre medlemsstater var indrømmet.
+
+      4.3. Sager om art. 64, stk. 1, TEUF
+            4.3.1. Art. 64, stk. 1, TEUF og koblingen til sommerhusprotokollen
+
+Maastricht-traktaten medførte, at der blev indført nye bestemmelser i EUF-traktaten
+om kapitalens fri bevægelighed. Dette indebar også, at der blev indført en række
+særlige undtagelser for kapitalens fri bevægelighed, herunder den bestemmelse, der i
+dag findes i art. 64, stk. 1, TEUF og som lyder:
+
+50 Inden da havde EU-Domstolen dog haft lejlighed til at tilsidesætte de østrigske regler i delstaten Salzburg. I de
+forenede sager C-515/99 m.fl., Reisch m.fl., tilsidesatte EU-Domstolen et krav om afgivelse af erklæring og
+forudgående tilladelse til at erhverve byggegrunde, som var fastsat af delstaten Salzburg i 1997. Begge krav blev
+tilsidesat, fordi de udgjorde hindringer for kapitalens fri bevægelighed. Undtagelsen i tiltrædelsesakten art. 70
+blev ikke påberåbt i sagen og derfor bidrager dommen ikke til forståelse af denne.
+51 Jf. præmis 54-55.
+52 Jf. præmis 56.
+53 Dog blev de østrigske regler genstand for senere sager, hvor de igen blev tilsidesat, fordi de var i strid med
+reglerne om kapitalens fri bevægelighed, jf. således sag C-213/04, Burtscher, hvor reglerne i delstaten Veralsberg
+var i strid med de nævnte regler fordi delstaten i tilfælde af, at man erhvervede em fast ejendom og var forsinket
+med at afgive en påkrævet erklæring, erklærede ejendomshandlen ugyldig med tilbagevirkende kraft.
+Undtagelsen var ikke inddraget i sagen.
+
+                                                            16
+”Artikel 63 berører ikke anvendelsen over for tredjelande af restriktioner, der den 31.
+december 1993 eksisterer i henhold til national lovgivning eller EU-lovgivning med
+hensyn til sådanne kapitalbevægelser til eller fra tredjelande, som vedrører direkte
+investeringer, herunder investering i fast ejendom, etablering, levering af finansielle
+tjenesteydelser eller værdipapirers adgang til kapitalmarkeder. For så vidt angår
+restriktioner, der eksisterer i henhold til national lovgivning i Bulgarien, Estland og
+Ungarn, er den relevante dato den 31. december 1999.”
+
+Der er således tale om en bestemmelse, som tilsvarende sommerhusprotokollen
+indrømmer en undtagelse for national lovgivning, der gælder på et bestemt tidspunkt.
+I modsætning til den danske protokol er der tale om en bestemmelse, som direkte
+findes i traktaten, men da protokollen er en del af traktaten, jf. ovenfor, synes dette
+forhold ikke at have nogen betydning. Koblingen mellem de to undtagelser blev
+tydelig, da EU-Domstolens Store Afdeling, i forbindelse med, at den første gang skulle
+fortolke det, der i dag er art. 64, stk. 1, TEUF, fastslog (C-446/04, FII Group Litigation,
+præmis 190):54
+
+”Som sagsøgerne i hovedsagen, Det Forenede Kongeriges regering og Kommissionen
+har anført, skal der tages udgangspunkt i dom af 1. juni 1999, Konle (sag C-302/97,
+Sml. I, s. 3099), hvor Domstolen skulle fortolke begrebet »gældende lovgivning«, som
+var indeholdt i en undtagelsesbestemmelse i akten vedrørende vilkårene for
+Republikken Østrigs, Republikken Finlands og Kongeriget Sveriges tiltrædelse og
+tilpasningerne af de traktater, der danner grundlag for Den Europæiske Union (EFT
+1994 C 241, s. 21, og EFT 1995 L 1, s. 1), hvorefter Republikken Østrig midlertidigt
+kunne opretholde sin gældende lovgivning om sekundærboliger.”
+
+Herefter fortsatte EU-Domstolen med at gengive flere centrale dele af præmisserne i
+Konle-dommen, herunder Konle-formularen. EU-Domstolen accepterer således, at
+fortolkningen af art. 64, stk. 1, TEUF skal ske efter de principper, som i første omgang
+var udviklet for den østrigske undtagelsesbestemmelse for sommerhuse, og som må
+antages også at styre rækkevidden af den danske sommerhusprotokol. Senere har EU-
+Domstolen gentagne gange bekræftet, at rækkevidden af begrebet ”restriktioner, der
+den 31. december 1993 eksisterer” skal fortolkes efter Konle-formularen. I den
+efterfølgende dom i sag C-157/05, Holböck, henviste EU-Domstolen ligeledes til Konle-
+dommen (præmis 40), mens den i senere domme undlader en sådan henvisning, men
+i stedet henviser til dommene i FII Group Litigation og Holböck, ligesom den stadig
+gengiver ordlyden af Konle-formularen. Det sker i alle de domme, der henvises til i det
+efterfølgende.
+
+54 Flere af de domme, der gennemgås i det følgende, er afsagt, før vi fik TEUF, og vedrørte således art. 57 i EF-
+traktaten. De to bestemmelser er dog enslydende, og derfor henvises der i det følgende konsekvent til art. 64,
+stk. 1, TEUF uanset at sagen vedrørte art. 57 TEF.
+
+                                                            17
+Art. 64, stk. 1, TEUF, omtales ofte som en standstill-klausul. Denne betegnelse dækker
+over, at det alene er national lovgivning opretholdt uafbrudt siden den 31. december
+1993, der undtages. Om den er opretholdt uafbrudt afgøres efter Konle-formularen.
+
+Konsekvensen heraf er, at man kan bruge den praksis, der findes om art. 64, stk. 1,
+TEUF, til at finde yderligere bidrag til at fortolke rækkevidden af den danske
+sommerhusprotokol. De sager, der berører art. 64, stk. 1, TEUF, vedrører ofte
+skatteretlige bestemmelser. Selvom man ikke kan udelukke, at skatteretlige
+bestemmelser giver anledning til nogle andre overvejelser end reguleringen af
+erhvervelse af sommerhuse, så kan man stadig udlede fortolkningsbidrag, der får
+betydning for sommerhusprotokollen.
+
+Sagerne om art. 64, stk. 1, TEUF, er ofte ganske omfattende, og i stedet for at
+gennemgå dommene i deres helhed vil jeg fokusere på de dele af dommene, som
+synes at tilføje til vores forståelse af Konle-formularen.55
+
+            4.3.2. Undtagelser fortolkes strengt
+
+EU-Domstolen fastslår i flere af sine afgørelser, at fordi art. 64, stk. 1, TEUF, er en
+undtagelsesbestemmelse, skal den fortolkes strengt.56 Det betyder, at den skal
+fortolkes indskrænkende, således at den tillader færrest mulige undtagelser fra den
+hovedregel, som traktaten forsøger at fremme. Men det betyder også, at hvis en
+lovgivning undergår ændringer, stilles der strenge krav for at denne kan betragtes som
+den lovgivning der eksisterede den 31. december 1993.57 Dette indikere, at selv små
+ændringer kan betyde, at undtagelsen ikke længere gælder.
+
+            4.3.3. Lempelse eller fjernelse af restriktioner
+
+I sag C-101/05, A, understreger EU-Domstolen, at det er en forudsætning for at
+undtagelsen finder anvendelse, at de restriktioner, der gjaldt per 31. december 1993
+”har udgjort en bestanddel af medlemsstatens retsorden uafbrudt siden denne dato”.58
+I den efterfølgende præmis gengiver EU-Domstolen Konle-formularen, hvoraf følger
+at man godt kan lempe eller fjerne i hindring59 uden at det betyder, at undtagelsen
+ikke længere finder anvendelse. Domstolen understreger dog, at den ikke dermed har
+legitimeret, at man genindfører en hindring for kapitalens fri bevægelighed som
+
+55 For at anvende art. 64, stk. 1, TEUF, skal man både opfylde, hvad EU-Domstolen kalder de materielle kriterier
+(direkte investeringer til og fra tredjelande) og tidsmæssige kriterier (national lov har udgjort en bestanddel af
+national ret siden 31. december 1993). Det er alene de tidsmæssige kriterier, som er interessante i nærværende
+sammenhæng.
+56 Det er helt typisk, at EU-Domstolen insisterer på, at undtagelser i EU-retten, og således ikke alene
+traktatmæssige undtagelser, skal fortolkes strengt.
+57 Jf. sag C-685/16, EV, præmis 81, sag C-135/17, X, præmis 42 samt sag C-641/17, College Pension Plan of British
+Columbia, præmis 98.
+58 Jf. præmis 49.
+59 EU-Domstolen anvender i de danske oversættelser af disse domme ordene hindringer og restriktioner som
+synonyme og veksler mellem de to.
+
+                                                            18
+eksisterede den 31. december 1993 men som man efterfølgende har ophævet. I den
+efterfølgende dom i sag C-384/09, Prunus, præmis 34 gentager EU-Domstolen, at en
+restriktion alene kan nyde godt af undtagelsen i art. 64, stk. 1 TEUF, hvis den har
+udgjort en bestanddel af national ret uafbrudt siden den 31. december 1993. Dernæst
+tilføjes i samme præmis:
+
+”Ellers ville en medlemsstat nemlig på ethvert tidspunkt kunne genindføre restriktioner
+for kapitalbevægelser til og fra tredjelande, som eksisterede i den nationale retsorden
+den 31. december 1993., men som ikke er blevet opretholdt [….].”
+
+Denne pointe er blevet gentaget flere gange i efterfølgende domme.60 Pointen synes
+at være, at man godt kan ændre nationale regler, således at man lemper eller fjerner
+en restriktion, men når det er gjort, kan man ikke genindføre sådanne restriktioner.
+Dermed tilpasses undtagelsesbestemmelsen således, at den alene dækker de
+restriktioner, som hele tiden har været en bestanddel af gældende ret.
+
+            4.3.4. Ændringer der hviler på nye principper eller som indfører nye
+                     procedurer
+
+Mens det efter Konle-formularen er muligt at ændre loven ved at lempe eller fjerne
+restriktioner, er det ikke muligt at opretholde undtagelsen, hvis en medlemsstat
+indfører en ændring, der hviler på andre principper og som indfører nye procedurer.
+EU-Domstolen har i flere afgørelser skullet vurdere, hvornår der er tale om sådanne
+ikke tilladte ændringer samt vurdere, hvad der er konsekvensen heraf.
+
+                4.3.4.1. Hvilke ændringer hviler på nye principper eller indfører nye
+                         procedurer?
+
+EU-Domstolen har i flere afgørelser forholdt sig til, om en ændring af national ret
+indebærer, at denne hviler på andre principper eller indfører nye procedurer. Denne
+praksis giver et indtryk af, hvor store ændringer det kræver at undergå en sådan
+ændring, der ikke vil kunne dækkes af undtagelsen i art. 64, stk. 1, TEUF.
+
+Sag C-541/08, Fokus Invest AG, vedrørte betingelserne for, at et østrigsk selskab hvis
+anparter ejedes af et schweizisk selskab, kunne erhverve fast ejendom beliggende i
+Østrig. Et af de spørgsmål, som EU-Domstolen skulle forholde sig til, var, hvorvidt et
+krav om at man for at erhverve fast ejendom skal indhente en godkendelse (eller
+fremlægge en attest om at betingelser for at opnå godkendelse var opnået) kunne
+opretholdes i henhold til art. 64, stk. 1, TEUF. Den lov, der indeholdt det nævnte
+godkendelseskrav, var blevet ændret i marts 1998, og spørgsmålet var således, om
+disse ændringer hvilede på andre principper eller indførte nye procedurer, hvorfor
+undtagelsen ikke længere kunne påberåbes. Allerede før den 31. december 1993 var
+
+60 Jf. sag C-685/16, EV, præmis 74, sag C-135/17, X, præmis 41, samt sag C-641/17, College Pension Plan of British
+Columbia, præmis 93.
+
+                                                            19
+der krav om, at man skulle indhente en godkendelse, før man erhvervede fast
+ejendom, og allerede dengang omfattede det den situation, hvor erhverver var et
+østrigsk selskab kontrolleret af en udlænding. Ifølge Domstolen var: ”Forskellen
+mellem den tidligere og den nuværende lovgivning er, at den myndighed, som var
+kompetent til at bekræfte, at der forelå en lovmæssig fritagelse for
+godkendelsespligten, tidligere var tinglysningsdommeren, hvorimod denne
+kompetence i dag tilkommer magistraten.”61 Da ændringen i reglerne ”kun består af
+visse fremgangsmåder, der er uden betydning for selve indholdet af den anvendelige
+lovgivning, som er, at udenlandske statsborgere skal indhente en godkendelse for at
+kunne erhverve fast ejendom, og at de har pligt til dokumentere, at betingelserne for
+at opnå en fritagelse herfor er opfyldt. Den gældende lovgivning hviler således ikke på
+andre principper end den tidligere lovgivning og indfører ikke væsentligt nye
+procedurer.”62 Dommen slår således fast, at lovændringer, der indfører uvæsentlige
+ændringer i proceduren, ikke betyder at loven ikke længere omfattes af art. 64, stk. 1,
+TEUF.
+
+Baggrunden for sag C-464/14, SECIL, var at man i Portugal i 1988 havde indført
+skatteregler, hvorefter man ved beskatning af udbytte modtaget fra portugisiske
+selskaber gav et helt eller delvist fradrag for at hindre dobbeltbeskatning. Man
+opnåede imidlertid ikke noget fradrag, når det udbytteudloddende selskab var
+beliggende i et tredjeland. Denne forskelsbehandling af beskatningen af udbytte fra
+selskaber i tredjelandes var i strid med art. 63 TEUF og kunne ikke begrundes efter
+undtagelsen i art. 65 TEUF. Spørgsmålet var derfor, om den portugisiske lovgivning
+kunne undtages efter art. 64, stk. 1, TEUF. Loven var vedtaget før den 31. december
+1993, og den vedrørte direkte investeringer, men spørgsmålet var, om efterfølgende
+ændringer kunne betyde, at undtagelsen ikke længere kunne påberåbes. Man havde
+for det første i Portugal indført muligheden for at indgå
+dobbeltbeskatningsoverenskomster, der lempede dobbeltbeskatningen, ligesom man
+havde indført regler, hvorefter der indrømmes fradrag for udbytte fra selskaber
+beliggende i portugisisksprogede afrikanske lande og i Timor-Leste. I den konkrete sag
+drejede det sig om beskatning af udbytte fra selskaber i Tunesien og Libanon, og EU-
+Domstolen kunne konstatere, at de ordninger, der indrømmede fradrag for udbytte
+fra selskaber beliggende i tredjelande, ikke ændrede på beskatning af udbytte fra
+selskaber i Tunesien og Libanon og dermed ikke påvirkede muligheden for at påberåbe
+art. 64, stk. 1 TEUF.63 Dette må læses sådan, at det forhold, at man lemper de
+restriktive skatteregler for nogle tredjelande, ikke betyder, at undtagelsen bortfalder
+i forhold til andre tredjelande.
+
+61 Jf. præmis 45.
+62 Jf. præmis 48.
+63 Jf. præmis 84.
+
+                                                            20
+Men herefter undersøgte EU-Domstolen om det forhold, at EU havde indgået
+associeringsaftaler med Tunesien og Libanon, kunne forhindre, at man påberåbte sig
+art. 64, stk. 1, TEUF. EU-Domstolen konstaterede, at de to aftaler indeholdt
+bestemmelser som var umiddelbart anvendelige og forhindrede, at man
+forskelsbehandler beskatning af udbytte fra selskaber beliggende i Tunesien og
+Libanon. EU-Domstolen mente, at indgåelsen af en international aftale, såsom en
+associeringsaftale, der har direkte virkning og som liberaliserer de typer
+kapitalbevægelse, der omfattes af art. 64, stk. 1, TEUF, skal ”sidestilles med indførelsen
+af en ny lovgivning, der hviler på andre principper end den eksisterede lovgivning”.64
+
+Dommen betyder, at hvis man indgår en international aftale, der regulerer spørgsmål
+der omfattes af den lovgivning der fandtes per 31. december 1993, så vil undtagelsen
+ikke længere gælde. Det fremgår, at det er nok, at den nye lov hviler på andre
+principper, idet man ikke ydermere skal konstatere, at der indføres nye procedure.
+Konsekvenserne af at man således indfører en ny lovgivning, der hviler på andre
+principper, er ikke helt klart beskrevet i dommen. EU-Domstolen nævner, at de særlige
+fritagelser som 2009-lovændringen åbner op for, ikke har konsekvenser for udbytte
+fra selskaber fra Tunesien og Libanon, idet selskaber fra disse to lande ikke er omfattet
+af 2009-loven. Det tyder på, at effekten af en lempelse i forhold til visse lande ikke
+udelukker at art. 64, stk. 1, TEUF, kan påberåbes i forhold til de udlodninger, som ikke
+lempes. Men EU-Domstolen præciserer ikke, hvad effekten er af, at man indfører en
+international aftale, der hviler på nye principper. Effekten må som minimum være, at
+den lempelse af forskelsbehandlingen, der ligger i at man indfører associeringsaftalen,
+ikke senere kan omgøres, idet EU-Domstolen jo har fastslået, at lempelser har denne
+virkning. Men EU-Domstolen nøjes ikke med at konstatere, at der sker en lempelse,
+idet den ydermere konstaterer, at de nye regler hviler på andre principper. Det rejser
+spørgsmålet om konsekvenserne er mere vidtgående, således at EU-Domstolen
+mener, at man helt fortaber muligheden for at opretholde den diskriminerende
+lovgivning fra 1988. EU-Domstolen synes ikke at forholde sig til spørgsmålet.
+
+I sag C-190/12, Emerging Markets Series of DFA Investment Investment Trust
+Company, drejede det sig om en amerikansk investeringsfond, som i Polen blev
+beskattet med en sats på 15% af det udbytte, den modtog fra selskaber beliggende i
+Polen. Mens investeringsfonde i tredjelande således blev beskattet af det udbytte, de
+modtog fra polske selskaber, var tilsvarende investeringsfonde i Polen fritaget for skat
+på sådanne udbytter. EU-Domstolen konstaterede, at der var en restriktion for
+kapitalens fri bevægelighed, og spørgsmålet var herefter, om Polen kunne påberåbe
+sig art. 64, stk. 1, TEUF. Dette mente EU-Domstolen dog ikke var tilfældet, fordi
+reglerne var ændret grundlæggende i 1997. Per 31. december 1993 blev udbytte
+udloddet til ikke-hjemmehørende investeringsfonde og således som udgangspunkt
+
+64 Jf. præmis 89 og 160.
+
+                                                            21
+beskattet på samme måde som udbytte udloddet til polske fonde. Det var således først
+i 1997, at man indførte regler, der forskelsbehandlede investeringsfonde i tredjelande.
+Loven fra 1997 fraveg principperne i den tidligere lovgivning og indførte en ny
+procedure, og dermed kunne art. 64, stk. 1, TEUF, ikke finde anvendelse.
+
+Sag C-685/16, EV, handlede om regler i den tyske skattelovgivning, der i visse tilfælde
+bestemte, at udbytte modtaget fra selskaber beliggende i tredjelande skulle
+medregnes i det modtagne tyske selskabs resultat. For så vidt angår udbytte fra visse
+selskaber, herunder selskaber hvori der ejes mindst 15 % af kapitalen, var det muligt
+at få fradrag, som gjorde, at udbytteindtægten ikke blev medregnet i det tyske
+selskabs resultat. For så vidt angår udbytte modtaget fra tyske selskaber fik de
+modtagne selskaber altid ret til at fradrage udbytteindtægten. Resultatet var således
+en forskelsbehandling, der udgjorde en restriktion for kapitalens fri bevægelighed
+efter art. 63 TEUF. Spørgsmålet var herefter, om lovgivningen kunne undtages efter
+art. 64, stk. 1, TEUF. EU-Domstolen konstaterede, at man i 2007 havde ændret
+reglerne således at man for at få mulighed for at fradrage det modtagne udbytte (og
+således slippe for den ugunstige beskatning) skulle besidde ikke blot 10 % af kapitalen
+i det udenlandske selskab, men 15 %. Denne ændring af reglerne betød, at færre tyske
+selskaber kunne opnå fradrag og dermed slippe for den ugunstige beskatning, og
+dermed blev fradragsretten indskrænket i forhold til de regler, der gjaldt per 31.
+december 1993.65 Derudover var der også i 2002 gennemført en mere
+gennemgribende ændring, idet udbytte før lovændringen principielt var skattepligtig,
+og efter lovændringen principielt var fritaget for skat. Henset til disse to ændringer
+mente EU-Domstolen ikke, at man kunne sige, at den nationale lovgivning ”i det
+væsentlige er forblevet den samme”.66 Som konsekvens kunne art. 64, stk. 1, TEUF,
+ikke finde anvendelse. EU-Domstolen anvender i denne sag ikke den velkendte formel
+om, at den nye lov hviler på nye principper og indfører nye procedure, men dens
+konklusion synes at indikere, at det er det, der skete i sagen.
+
+EU-Domstolens Store Afdeling skulle i sag C-135/17, X, igen forholde sig til tyske
+skatteregler. Denne gang handlede det om regler, hvorefter tyske selskaber, der havde
+investeret i selskaber beliggende i tredjeland, blev beskattet af overskuddet i det
+udenlandske selskab, såfremt dette kvalificerede til at blive betragtet som et passivt
+selskab. Reglerne for at medregne overskuddet i passive selskaber fandtes allerede
+per 31. december 1993, men oprindelig gjaldt de alene for selskaber, hvori det tyske
+selskab ejede 10 % af kapitalen. Ved en senere ændring blev dette ejerkrav nedsat til
+1 %, således at flere investeringer i udenlandske selskaber blev omfattet af reglen.
+Fordi denne ændring ikke ændrede ved at ’direkte investeringer’ både før og efter
+ændringen var omfattet af reglerne om beskatning af overskuddet af passive
+
+65 Jf. præmis 76-78.
+66 Jf. præmis 82.
+
+                                                            22
+selskaber, mente EU-Domstolen, at denne ændring betød, at art. 64, stk. 1, TEUF, ikke
+påvirkede mulighederne for at påberåbe art. 64, stk. 1, TEUF. Denne fortolkning er
+oplagt knyttet til det forhold, at undtagelsen i art. 64, stk. 1, TEUF, alene er knyttet til
+direkte investeringer, og dermed kan den ikke antages at bidrage til forståelsen af
+Konle-formularen i relation til sommerhusprotokollen.
+
+Endelig var de tyske skatteregler genstand for endnu en afgørelse i sag C-641/17,
+College Pension Plan of British Columbia. I denne sag handlede det om beskatningen
+af udbytte udloddet af selskaber hjemmehørende i Tyskland til en pensionsfond. Hvis
+pensionsfonden var tysk (og således hjemmehørende), blev udbyttet nok pålagt en
+kildeskat, men denne kildeskat blev modregnet i den selskabsskat, som fonden skulle
+betale. Pensionsfonde, der er beliggende i udlandet, pålægges en kildeskat, der for en
+sådan fond udgør den endelige beskatning. Denne lovgivning udgjorde en
+overtrædelse af reglerne om kapitalens fri bevægelighed i art. 63 TEUF. I sagen var der
+tale om en canadisk pensionsfond, og spørgsmålet var derfor, om
+forskelsbehandlingen kunne være omfattet af art. 64, stk. 1, TEUF. Før den 31.
+december 1993 var der ikke særlige regler for pensionsfonde, og derfor gjorde det
+canadiske selskab gældende, at man ikke kunne påberåbe sig art. 64, stk. 1, TEUF. EU-
+Domstolen valgte i denne sag at overlade det til den nationale domstol at vurdere, om
+de ændringer, der var gennemført efter den 31. december 1993, betød, at
+situationerne for ikke-hjemmehørende pensionsfonde var blevet mindre fordelagtige
+i forhold til den situation, som hjemmehørende pensionsfonde befinder sig i for så vidt
+angår beskatningen af udbytte. EU-Domstolen understregede dog at begrebet
+’eksisterer’ i art. 64, stk. 1, TEUF, skal fortolkes strengt.67 Dommen synes således at
+forudsætte, at en lovgivning hviler på nye principper hvis den forskelsbehandling, der
+sker af ikke-hjemmehørende, bliver mere udpræget.
+
+                4.3.4.2. Konsekvensen af at indføre nye principper og nye
+                         procedurer
+
+Hvis national lovgivning ændres i et omfang, hvor den hviler på nye principper eller
+indfører nye procedurer, er konsekvensen, at lovændringen ikke længere dækkes af
+undtagelsen i art. 64, stk. 1 TEUF. Det betyder som minimum, at de indførte ændringer
+ikke omfattes af undtagelsen og derfor kan tilsidesættes, hvis de er i strid med art. 63
+TEUF ff. Men spørgsmålet er, om det har den mere vidtgående konsekvens, at
+medlemsstaten ikke længere kan påberåbe sig art. 64, stk. 1, TEUF og således heller
+ikke kan opretholde de regler, der gjaldt per 31. december 1993?
+
+EU-Domstolen har forholdt sig til det forhold, at en medlemsstat vælger at ophæve
+den lovgivning der eksisterede per 31. december 1993, idet den herefter ikke kan
+støtte ret på art. 64, stk. 1, TEUF, hvis den forsøger at genindføre den oprindelige
+
+67 Jf. præmis 98.
+
+                                                            23
+lovgivning. Efter at have beskrevet at art. 64, stk. 1, TEUF, giver mulighed for at
+opretholde restriktioner, der gjaldt per 31. december 1993, fortsatte EU-Domstolen i
+sag C-464/14, SECIL, præmis 87:68
+
+”En medlemsstat giver afkald på denne mulighed, når den ophæver de bestemmelser,
+som indførte den pågældende restriktion. Således omfatter artikel 64, stk. 1, TEUF ikke
+bestemmelser, som, selv om de i det væsentlige er identiske med en lovgivning, som
+eksisterede den 31. december 1993, har genindført en hindring for de frie
+kapitalbevægelser, som efter ophævelsen af den tidligere lovgivning ikke længere
+eksisterede […].”
+
+Dermed havde EU-Domstolen ikke forholdt sig udtrykkeligt til, hvad der gælder, når
+man vedtager en ny lovgivning, der hviler på andre principper eller indfører en ny
+procedure. Det blev dog afklaret af den Store Afdeling i sag C-135/17, X.
+
+Som nævnt ovenfor vedrørte dommen de tyske regler om beskatning af det overskud,
+der er oppebåret i passive selskaber. Som nævnt mente EU-Domstolen ikke, at en
+lovændring, der udvidede reglerne om beskatning af passive selskaber fra de selskaber
+hvori tyske selskaber ejer 10 % til kun 1 %, udelukkede anvendelsen af art. 64, stk. 1,
+TEUF. Men det fremgik af forelæggelsen, at der i 2000 var gennemført en lovændring
+(StSenkG 2000), som enten ophævede de regler, der gjaldt per 31. december 1993
+eller dog ændrede de principper, denne lovgivning hvilede på. Der var således tvivl om,
+hvad lovændringen gik ud på, men EU-Domstolen var ikke i tvivl om at det var en
+væsentlig ændring af de regler, der gjaldt per 31. december 1993. Det var ydermere
+tvivlsomt, om den nye lov var nået at træde i kraft, idet der var indikationer for, at man
+havde udsat 2000-lovens ikrafttræden indtil en ny lov fra 2002 indførte regler, der i
+det væsentlige var identiske med de regler der gjaldt før den 31. december 1993. I det
+tilfælde at 2001-ændringen aldrig var trådt i kraft fandt art. 64, stk. 1, TEUF fortsat
+anvendelse på de regler, der gjaldt per 31. december 1993 (og fortsat gjaldt). Herefter
+fortsatte EU-Domstolen (præmis 49):
+
+”Såfremt den forelæggende ret derimod måtte konstatere, at bestemmelserne i
+StSenkG 2000 fandt anvendelse fra denne lovs ikrafttræden, må det fastslås, at
+vedtagelsen af denne lov har afbrudt den i hovedsagen omhandlede restriktions
+fortsatte beståen, en afbrydelse, som skal føre til, at anvendelsen af artikel 64 stk. 1,
+TEUF udelukkes.”
+
+Denne præmis sammenholdt med de forudgående præmisser må mest oplagt læses
+sådan, at hvis man har indført en lovgivning som væsentligt ændrer de principper, den
+oprindelige lov hviler på, kan man ikke længere påberåbe sig art. 64, stk. 1, TEUF,
+selvom man vender tilbage til den lovgivning, der gjaldt per 31. december 1993.
+
+68 EU-Domstolen udtrykte samme i sag C-101/05, A, præmis 49.
+
+                                                            24
+Omend EU-Domstolen ikke siger det samme om nye regler, der indfører en ny
+procedure, synes det at være nærliggende, at det samme gælder i dette tilfælde.
+
+Dommen er også interessant, fordi den indikerer, at det er nok, at man ændrer de
+principper, loven hviler på. Det er således ikke et krav, at man både skal ændre
+principper og indføre nye procedurer for at man falder uden for undtagelsen. Konle-
+formularen angiver, at det sker, når en ny lovgivning hviler på nye principper og
+indfører nye procedure, men dette ’og’ skal rettelig læses som et ’eller’.
+
+      4.4. Andre sager om standstill-klausuler
+
+Der findes i EU-retten mange eksempler på, at man har tilladt medlemsstaterne (i en
+periode) at fastholde nationale regler, der gælder på et bestemt tidspunkt. I et enkelt
+eksempel har EU-Domstolen anvendt Konle-formularen for at vurdere, om den
+nationale lovgivning var bibeholdt eller ændret siden.
+
+I sag C-460/07, Puffer, skulle EU-Domstolen forholde sig til art. 17, stk. 6 i sjette
+momsdirektiv som ændret ved direktiv 95/7/EF, som bestemte at medlemsstaterne
+kan bibeholde de nationale regler, de havde på det tidspunkt direktivændringen trådte
+i kraft, og som gør undtagelser for retten til at fradrage indgående moms. Denne
+mulighed ville dog bortfalde, når Rådet senest fire år efter ændringsdirektivets
+ikrafttræden havde fastsat, hvilke udgifter der ikke giver ret til fradrag i momsen. Et af
+de spørgsmål, som EU-Domstolen besvarede i dommen, var, om denne
+undtagelsesbestemmelse kunne omfatte en national lovgivning, der var undergået
+visse ændringer efter ændringsdirektivet var trådt i kraft i den pågældende
+medlemsstat. EU-Domstolen gengav Konle-formularen, hvorefter en ændring af
+national ret ikke nødvendigvis betyder, at undtagelsen ikke finder anvendelse.69 Hvis
+man efter skæringsdatoen udvider undtagelserne og således tilføjer udgifter, som ikke
+giver ret til fradrag af momsen, vil det dog ikke være tilladt.70 I den konkrete sag var
+behandlingen af fradrag for momsen for bygninger, der anvendes til blandede formål,
+oprindelig sådan at man alene indrømmede fradrag for momsen på den del af
+bygningen der benyttes til erhvervsmæssigt formål, og ikke den del, der anvendes til
+private boligformål. Man havde i 1997 ændret lovgivningen således, at ejendomme
+med blandet anvendelse i det hele henføres til virksomheden. Herefter var
+udgangspunktet at man kunne fradrage alle udgifter. Samtidig indførte man dog regler
+om, at anvendelsen af en del af en bygning til private boligformål udgjorde en afgiftsfri
+transaktion, der udelukker muligheden for at foretage fradrag. Derfor synes reglerne
+stadig kun at tillade et delvist fradrag for bygninger, der anvendes til blandede formål.
+Ikke desto mindre konkluderede EU-Domstolen (præmis 93):
+
+69 Jf. præmis 85 og 87. EU-Domstolen henviser herved til at den anvender en analogi af den ovenfor omtalte
+sag C-157/05, Holböck. Den refererer derimod ikke til Konle-dommen.
+70 Jf. præmis 86.
+
+                                                            25
+”Det skal i denne forbindelse fastslås, at selv om det ikke kan udelukkes, at der med
+den gamle og den nye lovgivning i det væsentlige opnås samme resultater, hviler de
+imidlertid på forskellige principper, og de har indført nye procedurer, hvilket bevirker,
+at den senere lovgivning ikke kan betragtes som lovgivning, der var gældende på den
+dato, hvor sjette direktiv trådte i kraft.”
+
+Denne præmis indikerer, at hvis en lovgivning er baseret på andre principper så vil
+undtagelsen ikke længere kunne anvendes, uanset om den nye lovgivning i det
+væsentlige bibringer det samme resultat som den oprindelige lovgivning. Hvis en lov
+baserer sig på andre principper, bortfalder undtagelsen uanset om der indføres nye
+begrænsninger som er i strid med EU-retten eller ej.
+
+EU-Domstolen forholdt sig også til, hvad konsekvensen heraf var for andre dele af
+national lov, som ikke var undergået ændringer. Hertil bemærkede EU-Domstolen, at
+hvis andre dele af national ret ikke kan anvendes uafhængigt af den bestemmelse, som
+ikke længere er undtagen, fordi den er ændret, så vil undtagelsen heller ikke længere
+gælde for disse andre regler.71 Dermed er det klart, at undtagelsen ophøre for den
+bestemmelse, der er ændret og de øvrige dele af national lov som alene kan anvendes
+sammen med den ændrede bestemmelse.
+
+Herudover er der en del domme, som vedrører klausuler, der skal sikre at
+medlemsstater ikke vedtager nye foranstaltninger, der har til formål at indføre mere
+restriktive vilkår end dem, der eksisterede før disse standstill-klausuler trådte i kraft.
+Det omfatter overgangsregler indført i forbindelse med tiltrædelsen af nye
+medlemsstater72 samt forpligtelser til ikke at indføre nye restriktioner efter indgåelse
+af associeringsaftaler.73 Selvom disse domme har visse lighedspunkter med den
+problemstilling, der behandles her i notatet, inddrages disse domme ikke. For det
+første gentager disse domme ikke Konle-formularen, hvilket gør det mindre oplagt, at
+der er tale om den samme test. Desuden fokuserer Konle-formularen på, hvornår der
+foreligger mere væsentlige ændringer, og det forudsætter ikke nødvendigvis, at der er
+tale om at der indføres nye restriktioner. Som det fremgår af sag C-460/07, Puffer, kan
+en lovgivning godt udgøre en væsentlig ændring, uden at den indfører nye
+restriktioner.
+
+    5. Sammenfattende om protokollens rækkevidde og mulighederne for at
+        skærpe den danske praksis
+
+Det fremgår af gennemgangen i afsnit 4, at det i sidste instans er de danske domstole,
+der skal afgøre, om en ændring af de danske regler om erhvervelse af sommerhuse
+
+71 Jf. præmis 96.
+72 Jf. sag C-546/06, Kommissionen mod Tyskland.
+73 Jf. eksempelvis sag C-37/98, Savas, sag C-242/06, Sahin og sag C-561/14, Genc.
+
+                                                            26
+har den effekt, at sommerhusprotokollen falder bort, men EU-Domstolen har udstedt
+en række retningslinjer for, hvordan dette skal vurderes. Disse retningslinjer er
+bindende for de nationale domstole, når de skal foretage deres vurdering. Da vi endnu
+ikke har danske domme, der behandler spørgsmålet, er den følgende analyse baseret
+på de retningslinjer EU-Domstolen har udstedt.
+
+I det følgende vil det således blive vurderet, i hvilket omfang disse retningslinjer vil
+tillade en ændring af den danske praksis om indrømmelse af dispensation til
+erhvervelse af danske sommerhuse. Ifølge opdraget er fokus på mulighederne for at
+skærpe kontrollen med ansøgernes oplysninger samt på anden måde skærpe
+sagsbehandlingen. Sidstnævnte synes at kunne dække over, at man ændrer kriterierne
+for at indrømme dispensation til udlændinges erhvervelse af sommerhus, eller at man
+laver ændringer i den procedure, der gælder for at indrømme dispensation.
+
+      5.1. Skæringsdatoen den 1. november 1993
+
+For det første må det konstateres at sommerhusprotokollen tillader, at Danmark
+beholder de regler, der gjaldt per 1. november 1993. Det betyder, at udviklingen af
+dansk ret før denne dato ikke har nogen betydning for protokollens rækkevidde.
+Selvom praksis måtte have været mere restriktivt forud for den nævnte dato, eller
+selvom Erhvervelsesloven fra 1959 kunne fortolkes mere restriktivt, så vil det ikke
+kunne rummes inden for protokollen.
+
+      5.2. Lempelser i de danske regler
+
+Hvis man efter den 1. november 1993 har lempet på praksis for at indrømme
+dispensation til erhvervelse af sommerhuse, vil dette betyde, at man ikke
+efterfølgende kan genindføre en strammere praksis, som svarer til den, der gjaldt per
+1. november 1993. Med sådanne lempelser indskrænkes protokollens rækkevidde. Jeg
+har ikke analyseret, om der er sket en sådan udvikling i praksis.
+
+Det er muligt fremadrettet at lempe dispensationspraksis, uden at dette betyder, at
+protokollen falder bort, idet det dog som nævnt vil have som konsekvens, at sådanne
+lempelser ikke senere kan omgøres. Dette kunne ske ved, at man slækker på
+kontrollen af ansøgernes oplysninger, eller man slækker på nogle af de
+tilknytningskrav, som kræves efter den nuværende praksis. Det er dog ikke denne
+mulighed, som opdraget fokuserer på, idet det tværtimod fokuserer på mulighederne
+for at skærpe kontrollen eller sagsbehandlingen.
+
+      5.3. Ændringer der falder uden for Konle-formularen
+
+En sådan skærpelse kan indebære, at en ny praksis eller lovgivning hviler på andre
+principper og indfører nye procedurer. De fleste af de domme, hvori EU-Domstolen
+konstaterede, at en lovgivning hviler på nye principper og indfører nye procedurer,
+omhandler temmelig vidtgående ændringer af loven. Det rejser spørgsmålet om,
+
+                                                            27
+hvorvidt mere begrænsede ændringer, såsom eksempelvis en skærpet praksis, der
+stadig tager udgangspunkt i den samme lovgivning, også falder uden for protokollen?
+Med andre ord skal det overvejes, om der måske er ændringer som ikke er omfattende
+nok til at hvile på nye principper og indføre nye procedurer, og som derfor måske ikke
+falder uden for protokollen.
+
+EU-Domstolen Konle-formular sondrer mellem en ændring af loven som enten kan
+være en status quo (eller lempelse) eller en ændring, der hviler på andre principper og
+indfører nye procedurer. Det er ikke klart om der er nogen ændringer ind imellem disse
+to typer ændringer og hvordan sådanne ændringer i givet fald påvirker undtagelsen.
+Men selvom dette ikke er klart ud fra Konle-formularen, er der i andre dele af EU-
+Domstolens praksis indikationer på, hvordan man skal forholde sig til dette spørgsmål.
+EU-Domstolen har således understreget, at undtagelsesbestemmelser skal fortolkes
+strengt, således at det ikke kræver store ændringer, før undtagelsen bortfalder, jf.
+afsnit 4.3.2. På baggrund af sag C-464/14, SECIL, og sag C-135/17, X, må det antages at
+der ikke behøves at indgå både nye principper og nye procedurer, for at der er tale om
+en ændring, der falder uden for undtagelsen, idet en af delene er nok, jf. afsnit 4.3.4.2.
+Hvis en lovgivning hviler på andre principper, vil der være tale om en ændring, der går
+ud over hvad Konle-formularen tillader, selvom loven måske i praksis fungerer som
+før, eller selvom loven måske lemper de eksisterende regler.74 Der er også flere
+domme, hvor EU-Domstolen indikerer, at nye eller skærpede restriktioner vil betyde
+at undtagelsen ikke længere kan påberåbes.75 Alle disse domme tyder således på, at
+en bred vifte af ændringer vil gå videre end Konle-formularen tillader, og således har
+konsekvenser for sommerhusprotokollen.
+
+Der er alene to domme, der indikerer, at der kan være visse ændringer, som ikke
+medfører at gældende lov er ændret i tilstrækkelig grad til at gøre undtagelsen
+uanvendelig. Således har EU-Domstolen i sag C-541/08, Fokus Invest AG, antaget, at
+en ændring der ikke medfører væsentlige ændringer i en procedure, er acceptabel.76
+Der var dog i denne sag tale om helt formelle ændringer i form af, at det var en anden
+myndighed der stod for proceduren, som i øvrigt ikke var ændret. Dernæst har EU-
+Domstolen i sag C-300/01, Salzmann, indikeret, at der skal være tale om
+betydningsfulde ændringer, for at undtagelsen falder uden for Konle-formularen.77
+Ordet ’betydningsfulde’ kunne indikere, at EU-Domstolen er parat til at acceptere visse
+ændringer, uden at undtagelsen bortfalder. Men der er tale om en i denne
+
+74 Jf. henholdsvis sag C-460/07, Puffer, omtalt i afsnit 4.4, og sag C-464/14, SECIL, omtalt 4.3.4.1.
+75 Jf. sag C-302/97, Konle, præmis 53, sag C-685/16, EV, præmis 76-78 og sag C-641/17, College Pension Plan of
+British Columbia, præmis 97.
+76 Sagen er omtalt ovenfor afsnit 4.3.4.1.
+77 Jf. således præmis 56, hvor EU-Domstolen ’instruerer’ i, hvordan den nationale domstol skal vurdere, om en
+lovændring er tilladt inden for den østrigske undtagelse. Dommen er gennemgået i afsnit 4.2.2.
+
+                                                            28
+sammenhæng ældre dom, og de nyere domme peger mod, at man alene vil acceptere
+mindre ikke-væsentlige ændringer.
+
+Retspraksis må læses således, at enhver skærpelse af national lovgivning vil være
+udtryk for en ændring af loven, der gør, at protokollen ikke længere dækker denne.
+Det gælder også, selvom man ikke laver større lovændringer, men alene justerer dele
+af de eksisterende regler eller justerer praksis.78 Det er alene ændringer, som er ikke-
+væsentlige, og som ikke ændrer substansen i national ret, som vi med sikkerhed kan
+sige, kan rummes inden for Konle-formularen.
+
+      5.4. Særligt om muligheden for at skærpe dansk ret
+
+På denne baggrund skal det undersøges, om man kan ændre dansk praksis. Hensigten
+med at skærpe kontrollen af oplysninger eller sagsbehandlingen synes at være at
+nedbringe antallet af ansøgere. Denne hensigt gør, at det er meget oplagt, at
+ændringerne er udtryk for nye eller skærpede restriktioner, og allerede derfor er det
+nærliggende at antage at sommerhusprotokollen ikke kan rumme sådanne ændringer.
+
+Hvis man mere specifikt ser på mulighederne for at skærpe kontrollen med
+ansøgningerne, kan man ikke udelukke, at en sådan skærpelse under visse
+omstændigheder kan rummes indenfor protokollen, idet man kan argumentere for, at
+det sker for at sikre, at dispensationspraksis ikke omgås ved at give forkerte
+oplysninger. Men det skal erindres, at man allerede i 2020 har skærpet kontrollen, og
+erfaringerne med denne skærpelse var, at den yderligere kontrol kun havde betydning
+i enkelte tilfælde.79 De hidtidige erfaringer med en skærpet kontrol kan således ikke
+begrunde en (endnu) mere intensiv kontrol, og det er således nærliggende, at sigtet
+med en øget kontrol vil være at begrænse antallet af ansøgere, og dermed gøre de
+danske regler mere restriktive. Dermed vil en sådan skærpelse mest oplagt falde uden
+for protokollen. Det ville måske forholde sig anderledes, hvis kontrolindsatsen
+skærpes på baggrund af, at man har konstateret, at flere ansøgere har oplyst urigtige
+forhold og således har fået dispensation på forkert grundlag.
+
+En ændring af de betingelser, der gælder for at opnå dispensation, således at færre
+tildeles dispensation, vil også udgøre en skærpet praksis og dermed falde uden for
+protokollen.80 Det kan ikke udelukkes, at man inden for sommerhusprotokollen kan
+lave visse mindre tilpasninger af selve proceduren for at indrømme dispensation, men
+
+78 Såvel Kammeradvokaten som Justitsministeriet har tidligere udtalt sig på linje hermed. Således konkluderede
+Kammeradvokaten også i et tidligere notat, at selv ganske små ændringer i national lovgivning kan være nok til,
+at man ikke længere kan siges at opretholde ”gældende lovgivning”, jf. Redegørelse for Planlovens § 41 og
+Sommerhusprotokollen, notat dateret 20/10/2004, s. 49. I skrivelse dateret 12/03/2020 til Europaudvalget
+anfører Justitsministeriet at det ikke er muligt inden for rammerne af sommerhusprotokollen ved retningslinjer
+eller kriterier eller på anden måde at skærpe betingelserne for at få en tilladelse.
+79 Se hertil ovenfor afsnit 2.2.
+80 Således også Justitsministeriet i skrivelse dateret 12/03/2020 til Europaudvalget.
+
+                                                            29
+det forudsætter, at der er tale om ikke-væsentlige ændringer, såsom da man flyttede
+dispensationskompetencen fra Justitsministeriet til Civilstyrelsen. Men sådanne
+ændringer vil ikke medføre nogen skærpelse af dispensationspraksis og vil derfor ikke
+være egnet til at påvirke antallet af dispensationer. Hvis ændringer i proceduren har
+sådanne konsekvenser, er der tale om ændringer, der rækker ud over hvad Konle-
+formularen tillader.
+
+Desudenr må det være klart, at en ændring af eksempelvis bopælskravet i
+Erhvervelsesloven fra 1959, som indebærer at færre vil være umiddelbart berettiget
+til at erhverve sommerhuse, og dermed at flere var henvist til at søge dispensation,
+ville være udtryk for en skærpelse af de danske regler og vil dermed falde uden for
+protokollen.
+
+Udover ovennævnte ændringer er det klart, at mere radikale ændringer af det
+nuværende system for dispensation vil kunne være udtryk for en lovgivning, der hviler
+på andre principper eller indfører nye procedurer, hvorved en sådan reform vil betyde,
+at protokollen ikke længere kan påberåbes.
+
+Sammenfattende må det således konstateres, at enhver ændring af de eksisterende
+regler som sker med henblik på at begrænse antallet af dispensationer, skal
+bedømmes som en skærpelse i forhold til den nuværende praksis og dermed ikke være
+beskyttet af sommerhusprotokollen.
+
+      5.5. Konsekvenserne af en ændring uden for Konle-formularen
+
+Slutteligt skal det overvejes, hvad der vil være konsekvenserne af, at man gennemfører
+en ændring, der ligger uden for de ændringer, der er tilladt efter Konle-formularen.
+Som minimum vil en sådan ændring ikke være dækket af sommerhusprotokollen, og
+det skal derfor vurderes, om den er udtryk for en restriktion i strid med traktatens
+regler.81 Men spørgsmålet er, om man risikerer, at hele sommerhusprotokollen
+bortfalder og man derfor mister muligheden for at vende tilbage til de regler, der gjaldt
+før national ret blev ændret. Konsekvensen vil i så fald være, at dansk ret i sin helhed
+skal indrettet efter de almindelige EU-retlige regler, jf. herved ovenfor afsnit 3.
+
+Selvom EU-Domstolen i sag C-302/97, Konle, fastslog, at den østrigske lovgiver havde
+ændret reglerne således, at de hvilede på nye principper og nye procedurer, så
+accepterede EU-Domstolen tilsyneladende i senere sager, at Østrig påberåbte
+undtagelsen i tiltrædelsesaktens art. 70 – både i forhold til samme delstats og andre
+delstaters lovgivning. Men EU-Domstolen forholdt sig ikke specifikt til spørgsmålet, og
+
+81 Hvis man laver en ændring af de danske regler, der går ud over de ændringer, der er tilladt efter Konle-
+formularen, er konsekvensen også, at man ikke længere kan påberåbe sig art. 64, stk. 1, TEUF, i det omfang de
+danske regler begrænser kapitalens fri bevægelighed.
+
+                                                            30
+derfor er det tvivlsomt, om disse domme kan læses som udtryk for, at undtagelsen
+består, selvom der er sket sådanne ændringer.
+
+Retstilstanden synes dog at være blevet præciseret ved Store Afdelings dom i sag C-
+135/17, X, idet det her indikeres, at konsekvensen af en sådan ændring er, at
+undtagelsen ikke længere kan påberåbes. Man kan overveje, om konsekvensen af
+sådanne ændringer er forskellige for sommerhusprotokollen og art. 64, stk. 1, TEUF,
+men der er intet holdepunkt for, at det skulle være tilfældet. Derfor må det betragtes
+som mest nærliggende at hvis der gennemføres en ny lov, der er baseret på andre
+principper eller indfører nye procedurer, så er konsekvensen, at
+sommerhusprotokollen bortfalder i sin helhed, og dansk ret må herefter respektere
+de almindelige EU-retlige regler.
+
+Men spørgsmålet er, om en mindre ændring, såsom en justering af
+dispensationspraksis eller en øget kontrol af ansøgningerne, vil have denne effekt. I
+dette tilfælde er der nok tale om, at man skærper de eksisterende regler, men man
+indfører måske ikke en ny lov, der hviler på nye principper eller indfører nye
+procedurer. Man kan sige, at i denne situation er det ikke nødvendigt at se bort fra
+loven i sin helhed, idet det kunne være nok, at man blot tilsidesatte de skærpelser, der
+er i strid med EU-retten. Man kan dog heroverfor indvende, at sommerhusprotokollen
+og art. 64, stk. 1, TEUF, er udtryk for at man kan bibeholde national ret, men så snart
+man føler behov for at ændre dele af loven (og man ikke lemper loven), så ophører
+undtagelsen, og man må nu indrette sig på at følge de almindelige EU-retlige regler. I
+dette tilfælde er det således ikke så meget et spørgsmål om, hvorvidt det er muligt at
+skrue tiden tilbage til før ændringen, men mere et spørgsmål om, at man så snart, man
+vil lave ændringer (som ikke er lempelser), må acceptere, at man nu fuldt ud må
+indrette sig efter EU-retten. Når Konle-formularen tillader lempelser, er det fordi,
+dette bidrager til at flytte national ret tættere på EU-rettens udgangspunkt.
+Synspunktet betyder i sin yderste konsekvens, at enhver ændring, der ikke er en
+lempelse, vil føre til undtagelsens bortfald, også selvom denne ændring ikke udgør en
+skærpelse, der i sig selv er i strid med EU-retten.
+
+Der er to sager der antyder, at selvom man laver mere vidtrækkende ændringer,
+behøver det ikke ramme hele den nationale lovgivning, der dækkes af undtagelsen.
+
+Dommen i sag C-460/07, Puffer, indikerer at selvom man ændrer en regel, der laver en
+undtagelse fra reglerne om momsfradrag, kan andre undtagelser stadig opretholdes,
+hvis de kan fungere uafhængigt af den bestemmelse, som er ændret. Men i denne sag
+var der tale om at medlemsstaterne havde fået lov at opretholde flere undtagelser, og
+derfor var det muligt at behandle de enkelte undtagelser hver for sig (hvis de ikke var
+afhængige af hinanden). I sommerhusprotokollen gøres der en undtagelse for den
+gældende lovgivning om erhvervelse af ejendomme, der ikke er helårsboliger, og
+
+                                                            31
+dermed synes lovgivningen at ses som en helhed. Hvis man dermed ændrer nogle
+elementer i dispensationsadgangen, vil det kunne få betydning for protokollens
+virkning for hele det regelsæt, der regulerer erhvervelse af sommerhuse.
+
+I sag C-464/14, SECIL, accepterede EU-Domstolen, at det forhold at man lempede
+forskelsbehandlingen af selskaber i nogle lande (bl.a. portugisisksprogede afrikanske
+lande), ikke påvirkede muligheden for at påberåbe undtagelsen i forhold til andre
+lande. Men her var der tale om en lempelse, hvilket er tilladt efter Konle-formularen,
+og således er dette resultat ikke overraskende. Den lempelse, der sker i forhold til
+Tunesien og Libanon, synes EU-Domstolen at betragte det som mere end blot en
+lempelse, idet den understreger at associeringsaftalerne hviler på andre principper.
+Det fremgår ikke klart af dommen, om det betyder, at ændringen har som konsekvens,
+at undtagelsen ikke længere kan anvendes.
+
+Ingen af de nævnte domme synes derfor at give belæg for at konkludere, at
+konsekvensen af at ændre dansk ret – ud over hvad Konle-formularen tillader - giver
+mulighed for at genindføre eller opretholde hele eller dele af de danske særregler om
+erhvervelse af sommerhuse. Om det kan ske, vil afhænge af om reglerne er i
+overensstemmelse med de almindelige EU-retlige regler.
+
+Selvom der er en vis tvivl om, hvad konsekvenserne er af at skærpe praksis, så synes
+den fortolkning hvorefter det indebærer, at undtagelsen i sin helhed bortfalder, at
+være den mest nærliggende bedømt ud fra den foreliggende retspraksis. Som nævnt
+ovenfor synes EU-Domstolen ikke at sondre mellem lovændringer, der skærper
+hindringer (og som stadig ikke omfattes af protokollen) og ændringer, som er mere
+radikale og hviler på nye principper og indfører nye procedurer. Begge typer ændringer
+falder uden for undtagelsen, og derfor har de mest oplagt også samme konsekvenser
+for undtagelsen fremadrettet.
+
+På denne baggrund er det endnu vigtigere, at man er tilbageholdende med at lave
+praksisændringer, som er udtryk for en skærpelse af de danske dispensationsregler.
+
+    6. Konklusioner
+
+Notatets konklusioner kan sammenfattes således:
+
+    a. Som sommerhusprotokollen er formuleret har det ingen betydning at man før
+        den 1. november 1993 har haft mere restriktive regler for udlændinges
+        erhvervelse af sommerhuse, idet forbeholdet ikke giver mulighed for at indføre
+        regler, der er skærpet i forhold til dem, der var gældende per 1. november 1993.
+
+                                                            32
+    b. Hvis man efter den 1. november 1993 har lempet på kravene til udlændinges
+        erhvervelse af sommerhuse, er der ikke mulighed for at ’omgøre’ sådanne
+        lempelser og vende tilbage til retsstillingen per 1. november 1993.
+
+    c. Hvis man ændrer på reglerne på en måde, der ikke indebærer en bevarelse af
+        status quo eller en lempelse i forhold til den gældende praksis vil dette
+        nærliggende have som konsekvens at man ikke længere ’opretholder gældende
+        lovgivning’ og derved vil ændringen ikke være dækket af undtagelsen i
+        sommerhusprotokollen. Det gælder alle ændringer, bortset fra dem som er
+        uvæsentlige, og vil således også kunne omfatte ændringer, der består i en
+        praksisændring. Hvis hensigten er at ændre kontrollen af ansøgers oplysninger
+        eller skærpe sagsbehandlingen med henblik på at færre opnår dispensation, vil
+        der mest nærliggende være tale om en ændring, der afviger fra ’gældende
+        lovgivning’, og dermed falder uden for undtagelsen i sommerhusprotokollen.
+
+    d. Konsekvenserne af at gennemføre en ændring der i overensstemmelse med
+        ovennævnte ændrer gældende lovgivning, er forbunden med en vis usikkerhed,
+        men mest oplagt vil konsekvensen være, at sommerhusprotokollen bortfalder
+        i sin helhed. Dermed eksisterer der ikke længere en særlig undtagelse for
+        erhvervelse af sommerhuse i Danmark, idet man også vil have fortabt
+        muligheden for at påberåbe sig art. 64, stk. 1, TEUF.
+
+Aarhus, 12. april 2023
+Karsten Engsig Sørensen
+Professor, dr. jur., Juridisk Institut, Aarhus Universitet
+
+                                                            33
+

@@ -1,0 +1,68 @@
+Folketingets Lovsekretariat                                                       Klima-, Energi- og Forsyningsudvalget 2023-24
+Christiansborg                                                                                                                       Offentligt
+1240 København K
+                                                                                                 Ministeren
+                                                                                                 Dato
+                                                                                                 31. januar 2024
+                                                                                                 J nr. 2024-507
+
+Folketingsmedlem Marlene Harpsøe (DD) har d. 25. januar 2024 stillet mig føl-
+gende spørgsmål S 462, som jeg hermed skal besvare.
+
+Spørgsmål nr. S 462:
+"Hvad er ministerens holdning til, at borgere ikke kan få telefonisk forbindelse
+til Region Hovedstadens akuttelefon 1813, hvis de ringer fra et område, hvor
+mobiltelefonen går på en svensk telemast, og hvad agter ministeren at gøre
+for at løse problemet?"
+
+Svar
+Jeg har forelagt spørgsmålet for Styrelsen for Dataforsyning og Infrastruktur
+(SDFI), der har ansvaret for telefonabonnenters rettigheder.
+
+SDFI er bekendt med, at man visse steder på den nordsjællandske kyst kan op-
+leve, at mobiltelefonen kobler sig på det svenske mobilnet i stedet for det danske.
+Forklaringen er, at der enkelte steder er bedre dækning fra et svensk mobilnet på
+den anden side af Øresund end fra éns egen teleudbyders mobilnetværk.
+
+Dette har en særlig uheldig konsekvens, hvis man ringer 1813, idet det ikke er mu-
+ligt at komme igennem til 1813, hvis kaldet kommer fra et udenlandsk mobilnet.
+
+Akuttelefon på nummeret 1813 er en dansk ordning i modsætning til det fælleseu-       Klima-, Energi- og
+ropæiske alarmnummer 112. Det følger af EU-lovgivningen, at medlemsstaterne           Forsyningsministeriet
+skal sørge for, at 112-kald dirigeres til den mest passende alarmcentral. Da 1813 er
+en dansk ordning er der ikke samme forpligtelse for svenske myndigheder og tele-      Holmens Kanal 20
+selskaber til at sikre, at 1813-kald dirigeres tilbage til Danmark.                   1060 København K
+
+En løsning kunne være at ændre det firecifrede nummer 1813, der kun anvendes i        T: +45 3392 2809
+Region Hovedstaden, til et ottecifret nummer. Opkald fra et ottecifret nummer ville   E: kefm@kefm.dk
+blive dirigeret tilbage til Danmark, selv om telefonen går på det svenske net. SDFI
+                                                                                      www.kefm.dk
+                                                                                                     Side 1/2
+har ikke modtaget henvendelser fra Region Hovedstaden om at ændre kortnumme-
+ret til et ottecifret nummer. Det bemærkes, at med et ottecifret nummer vil der
+kunne ringes fra hele landet, ikke kun Region Hovedstaden.
+Det er muligt at omgå problemet, med at 1813-kaldet dirigeres til Sverige, ved at
+slå roaming fra på mobiltelefonen. Dette forhindrer telefonen i at koble sig på uden-
+landske netværk. Derudover kan man ringe fra en fastnettelefon, hvis der er en så-
+dan i husstanden.
+Der er rigtig god mobildækning i Danmark, men hvis man oplever problemer med at
+opkald dirigeres til Sverige pga. en dårlig dansk forbindelse, kan man undersøge,
+hvilket mobilselskab der bedst dækker på adressen. Der er tre mobilnet i Danmark,
+og der kan godt være variationer i dækningen. På tjekditnet.dk kan man se, hvilke
+selskaber der dækker bedst på en given adresse.
+En anden mulighed er at benytte sig af såkaldt ”wi-fi-calling”. Mobilselskaberne til-
+byder en sådan løsning, og alle nyere mobiltelefoner kan bruge funktionen, hvor wi-
+fi-routeren i hjemmet fungerer som en mobilantenne, således at der opnås god
+dækning indendørs, hvis man har en fast internetforbindelse.
+Jeg anerkender, at det kan opleves som besværligt og som et irritationsmoment,
+men da der ikke er hjemmel til at pålægge de svenske myndigheder og teleselska-
+ber at dirigere opkaldene tilbage til Danmark, og der ikke er planer om at ændre
+modellen med det firecifrede nummer fra Region Hovedstadens side, er der pt. ikke
+andre muligheder end, at man selv sikrer sig, at éns mobiltelefon ikke kobler på det
+svenske mobilnet, jf. ovenfor.
+
+Med venlig hilsen
+Lars Aagaard
+
+                                                                                                                                                                Side 2/2
+

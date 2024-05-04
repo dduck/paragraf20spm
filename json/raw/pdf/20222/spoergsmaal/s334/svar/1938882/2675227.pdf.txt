@@ -1,0 +1,59 @@
+                                                                                          Erhvervsudvalget 2022-23 (2. samling)
+
+                                                                                        Erhvervsudvalget 2022-23 (2. samOlifnfegn) tligt
+                                                                                ERU Alm.del - endeligt svar på spørgsmål 24
+
+                                                                                                                                Offentligt
+
+Folketingets Erhvervsudvalg                                                     ERHVERVSMINISTEREN
+                                                                                8. februar 2023
+
+Besvarelse af spørgsmål 24 alm. del stillet af udvalget den 18. januar          ERHVERVSMINISTERIET
+2023 efter ønske fra Lisbeth Bech-Nielsen (SF).
+                                                                                Slotsholmsgade 10-12
+Spørgsmål:                                                                      1216 København K
+Er det efter ministerens opfattelse rimeligt, at forbrugerne står tilbage med
+en stor andel af både skyld og ansvar for svindlen, når forbrugerne opkræ-      Tlf.  33 92 33 50
+ves en selvrisiko på op til kr. 8.000 i sager om phishing – særligt når MitID
+ikke ses at være tilstrækkeligt værn mod misbrug?                               Fax   33 12 37 78
+
+Svar:                                                                           CVR-nr. 10 09 24 85
+I den danske lovgivning fastsætter lovens § 100, stk. 3, en selvrisiko for
+betaleren på op til 375 kr., hvis den personlige sikkerhedsforanstaltning har   EAN nr. 5798000026001
+været brugt i forbindelse med andres uberettigede anvendelse, for eksem-
+pel hvor pinkoden til betalerens kort eller betalerens MitID er brugt.          em@em.dk
+
+Betaleren skal kun dække op til 8.000 kr., hvis betalerens udbyder godtgør,     www.em.dk
+at den til betalingstjenesten hørende personlige sikkerhedsforanstaltning
+har været anvendt, og hvor et eller flere af nedenstående kriterier er op-
+fyldt:
+
+    1) forbrugeren har undladt at underrette udbyderen om, at de person-
+         lige sikkerhedsforanstaltninger er bortkommet eller kommet til den
+         uberettigedes kendskab
+
+    2) forbrugeren med forsæt har overgivet den personlige sikkerheds-
+         foranstaltning til den, der har foretaget den uberettigede anvendelse
+
+    3) forbrugeren ved groft uforsvarlig adfærd har muliggjort den ube-
+         rettigede anvendelse.
+
+Rammerne for hæftelses- og ansvarsreglerne fremgår af EU's betalingstje-
+nestedirektiv. Direktivet giver i nogen udstrækning mulighed for at fast-
+sætte en bedre forbrugerbeskyttelse end den, direktivet lægger op til.
+Denne mulighed anvendes allerede i dag i den danske implementering til i
+disse tilfælde at fastsætte grænsen på 8.000 kr., hvor direktivet ellers som
+udgangspunkt ville fastsætte en ubegrænset hæftelse.
+
+Jeg mener, at vi med implementeringen af EU-reglerne i Danmark rammer
+en balance, hvor vi på den ene side beskytter forbrugerne mod store tab, og
+på den anden side tilskynder forbrugerne til at handle forsvarligt. Reglerne
+er opbygget som en trappemodel, hvor forbrugeren hæfter mere i de til-
+fælde, hvor forbrugeren ikke har passet tilstrækkeligt på sine oplysninger.
+Det bemærkes i øvrigt, at Finanstilsynet har vurderet, at MitID lever op til
+kravene til en personlig sikkerhedsforanstaltning.
+Med venlig hilsen
+Morten Bødskov
+
+                                                                                                2
+

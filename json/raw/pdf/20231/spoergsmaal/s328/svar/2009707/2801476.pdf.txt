@@ -1,0 +1,36 @@
+Folketingets Lovsekretariat                                                        Miljø- og Fødevareudvalget 2023-24
+Christiansborg                                                                                                          Offentligt
+1240 København K
+                                                                               J.nr. 2023-12360
+                                                                               Den 14. december 2023
+
+Miljøministerens besvarelse af spørgsmål nr. S 328 stillet den 8. december af Sofie Lippert (SF).
+
+Spørgsmål nr. S 328
+”Vil ministeren ændre på, hvordan man beregner forurening med partikler og støj, så der måles
+på de faktiske punktpåvirkninger frem for gennemsnit?”
+
+Svar
+Luftforurening med partikler måles allerede i dag på faste målestationer. Målestationerne måler
+både med den fastsatte referencemetode, som måler dagsgennemsnittet, og med metoder med
+højere tidsopløsning. De faste målinger suppleres med årlige modelberegninger, som tager
+udgangspunkt i en række faste målepunkter i København og Aalborg. Endvidere har Aarhus
+Universitet, center for miljø og energi (DCE) udgivet ”Luften på din vej”, hvor luftforureningen er
+modelleret på samtlige adresser i Danmark.
+
+For støjforurening skal grænseværdierne som udgangspunkt overholdes i et helt område og ikke
+kun i ét punkt. Ved en støjberegning er det imidlertid muligt at bestemme støjbelastningen i et
+eller flere punkter. Det gælder generelt ved målinger af ekstern støj, at måleresultatet i høj grad
+påvirkes af målebetingelserne, dvs. baggrundsstøj og vejr- og vindforhold. Der findes anerkendte
+beregningsmetoder for de fleste former for ekstern støj, og kortlægning af trafikstøj (vej, bane og
+lufttrafik) foretages stort set udelukkende ved beregning. De beregningsmetoder, der anvendes,
+er anerkendte og valideret med omfattende kontrolmålinger.
+
+Beregninger og målinger omfatter således både gennemsnit, punktkilder mv. for at sikre, at vi har
+et dækkende billede af forureningen.
+
+Magnus Heunicke              /  Morten Pedersen
+
+Miljøministeriet • Frederiksholms Kanal 26 • 1220 København K
+Tlf. 38 14 21 42 • CVR 12854358 • EAN 5798000862005 • mim@mim.dk • www.mim.dk
+

@@ -1,0 +1,47 @@
+                             Udvalget for Digitalisering og It 2022-23 (2. samling)
+                                                                                      Offentligt
+
+Folketingets Lovsekretariat  Stormgade 2-6
+                             1470 København K
+                             Telefon 72 28 24 00
+                             digmin@digmin.dk
+
+Sagsnr.      Svar på spørgsmål stillet af Mette Thiesen (DF) den 16. marts 2023.
+2023 - 1063
+             Spørgsmål nr. S 390:
+Doknr.       ”Vil ministeren kommentere artiklen »Politiets MitID-koks drukner spejdere og fodboldklub-
+11368        ber i papirarbejde« bragt på radiamedia.dk den 15. marts 2023, herunder om ministeren fin-
+             der, at det er rimeligt med den tydelige besværlighed, det afstedkommer for foreninger at
+Dato         indhente den nødvendige børneattest?”
+24-03-2023
+             Svar:
+             Det er naturligvis beklageligt, når implementeringen af digitale løsninger medfører uhensigts-
+             mæssigheder i overgangsfasen. Det er centralt for mig, at digitalisering skaber værdi og for-
+             enkler processer for brugerne. Det ærgrer mig særligt, når det giver uhensigtsmæssigheder
+             for frivillige i vores foreningsliv, som spiller en central rolle for sammenhængskraften i det
+             danske samfund.
+
+             Kernen i problemstillingen, der præsenteres i omtalte artikel, er, at Rigspolitiet har haft udfor-
+             dringer med at få implementeret signeringsløsningen i MitID, som skal afløse NemID.
+
+             Digitaliseringsstyrelsen har siden den 4. april 2022 stillet en ny signeringsløsning til rådighed,
+             der gør det muligt at underskrive med MitID. Grundet fejl og uhensigtsmæssigheder i testmil-
+             jøet hos Digitaliseringsstyrelsens leverandør har Rigspolitiet ikke haft mulighed for at teste
+             løsningen.
+
+             Digitaliseringsstyrelsen har igennem en længere periode været i dialog med Rigspolitiet og
+             dennes leverandør med henblik på at understøtte Rigspolitiets ibrugtagning af signering med
+             MitID. Dialogen har betydet, at fejl og uhensigtsmæssigheder, blandt andet med vejledning i
+             anvendelsen af Digitaliseringsstyrelsens testmiljøer, er blevet afdækket og løst i dialog med
+             Rigspolitiet. Digitaliseringsstyrelsen er således for nuværende ikke bekendt med udeståender
+             i Digitaliseringsstyrelsens løsninger, som fremadrettet skulle forhindre Rigspolitiets overgang
+             til anvendelse af signering med MitID.
+
+             De beskrevne udfordringer med børneattester vil forventeligt ophøre, når Rigspolitiet har mu-
+             lighed for at tage den nye signeringsløsning i brug. Som beskrevet i artiklen bragt i radarmedia
+             den 15. marts, forventer Rigspolitiet at kunne tage løsningen i brug om 4-6 uger. En lang
+             række myndigheder har allerede taget den nye signeringsløsning i brug.
+
+             Med venlig hilsen
+             Marie Bjerre
+

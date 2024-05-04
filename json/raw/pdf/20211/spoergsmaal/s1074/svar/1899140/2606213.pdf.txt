@@ -1,0 +1,46 @@
+Folketingets Lovsekretariat                                                                                             Finansudvalget 2021-22
+Christiansborg                                                                                                                              Offentligt
+
+                                                                                                                              8. juli 2022
+
+Svar på spørgsmål S 1074 af 24. juni 2022 stillet af Anni
+Matthiesen (V)
+
+Spørgsmål
+
+Mener ministeren, at det er tilfredsstillende, at MitID har store udsving og derfor i
+tide og utide og uden tidshorisont spænder ben for muligheden for eksempelvis at
+registrere en virksomhed eller lignende?
+(Spm. nr. S 1074).
+
+Svar
+
+Det er ikke tilfredsstillende at en væsentlig digital løsning for borgere og virksom-
+heder er utilgængelig. MitID har siden lanceringen vist sig som en stabil løsning og
+har høje krav til oppetid. MitID var dog kortvarigt påvirket af det NemID-ned-
+brud, som vi oplevede i uge 25. Konkret var MitID påvirket i to perioder hen-
+holdsvis den 22. og 24. juni 2022.
+
+Nedbruddet af NemID har været til stor gene for både borgere og virksomheder,
+der med rette forventer at kunne logge ind og betjene sig selv digitalt, når de har
+behov for det. Det er dybt beklageligt og helt uacceptabelt, at et så omfattende
+nedbrud af NemID har kunne finde sted, og at det har taget så lang tid fuldt ud at
+genetablere driften.
+
+Nets, som er leverandøren bag NemID, er forpligtet til at levere en sikker løsning
+med en meget høj oppetid på 99,90 pct., hvormed de med nedbruddet har over-
+skredet Nets’ forpligtelse på oppetid. Nedbrud kan forekomme, men måles nor-
+malt i timer og ikke i dage, hvorfor dette er en exceptionel situation og en sag,
+som jeg ser på med største alvor.
+
+Som leverandør er det Nets, der har ansvaret for at sikre en stabil drift af NemID.
+Jeg afventer derfor nu en grundig og fyldestgørende redegørelse fra Nets for hele
+forløbet, herunder hvordan det sikres, at noget tilsvarende ikke kan gentage sig.
+
+Med venlig hilsen
+
+Nicolai Wammen
+Finansminister
+
+                                                    Finansministeriet · Christiansborg Slotsplads 1 · 1218 København K
+

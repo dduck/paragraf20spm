@@ -1,0 +1,44 @@
+                                                                                  Erhvervsudvalget 2021-22
+                                                                                                         Offentligt
+
+Folketingets Lovsekretariat                                                 ERHVERVSMINISTEREN
+
+                                                                            21. september 2022
+
+Besvarelse af spørgsmål S 1264 stillet af Maja Torp (V) den 9. sep-         ERHVERVSMINISTERIET
+tember 2022.
+                                                                            Slotsholmsgade 10-12
+Spørgsmål S 1264:                                                           1216 København K
+Er ministeren enig med Søfartsstyrelsen i, at AIS 2.0 (også kendt som
+VDES) ikke er internationalt anerkendt?                                     Tlf.  33 92 33 50
+
+Begrundelse                                                                 Fax   33 12 37 78
+I ministerens svar på § 20-spørgsmål S 1179 fremgår det af svaret, at Sø-
+fartsstyrelsen påpeger, at VDES-teknologien endnu ikke er anerkendt         CVR-nr. 10 09 24 85
+internationalt, hvilket er en forudsætning for, at systemet kan anvendes i
+skibene. AIS 2.0 (også kendt som VDES) er allerede en international         EAN nr. 5798000026001
+standard specificeret af FN’s tele-organisation ITU, beskrevet i Recom-
+mendation M.2092-1. Teknologien blev tildelt egne radiofrekvenser på        em@em.dk
+ITU’s verdenskongres i 2019, hvilket skete i enighed imellem alle FN’s
+medlemslande. IMO’s Maritime Safety Committee vedtog på møde nr.            www.em.dk
+103 i 2021 at påbegynde arbejdet med at gøre VDES obligatorisk.
+
+Svar:
+Jeg har forelagt spørgsmålet for Søfartsstyrelsen, der uddybende har op-
+lyst følgende:
+
+”Søfartsstyrelsen beklager, hvis ordvalget fsva. ”anerkendt internatio-
+nalt” frem for ”godkendt internationalt” i besvarelsen af S 1179 har gi-
+vet anledning til misforståelse.
+
+Søfartsstyrelsen er enig i, at VDES er en almindeligt anerkendt teknologi
+internationalt. VDES har fået tilkendt egne radiofrekvenser af ITU og kan
+anvendes til forsøg i skibe. For at VDES kan godkendes som obligatorisk
+system for skibsfarten kræves vedtagelse heraf i FN’s Søfartsorganisation
+(IMO). Dette udestår endnu. Fra dansk side arbejdes der aktivt i IMO
+herfor.”
+
+Med venlig hilsen
+
+Simon Kollerup
+

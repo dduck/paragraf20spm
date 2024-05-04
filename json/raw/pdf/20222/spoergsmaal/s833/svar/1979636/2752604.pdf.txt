@@ -1,0 +1,39 @@
+                             Udvalget for Digitalisering og It 2022-23 (2. samling)
+                                                                                      Offentligt
+
+Folketingets Lovsekretariat  Stormgade 2-6
+                             1470 København K
+                             Telefon 72 28 24 00
+                             digmin@digmin.dk
+
+Sagsnr.     Svar på spørgsmål stillet af Morten Messerschmidt (DF) den 12. september 2023.
+2023-3225
+            Spørgsmål nr. S 833:
+Doknr.      ”Hvordan agter ministeren at sikre, at danske borgere med et dansk CPR-nummer, der ikke
+37598       har en privat MitID, ikke bliver hindret i deres ansættelse eller adgang til nødvendige redska-
+            ber som følge af udløbet af NemID?”
+Dato
+20-09-2023  Svar:
+            Til besvarelse af spørgsmålet har jeg indhentet bidrag om den tekniske baggrund fra Digitali-
+            seringsstyrelsen, som oplyser følgende:
+
+            ”Danske borgere med dansk cpr. nr., som har haft NemID, kan få MitID, når NemID ophører.
+            Det er ikke et lovmæssigt krav for danske borgere at have MitID. Der kan dog være tilfælde,
+            hvor en arbejdsgiver stiller krav om, at ansatte har MitID. I sådanne tilfælde vil der være tale
+            om en ansættelsesmæssig forpligtelse pålagt af arbejdsgiveren.
+
+            Erhvervsidentiteter, der oprettes i MitID Erhverv, skal aktiveres ved anvendelse af privat Mi-
+            tID en enkelt gang. Digitaliseringsstyrelsen kan dertil føje, at det er op til den enkelte organi-
+            sation at beslutte, hvorvidt man ønsker at anvende den centrale MitID Erhverv-løsning, hvor
+            identitetssikring med privat MitID er en forudsætning, eller om man vil vælge at implemen-
+            tere en såkaldt Lokal IdP, hvor organisationen selv tager ansvar for identitetssikringen i forbin-
+            delse med udstedelsen af erhvervsidentiteter.”
+
+            På baggrund af ovenstående ser jeg ikke behov for, at jeg som Digitaliseringsminister blander
+            mig i, hvilke krav private arbejdsgivere stiller til deres ansatte. Dette skyldes primært, at der
+            er alternativer til brug af privat MitID til identitetssikring i forbindelse med udstedelsen af er-
+            hvervsidentiteter.
+
+            Med venlig hilsen
+            Marie Bjerre
+

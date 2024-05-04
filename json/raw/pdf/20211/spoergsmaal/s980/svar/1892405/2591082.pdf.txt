@@ -1,0 +1,148 @@
+                                                                                                 Sundhedsudvalget 2021-22
+
+                                                                                                 Holbergsgade 6       Offentligt
+                                                                                                 DK‐1057 København K
+
+                                                                                                 T +45 7226 9000
+                                                                                                 F +45 7226 9001
+                                                                                                 M sum@sum.dk
+                                                                                                 W sum.dk
+
+       Folketingets Sundhedsudvalg                                                               Dato: 08‐06‐2022
+                                                                                                 Enhed: JURPEM
+                                                                                                 Sagsbeh.: DEPCSK
+                                                                                                 Sagsnr.: 2205668
+                                                                                                 Dok. nr.: 2226860
+
+       Folketingets Sundhedsudvalg har den 6. april 2022 stillet følgende spørgsmål nr. 608
+       (Alm. del) til sundhedsministeren, som hermed besvares.
+
+       Spørgsmål nr. 608:
+       ”Vil det være teknisk muligt, at transmænd fortsat automatisk modtager indkaldelser
+       til screeninger for livmoderhalskræft og brystkræft på trods af, at de har fået et
+       mandligt cpr.nr.?”
+
+       Svar:
+
+. / .  Sundhedsministeriet har til brug for besvarelsen af spørgsmålet indhentet et bidrag
+
+       fra Danske Regioner, som er vedlagt.
+
+       Som det fremgår af bidraget, er det aktuelt ikke teknisk muligt at sende automatise‐
+       rede invitationer til screening for livmoderhalskræft til borgere med mandligt cpr.nr.
+       Danske Regioner har dog oplyst, at regionerne arbejder på et nyt it‐system, der vil
+       gøre det muligt. Det er således forventningen, at borgere med mandligt cpr.nr. og en
+       livmoderhals i fremtiden automatisk vil modtage invitationer til screening for livmo‐
+       derhalskræft. It‐systemet forventes implementeret medio/ultimo 2023.
+
+       Som det endvidere fremgår af bilaget, er det aktuelt ikke teknisk muligt at sende au‐
+       tomatiserede invitationer til screening for brystkræft til borgere med mandligt cpr.nr.
+       Danske Regioner har oplyst, at invitation til screening for brystkræft foregår på tværs
+       af de fem regioner med forskellige it‐systemer, og det vil kræve et større arbejde i di‐
+       alog med leverandørerne af regionernes tekniske systemer at undersøge muligheder
+       og omkostninger forbundet med automatiske invitationer af transmænd.
+
+       Danske Regioner vil imidlertid afklare, hvordan regionernes tilbud om brystkræft‐
+       screening kan tilrettelægges på den mest hensigtsmæssige måde.
+
+       Jeg henholder mig til bidraget fra Danske Regioner.
+
+              Med venlig hilsen
+
+              Magnus Heunicke / Christine Stausholm Schjødt
+NOTAT
+
+                                                                                     18-05-2022
+                                                                                     EMN-2022-00750
+                                                                                     1548841
+                                                                                     Jakob Schelde Holde
+
+Bidrag til SUU alm. del spm. 608
+
+Sundhedsministeriet har anmodet Danske Regioner om bidrag til følgende
+spørgsmål: ”Vil det være teknisk muligt, at transmænd fortsat automatisk mod-
+tager indkaldelser til screeninger for livmoderhalskræft og brystkræft på trods
+af, at de har fået et mandligt cpr.nr.?”
+
+Sundhedsministeriet har i den forbindelse oplyst, at når en transperson får ju-
+ridisk kønsskifte (nyt CPR-nummer), bliver denne ikke længere automatisk invi-
+teret til screeningsprogrammer. Ved juridisk kønsskifte oplyses om, at pågæl-
+dende person fremover selv skal sørge for at gå til screeninger.
+
+Sundhedsdatastyrelsen har i et bidrag til Sundhedsministeriet oplyst, ”at hvis
+der er tale om datasæt dannet på baggrund af CPR-registret, er det styrelsens
+opfattelse, at det vil være teknisk muligt for den enkelte region at danne et
+datasæt, der medtager borgerens tidligere køn, således at transmænd fremad-
+rettet kan indkaldes til screeningsprogrammer rettet mod det biologiske køn.”
+
+Desuden oplyser styrelsen, at Indenrigs- og Boligministeriet i perioden fra den
+1. september 2014 til og med den 31. august 2021 har tildelt nyt personnum-
+mer i 1550 sager om juridisk kønsskifte – opgørelsen er dannet på oplysning om
+kønsskifte og ikke i forhold til om det juridiske kønsskifte er sket fra kvinde til
+mand eller omvendt.
+
+Danske Regioner har indhentet bidrag fra de nationale styregrupper for livmo-
+derhalskræftscreening og brystkræftscreening med henblik på at bidrage til be-
+svarelse af spørgsmålet.
+
+Bidrag fra Danske Regioner
+
+       1
+Det er vigtigt, at alle der kan have sundhedsfaglig gavn af at blive screenet for
+livmoderhalskræft og brystkræft, har mulighed for at blive det. Nedenfor rede-
+gøres specifikt for hhv. livmoderhalskræft og brystkræftscreeningsprogram-
+met.
+
+Specifikt for livmoderhalskræftscreeningsprogrammet
+Undersøgelsen i forbindelse med screening for livmoderhalskræft foregår som
+udgangspunkt i almen praksis. Aktuelt kan alle borgere uanset cpr. nr. blive un-
+dersøgt, og patologiafdelingen kan analysere prøven og sende svar tilbage til
+lægen. I Danmark undersøger patologiafdelinger således allerede prøver fra
+borgere med mandligt cpr.nr.
+
+Når prøver rekvireres i et mandligt cpr.nr. vil der dog ofte være tale om en ad-
+ministrativ fejl, som patologiafdelingerne forsøger at udrede, inden prøven
+analyseres. Hvis der tidligere er gennemført screening for livmoderhalskræft
+for dette cpr.nr., eller hvis der er anført i en note på rekvisitionen, at der er tale
+om en person med mandligt cpr.nr., der skal screenes for livmoderhalskræft, så
+er der ikke behov for yderligere udredning. Hvis rekvisitionen ikke umiddelbart
+kan forklares ud fra dette, så vil der ske en henvendelse til rekvirerende læge.
+
+Aktuelt er det ikke teknisk muligt at sende automatiserede invitationer til scree-
+ning for livmoderhalskræft til borgere med mandligt cpr.nr.
+
+It-systemet for invitationer og håndtering af prøver i screeningsprogrammet for
+livmoderhalskræft er nationalt og fungerer på samme vis i alle fem regioner.
+Der er således ikke forskel mellem regionerne i de tekniske muligheder. Regio-
+nerne arbejder på et nyt it-system til håndtering af invitationer i regi af en ny
+National Patologi og Genetik Databank. I dette it-system lægges op til, at bor-
+gere med et mandligt cpr.nr. – og et kvindeligt cpr.nr. – automatisk vil forsætte
+med at få invitationer til screening for livmoderhalskræft.
+
+Det forventes derfor, at borgere med mandligt cpr.nr. og livmoderhals i fremti-
+den vil modtage invitationer, indtil borgeren efterfølgende aktivt selv framelder
+sig, eller bliver frameldt i forbindelse med, at livmoderhalsen fjernes ved en
+såkaldt hysterektomi. It-systemet forventes implementeret medio/ultimo
+2023.
+
+Specifikt for brystkræftscreeningsprogrammet
+Personer mellem 50 og 69 år, der har kvindeligt brystvæv, har ifl. Sundheds-
+lovens §85 ret til brystundersøgelse hvert andet år i bopælsregionen. Relevan-
+sen af screening for brystkræft efter juridisk kønsskifte til mandligt cpr-nummer
+forudsætter, at personen fortsat har kvindeligt brystvæv.
+
+                                                                                                       2
+Aktuelt er det ikke i nogen regioner teknisk muligt at sende automatiserede
+invitationer til screening for brystkræft til borgere med mandligt cpr.nr. Invita-
+tion til screening for brystkræft foregår på tværs af de fem regioner med for-
+skellige IT-systemer, versioner og leverandører. Det vil kræve et større arbejde
+i dialog med leverandørerne af regionernes tekniske systemer at undersøge
+muligheder og omkostninger forbundet med automatiske invitationer af trans-
+mænd.
+Danske Regioner vil arbejde videre med at afklare, hvordan regionernes tilbud
+om brystkræftscreening kan tilrettelægges på den mest hensigtsmæssige måde
+for alle, der kan have sundhedsfaglig gavn af at blive screenet og som ønsker
+det, uanset hvilket cpr. nr. de måtte have.
+
+                                                                                                       3
+

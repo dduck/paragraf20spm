@@ -1,0 +1,39 @@
+                             Udvalget for Digitalisering og It 2023-24
+                                                                      Offentligt
+
+Folketingets Lovsekretariat  Stormgade 2-6
+                             1470 København K
+                             Telefon 72 28 24 00
+                             digmin@digmin.dk
+
+Sagsnr.     Svar på spørgsmål stillet af Betina Kastbjerg (DD) den 1. marts 2024.
+2024 - 794
+            Spørgsmål nr. S 651:
+Doknr.      ”Hvad mener ministeren, at der bør gøres fra regeringens side for at sikre digital kritisk infra-
+70937       strukturs cybersikkerhed i Danmark, der, som det ses med MitID, har været udsat for hacker-
+            angreb?”
+Dato
+05-03-2024  Svar:
+            Cyber- og informationssikkerhed har høj prioritet i regeringen. Både i forhold til borgere,
+            myndigheder, virksomheder og den kritiske infrastruktur.
+
+            Det er mit indtryk, at cyber- og informationssikkerheden på flere punkter er tilfredsstillende i
+            forhold til den digitale kritiske infrastruktur. Selvom der løbende er forsøg på angreb på it-sy-
+            stemerne, er der heldigvis meget sjældent tale om succesfulde angreb.
+
+            Området har regeringens bevågenhed, og der er også eksempler på, at sikkerheden kan styr-
+            kes. Det har Rigsrevisionen blandt andet afdækket i forhold til de statslige, samfundskritiske
+            it-systemer. Sektoransvarsprincippet betyder, at den enkelte myndighed og i sidste ende den
+            enkelte minister har ansvaret for cyber- og informationssikkerheden omkring ministeriets
+            samfundskritiske it-systemer. Jeg har derfor også sendt et brev til de øvrige ministerier og
+            mindet om vigtigheden om cyber- og informationssikkerhed i relation til de samfundskritiske
+            it-systemer.
+
+            Med implementeringen af NIS2-direktivet indføres der desuden et eksternt tilsyn med de
+            statslige myndigheders styring af cyber- og informationssikkerheden. Det er min forventning,
+            at det vil give et styrket fokus på cyber- og informationssikkerhed i statslige myndigheder,
+            som vil være med til at sætte fokus på de områder, hvor der er plads til forbedringer.
+
+            Med venlig hilsen
+            Marie Bjerre
+

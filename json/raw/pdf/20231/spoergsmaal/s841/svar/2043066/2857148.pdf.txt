@@ -1,0 +1,2817 @@
+                                                                                                                                              Sundhedsudvalget 2023-24
+                                                                                                                                                                       Offentligt
+
+Tandplejeprognose
+2023-2045
+
+Udbuddet af personale
+i tandplejen
+Tandplejeprognose 2023-2045          Side 2/66
+
+Tandplejeprognose 2023-2045
+Udbuddet af personale i tandplejen
+
+© Sundhedsstyrelsen, 2024.
+Publikationen kan frit refereres
+med tydelig kildeangivelse.
+
+Sundhedsstyrelsen
+Islands Brygge 67
+2300 København S
+
+www.sst.dk
+
+Elektronisk ISBN: 978-87-7014-593-0
+
+Sprog: Dansk
+Version: 1.0
+Versionsdato: 1. marts 2024
+Foto: Sundhedsstyrelsen
+
+Udgivet af Sundhedsstyrelsen,
+Marts 2024
+Tandplejeprognose 2023-2045                                                                                            Side 3/66
+
+Indholdsfortegnelse
+
+1. Introduktion ................................................................................................4
+2. Resumé og konklusion ....................................................................................5
+2.1 Tandlæger.....................................................................................................5
+2.2 Specialtandlæger ............................................................................................5
+2.3 Tandplejere ...................................................................................................6
+2.4 Kliniske tandteknikere ......................................................................................6
+
+3. Udviklingen på tandplejens arbejdsmarked ..........................................................7
+3.1 Tandlæger.....................................................................................................7
+3.1.1 Tilgangen til tandlægestudiet har varieret ............................................................7
+3.1.2 Antallet af beskæftigede tandlæger er faldet ...................................................... 10
+3.2 Specialtandlæger .......................................................................................... 14
+3.2.1 Antallet af fuldførte på specialtandlægeuddannelser er stabilt ................................. 14
+3.2.2 Antallet af beskæftigede specialtandlæger i tand-, mund- og kæbekirurgi er steget ........ 15
+3.2.3 Antallet af beskæftigede specialtandlæger i ortodonti er steget................................ 16
+3.3 Tandplejere ................................................................................................. 19
+3.3.1 Tilgangen til tandplejeuddannelsen har varieret ................................................... 19
+3.3.2 Antallet af beskæftigede tandplejere er steget .................................................... 20
+3.4 Kliniske tandteknikere .................................................................................... 24
+3.4.1 Tilgangen til uddannelsen i klinisk teknik har varieret ............................................ 24
+3.4.2 Antallet af beskæftigede kliniske tandteknikere er faldet........................................ 26
+
+4. Det fremtidige udbud af personale i tandplejen.................................................. 30
+4.1 Antallet af tandlæger i arbejdsstyrken forventes at stige ........................................... 30
+4.2 Antallet af specialtandlæger i tand-, mund- og kæbekirurgi forventes at stige ................. 32
+4.3 Antallet af specialtandlæger i ortodonti forventes at stige ......................................... 34
+4.4 Antallet af tandplejere forventes at stige ............................................................. 36
+4.5 Antallet af kliniske tandteknikere forventes at stige ................................................. 38
+4.6 Sammenligning af grundscenarierne .................................................................... 41
+
+5. Modelbeskrivelse ........................................................................................ 42
+5.1 Modelinput .................................................................................................. 43
+5.2 Udgangspopulation......................................................................................... 44
+5.3 Simulation af tandplejepersonalets tilknytning til arbejdsmarkedet .............................. 45
+5.3.1 Pension .................................................................................................... 49
+5.3.2 Udrejse .................................................................................................... 50
+5.4 Tilgang af nyt tandplejepersonale....................................................................... 50
+5.5 Overgang fra tandlæge til specialtandlæge ........................................................... 51
+5.6 Kliniske tandteknikere .................................................................................... 52
+5.7 Scenarier .................................................................................................... 52
+5.8 Test af mikrosimulationsmodellen ...................................................................... 52
+
+6. Bilagsfortegnelse......................................................................................... 56
+Tandplejeprognose 2023-2045  Side 4/66
+
+1. Introduktion
+
+Formålet med tandplejeprognosen for 2023-2045 er at belyse den forventede udvikling i udbuddet af tandple-
+jepersonale. Tandplejeprognosen indeholder ikke efterspørgselsanalyser. Det er afgørende for tandplejens
+funktion, at de nødvendige personaleressourcer er til stede, og tandplejeprognosen bidrager blandt andet til
+at sikre sundhedsvæsenets bemanding de kommende år. Det gælder særligt med hensyn til dimensionering af
+specialtandlæger og i forhold til optaget på uddannelserne til tandlæge, tandplejer og klinisk tandtekniker.
+
+Tandplejeprognosen er en udbudsprognose, der belyser forskellige scenarier for det forventede udbud
+af tandlæger, specialtandlæger, kliniske tandteknikere og tandplejere i arbejdsstyrken frem mod 2045.
+Herudover beskrives udviklingen på tandplejens arbejdsmarked i perioden 2012-2021. Tandplejeprognosen bi-
+drager således som vidensgrundlag for myndigheder og andre aktører om det forventede udbud af tandfaglige
+personer i arbejdsstyrken. Prognosen indgår i Prognose- og Dimensioneringsudvalgets arbejde i
+forbindelse med rådgivning om størrelsen på antallet af uddannede tandlæger, tandplejere og kliniske tand-
+teknikere.
+
+Prognosens fremskrivninger af udbuddet af tandplejepersonale baseres på en række parametre, heriblandt
+den forventede pensionsalder, kandidatproduktion, dimensionering af specialtandlægeuddannelserne, uddan-
+nelsestid med mere. Ændringer af disse parametre vil have indflydelse på prognosens fremskrivninger. Det er
+derfor vigtigt at fremhæve, at der er en række usikkerhedsfaktorer forbundet med så langsigtede fremskriv-
+ninger, og at resultatet af sådanne fremskrivninger er et komplekst samspil mellem en lang række sociale,
+økonomiske og politiske faktorer. Jo flere parametre i prognosemodellen, og jo længere frem i tiden der prog-
+nosticeres, desto mere usikre bliver resultaterne. Tandplejeprognose bygger desuden på en række forudsæt-
+ninger fx at den eksisterende organisering af tandplejen i Danmark forbliver uændret.
+
+Sundhedsdatastyrelsen udvikler fremskrivningsmodellen og anvender data fra blandt andet Bevægelsesregiste-
+ret, hvor den senest tilgængelige data er fra 2021. Data er opgjort med status pr. 31. december i de respek-
+tive år. Fremskrivningsmodellen er opdateret siden tandplejeprognosen for 2018-2040 og beskrives yderligere i
+kapitel 5.
+
+Arbejdet med udfærdigelse af prognosen forestås af Sundhedsstyrelsen med rådgivning fra tandplejens Prog-
+nose- og Dimensioneringsudvalg, som er et udvalg nedsat af det Nationale Råd for Tandlægers Videreuddan-
+nelse. I udvalget sidder der repræsentanter for Odontologisk Institut (KU), Institut for Odontologi og Oral
+Sundhed (AU), Uddannelsen til tandplejer (KU), Danske Regioner, Kommunernes Landsforening, Tandlægefor-
+eningen, Ansatte Tandlægers Organisation, Danske Tandplejere, Landsforeningen af Kliniske Tandteknikere,
+Foreningen af Specialtandlæger i Ortodonti, Dansk Selskab for Oral og Maxillofacial Kirurgi, Uddannelses- og
+Forskningsministeriet, Sundhedsdatastyrelsen, Indenrigs- og Sundhedsministeriet, og Sundhedsstyrelsen.
+Tandplejeprognose 2023-2045  Side 5/66
+
+2. Resumé og konklusion
+
+I tandplejeprognosen præsenteres den forventede udvikling i antallet af tandlæger, specialtandlæger, kliniske
+tandteknikere og tandplejere i perioden 2023 til 2045. Sammenlignet med forventningerne i den forrige tand-
+plejeprognose for 2018-2040 forventes samlet set et større udbud af tandplejepersonale i arbejdsstyrken frem
+mod 2040. Ændringer i følgende faktorer kan have betydning for fremskrivningerne af udbuddet af personer
+med tandfaglig autorisation og specialtandlægeanerkendelse:
+
+      • Ændret dimensionering af specialtandlægeuddannelsen i ortodonti
+      • Ændret dimensionering af uddannelsen i klinisk tandteknik i forbindelse med omlægning til professi-
+
+            onsbacheloruddannelse
+      • Ændret dimensionering af tandlægeuddannelsen som følge af politisk aftale i 2022 om ”Flere og
+
+            bedre uddannelsesmuligheder i hele Danmark”
+
+Prognosen beskriver fem scenarier for alle faggrupper. Grundscenarierne baseres på den nuværende dimensio-
+nering af uddannelserne og det deraf forventede antal færdiguddannede.
+I forhold til den tidligere rapport Tandplejeprognose 2018-2040 er kapitlet om udviklingen i tand- og mundsyg-
+domme i befolkningen udgået.
+
+2.1 Tandlæger
+
+I perioden 2012-2022 steg andelen af kvinder der påbegyndte kandidatuddannelsen i odontologi fra 74 pct. i
+2012 til 81 pct. i 2022. Andelen af mænd der påbegyndte kandidatuddannelsen faldt tilsvarende i samme peri-
+ode fra 26 pct. i 2012 til 19 pct. i 2022. Der blev i gennemsnit uddannet cirka 126 tandlæger årligt. I perioden
+2012-2021 ses et fald i antallet af beskæftigede tandlæger fra 4.829 i 2012 til 4.535 i 2022 svarende til et fald
+på 6,1 pct. På landsplan var der 77,3 tandlæger per 100.000 indbyggere i 2021.
+
+I prognosens grundscenarie forventes et fald på 90 personer med tandlægeautorisation frem mod 2030, hvor-
+efter udbuddet forventes at stige frem mod 2045. Antallet af personer med tandlægeautorisation forventes
+samlet set at stige med 347 i perioden 2023-2045, svarende til en stigning på 7,4 pct.
+
+2.2 Specialtandlæger
+
+I perioden 2012-2021 var der en stigning i antallet af beskæftigede specialtandlæger i begge specialer. Således
+steg antallet af beskæftigede specialtandlæger i ortodonti fra 145 til 159 i perioden 2012-2021. Antallet af
+beskæftigede specialtandlæger i tand-, mund- og kæbekirurgi steg i samme periode fra 58 til 77. På landsplan
+var der i 2021 1,3 specialtandlæger i tand-, mund og kæbekirurgi per 100.000 indbyggere og 2,7 specialtand-
+læger i ortodonti.
+
+Frem mod 2045 forventes antallet af specialtandlæger i arbejdsstyrken i begge specialer at stige. Antallet af
+specialtandlæger i ortodonti forventes at stige med 27,6 pct. fra 164 i 2023 til 208 i 2045. For specialtandlæ-
+ger i tand-, mund- og kæbekirurgi forventes en stigning på 76,2 pct. specialtandlæger fra 79 i 2023 til 139 i
+2045.
+Tandplejeprognose 2023-2045  Side 6/66
+
+2.3 Tandplejere
+
+I perioden 2012-2022 blev der i gennemsnit uddannet 117 tandplejere årligt. I perioden 2012-2021 steg antal-
+let af beskæftigede tandplejere med 31 pct. fra henholdsvis 1.976 til 2.598. Omkring 80 pct. af personer med
+tandplejeautorisation er beskæftiget inden for tandplejen, og op mod 20 pct. af tandplejere er beskæftiget i
+andre sektorer end i tandplejen. I prognosens grundscenarie forventes en stigning på 686 tandplejere i perio-
+den 2023 til 2045, svarende til en stigning på 22,7 pct.
+
+2.4 Kliniske tandteknikere
+
+I perioden 2012-2022 blev der i gennemsnit uddannet 12 kliniske tandteknikere årligt. I perioden 2012-2021
+faldt antallet af beskæftigede kliniske tandteknikere fra henholdsvis 348 til 326. Der forventes en vækst i an-
+tallet af kliniske tandteknikere i arbejdsstyrken på 104 svarende til 30,1 pct. fra 2023 frem mod 2045.
+Tandplejeprognose 2023-2045  Side 7/66
+
+3. Udviklingen på tandplejens
+    arbejdsmarked
+
+Kapitlet indeholder en gennemgang af tandplejens arbejdsmarked i Danmark med data for perioden 2012-2021
+samt data om antal uddannede og autorisationer for perioden 2012-2022. I kapitlet beskrives en række cen-
+trale udviklingstendenser på tandplejens arbejdsmarked, der anvendes i prognosens fremskrivninger såsom
+udviklingen i tilgangen til de relevante uddannelser, antallet af autoriserede personer i tandplejen samt udvik-
+lingen i alders- og kønssammensætningen. Data fra Uddannelses- og Forskningsministeriet er diskretioneret
+ved værdier under 5, mens data fra Bevægelsesregistret og Autorisationsregistret er diskretioneret ved vær-
+dier på 2 eller under.
+
+3.1 Tandlæger
+
+3.1.1 Tilgangen til tandlægestudiet har varieret
+
+Udviklingen i tilgangen til tandlægestudiet og særligt antallet af færdiguddannede kandidater ved tandlæge-
+skolerne i Aarhus og København har afgørende betydning for udviklingen i antallet af tandlæger, der er til rå-
+dighed på arbejdsmarkedet.
+
+Gennemsnitsalderen for tandlægestuderende ved studiestart er nogenlunde stabil i perioden 2012-2022 på i
+gennemsnit 22,2 år. Tandlægestudiet er 5-årigt med en gennemsnitlig studietid på omkring 5,1 år i perioden
+2012-2022. Gennemførselsprocenten for tandlæger er omkring 75 pct. på bacheloruddannelsen og 93 pct. på
+kandidatuddannelsen. Gennemsnitsalderen ved opnåelsen af autorisation er i perioden 2014-2022 steget fra 29
+år til 30 år.
+
+Af figur 1 ses udviklingen i tilgang og fuldførte på tandlægestudiet i perioden 2012-2022 for bacheloruddannel-
+sen og kandidatuddannelsen. Det ses, at tilgangen til bacheloruddannelsen har været stigende fra 162 stude-
+rende i 2012 til 180 i 2022. I gennemsnit har der i perioden 2012-2022 været en årlig tilgang til bacheloruddan-
+nelsen på cirka 173 studerende. Tilgangen til kandidatuddannelsen har været stigende de seneste år fra 126
+studerende i 2017 til 154 studerende i 2022. I gennemsnit har der i perioden 2012-2022 været en årlig tilgang
+til kandidatuddannelsen på cirka 132 studerende.
+
+Antallet af studerende der fuldfører bacheloruddannelsen svarer nogenlunde til antallet af studerende der på-
+begynder kandidatuddannelsen. Antallet af fuldførte på kandidatuddannelsen ligger i perioden 2012-2022 mel-
+lem 111 til 146 tandlæger. I samme periode har cirka 126 tandlæger i gennemsnit fuldført tandlægeuddannel-
+sen årligt.
+Tandplejeprognose 2023-2045                                                                       Side 8/66
+
+Figur 1. Tilgang og fuldførte på tandlægestudiet henholdsvis bacheloruddannelsen (BA) og kandidatuddannel-
+sen (KA), 2012-2022
+
+            200     2012          2013      2014  2015  2016  2017  2018  2019  2020  2021  2022
+            180     162           172       164   170   166   175   178   172   186   181   180
+            160      81           175       114   126   135   126   129   129   138   150   154
+            140      78           176       115   126   135   127   129   126   140   148   153
+            120     122           121       118   146   120   111   127   131   130   126   134
+            100
+
+              80
+              60
+              40
+              20
+
+               0
+
+Tilgang (BA)
+Tilgang (KA)
+Fuldførte (BA)
+Fuldførte (KA)
+
+Note: I 2012 i tilgang til kandidatuddannelsen var der, grundet særlige omstændigheder, stort set ikke nogen studerende, der begyndte på
+kandidatuddannelsen i odontologi på Aarhus Universitet. De begyndte i stedet i 2013. Udviklingen er opgjort per finansår.
+Kilde: Uddannelses- og Forskningsministeriet
+
+I perioden 2012-2022 har der i gennemsnit været 9 pct. (6-16 pct.) udenlandske statsborgere, som har påbe-
+gyndt kandidatuddannelsen på tandlægestudiet (tabel 1).
+
+Tabel 1. Tilgang til tandlægestudiet (KA) fordelt på statsborgerskab, 2012-2022
+
+                2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 202
+
+Tilgang danske                                                                                    2
+statsborgere    68           160        97        119   124   119   119         118   126   138   142
+
+Tilgang nordiske 9 11 7 --- --- --- --- --- 5                                               6     ---
+statsborgere
+
+Tilgang øvrige --- --- 10 6 8 5 6 10 7 6 9
+statsborgere
+
+--- Data diskretioneret ved værdi < 5 personer
+Kilde: Uddannelses- og Forskningsministeriet
+Tandplejeprognose 2023-2045                                                                                     Side 9/66
+
+Figur 2. Tilgang til tandlægestudiet (KA) fordelt på køn (pct.), 2012-2022
+
+90%
+
+80%
+
+70%
+
+60%
+
+50%
+
+40%
+
+30%
+
+20%
+
+10%
+
+             0%  2012        2013             2014  2015             2016  2017  2018  2019  2020  2021  2022
+                 74%         76%              84%   82%              76%   75%   81%   78%   76%   79%   81%
+Andel kvinder    26%         24%              16%   18%              24%   25%   19%   22%   24%   21%   19%
+Andel mænd
+
+Kilde: Uddannelses- og Forskningsministeriet
+
+Af Figur 2 fremgår det, at langt flere kvinder end mænd i perioden 2012-2022 påbegyndte kandidatuddannel-
+sen. Samlet set var der i perioden 78 pct. kvinder og 22 pct. mænd som påbegyndte tandlægestudiet, med en
+nogenlunde stabil fordeling set over perioden. Dette ses også i fordelingen mellem mænd og kvinder, der på
+baggrund af en dansk uddannelse har opnået autorisation som tandlæge (tabel 2).
+
+Tabel 2. Køns- og aldersfordelingen af tandlæger, der på baggrund af en dansk uddannelse har opnået
+autorisation i perioden 2012-2022
+
+Alder                                                                      Kvinder                       Mænd
+
+29 år eller derunder                                                           971                         250
+30-39 år                                                                       118                          51
+40-49 år                                                                        26                           5
+50-59 år                                                                                                     0
+60 år eller derover                                                              6                           3
+                                                                                 3
+Kilde: Det Statistiske Autorisationsregister, Sundhedsdatastyrelsen
+
+Det ses endvidere af tabel 2, at hovedparten opnår autorisation i alderen 29 år eller derunder, og at omtrent
+97 pct. har opnået autorisation som tandlæge inden de fylder 40 år.
+Tandplejeprognose 2023-2045                                                                                  Side 10/66
+
+3.1.2 Antallet af beskæftigede tandlæger er faldet
+
+Antallet af tandlæger, der opnår autorisation, er steget med 51 i perioden 2012 til 2022, svarende til en stig-
+ning på 31 pct. Udviklingen har primært været drevet af en stigning i antallet af autorisation til tandlæger ud-
+dannet i udlandet (tabel 3). I gennemsnit tildeles 24 pct. af autorisationerne tandlæger uddannet i udlandet.
+
+Tabel 3. Udvikling i antal udstedte autorisationer til tandlæger fordelt på uddannelsesland, 2012-2022
+
+Danmark         2012   2013      2014   2015               2016           2017   2018   2019   2020   2021   2022
+
+                  133    127       125    154                123            114    127    135    132    130    133
+
+Norden          6            8   6      13                           10   6      9      7      7      12     18
+
+EU/EØS          21           15  20     20                           25   39     24     43     14     18     49
+
+Tredjeland      3            7   3      ---                          3    13     7      12     7      7      14
+
+I alt           163    157       154    ---                          161  172    167    197    160    167    214
+
+--- Data diskretioneret: ved værdi 1 eller 2
+Note: Ekskl. tandlæger med ukendt uddannelsesland.
+Kilde: Det Statistiske Autorisationsregister, Sundhedsdatastyrelsen
+
+I 2021 var der 4.535 personer med tandlægeautorisation i beskæftigelse. I perioden 2012-2021 faldt antallet af
+beskæftigede tandlæger med cirka 6 pct. (tabel 4). Ledigheden var mindre end 1 pct.
+
+Tabel 4. Udvikling i antal beskæftigede tandlæger fordelt på branche, 2012-2021
+
+Hospitalsansat         2012      2013   2014               2015           2016   2017   2018   2019   2020   2021
+
+                         82        88     85                 87             93     90     86     83     88     106
+                                                             854            823    822    798    820    819    830
+Kommunal tandpleje     933       921    894                3.131          3.084  3.007  3.015  3.029  2.977  2.998
+                                                             216            211    218    221    221    206    206
+Privat praksis         3.194 3.151 3.122                     380            403    437    427    398    386    395
+                                                           4.668          4.614  4.574  4.547  4.551  4.476  4.535
+Undervisning, stat m.fl. 250     241    207
+
+Øvrige                 370       364    365
+
+I alt                  4.829 4.765 4.673
+
+Kilde: Bevægelsesregisteret (2021), Sundhedsdatastyrelsen
+
+Kategorien ”øvrige” i tabel 4 angiver, hvor mange af tandlægerne, som ikke er praktiserende indenfor tand-
+plejen, men i stedet er beskæftigede med fx fremstilling af farmaceutiske råvarer og præparater, engroshan-
+del med medicinalvarer eller anden type beskæftigelse der ligger udenfor tandplejen.
+
+I figur 3 ses udviklingen i antal personer med tandlægeautorisation i beskæftigelse fordelt på region i perioden
+2012-2021, og alle regioner har set et fald i antallet af beskæftigede tandlæger.
+Tandplejeprognose 2023-2045                                                                                         Side 11/66
+
+Figur 3. Udvikling i antal beskæftigede tandlæger fordelt på region, 2012-2021
+                                 2.500
+
+2.000
+
+1.500
+
+1.000
+
+500
+
+                       0     2012   2013   2014            2015   2016           2017   2018   2019   2020   2021
+                             1.752  1.731  1.712           1.707  1.663          1.680  1.646  1.657  1.624  1.651
+Region Hovedstaden           1.125  1.102  1.081           1.081  1.080          1.078  1.075  1.084  1.076  1.092
+Region Midtjylland            434    442    428             435    434            426    409    414    402    392
+Region Nordjylland            641    627    615             611    620            602    630    609    600    605
+Region Sjælland               877    863    837             834    817            788    787    787    774    795
+Region Syddanmark
+
+Kilde: Bevægelsesregisteret (2021), Sundhedsdatastyrelsen
+
+Region Hovedstaden og Region Midtjylland har flest tandlæger per 100.000 indbyggere, hvilket formentlig skyl-
+des, at mange tandlæger har bosat sig i uddannelsesbyerne (figur 4). På landsplan var der 77,3 tandlæger per
+100.000 indbyggere i 2021.
+
+Figur 4. Tandlæger per 100.000 indbyggere fordelt på region, 2021
+
+Kilde: Bevægelsesregisteret (2021), Sundhedsdatastyrelsen og Danmarks Statistik
+Tandplejeprognose 2023-2045                                                                                     Side 12/66
+
+I 2021 var 18 pct. af de beskæftigede tandlæger ansat i den kommunale tandpleje, mens 66 pct. var ansat i
+privat praksis (tabel 5). Det ses endvidere af tabel 5, at tandlæger beskæftiget med blandt andet undervisning
+primært arbejder i Region Hovedstaden og Region Midtjylland, hvor tandlægeuddannelserne er placeret.
+
+Tabel 5. Antal beskæftigede tandlæger fordelt på region og branche, 2021
+
+                             Region        Region                        Region          Region      Region I alt
+                                                                                        Sjælland  Syddanmark
+                             Hovedstaden Midtjylland Nordjylland
+
+Hospitalsansat               26                            26            9              11               34     106
+
+Kommunal tandpleje           302                           187           78             120              143    830
+
+Privat praksis               1.020                         726           271            433              548    2.998
+
+Undervisning, stat m.fl.     111                           79            4              4                8      206
+
+Øvrige                       192                           74            30             37               62     395
+
+I alt                        1.651                         1.092         392            605              795    4.535
+
+Kilde: Bevægelsesregisteret (2021), Sundhedsdatastyrelsen
+
+I perioden 2012-2021 er der sket stigninger i antallet af tandlæger i aldersgrupperne 24 år eller derunder, 25-
+29-årige, 30-34-årige, 35-39-årige, 40-44-årige, 45-49-årige og 70-74-årige. I de øvrige aldersgrupper ses der et
+fald i antal tandlæger på i alt 634 med det største fald på 48 pct. i aldersgruppen 50-54 år (figur 5).
+
+Figur 5. Antal beskæftigede tandlæger i 2012 og 2021 fordelt på aldersgruppe
+
+        900
+
+        800
+
+        700
+
+        600
+
+        500
+
+        400
+
+        300
+
+        200
+
+        100
+
+           0   24 år  25-29  30-34  35-39  40-44                  45-49  50-54   55-59  60-64     65-69  70-74
+               eller    år     år     år     år                     år     år      år     år        år     år
+        2012  derund
+        2021           266    442    464    394                    520    735     778    696       407    122
+                 er    370    447    479    518                    535    381     521    689       391    188
+
+                 5
+
+                 16
+
+Kilde: Bevægelsesregisteret (2021), Sundhedsdatastyrelsen
+
+Figur 6 viser, at der er flere mandlige tandlæger i aldersgrupperne over 64 år, mens der for tandlægerne un-
+der 64 år er en større andel kvinder.
+Tandplejeprognose 2023-2045                                                                                 Side 13/66
+
+Figur 6. Kønsfordeling blandt beskæftigede tandlæger fordelt på aldersgruppe, 2021
+
+         450
+
+         400
+
+         350
+
+         300
+
+         250
+
+         200
+
+         150
+
+         100
+
+            50
+
+               0   24 år  25-29   30-34  35-39             40-44  45-49  50-54  55-59  60-64  65-69  70-74
+                   eller    år      år     år                år     år     år     år     år     år     år
+         Kvinder  derund
+         Mænd              291     326    344               366    387    272    372    412    186     63
+                     er     79     121    135               152    148    109    149    277    205    125
+
+                     12
+
+                     4
+
+Kilde: Bevægelsesregisteret (2021), Sundhedsdatastyrelsen
+
+Af tabel 6 fremgår det, at der har været en stigende andel af tandlæger på deltid (32 timer eller derunder) i
+perioden 2012-2021, således at 37 pct. af tandlægerne i 2021 arbejdede på deltid.
+
+Tabel 6. Udvikling i antal beskæftigede tandlæger fordelt på fuldtid og deltid, 2012-2021
+
+Deltid            2012    2013    2014          2015              2016   2017   2018          2019   2020   2021
+
+                  1.038   1.068   1.083         1.099             1.121  1.142  1.168         1.270  1.210  1.370
+                                                                  2.374  2.391  2.383         2.368  2.391  2.324
+Fuldtid           2.516 2.446 2.385 2.393
+
+Note: Ekskl. uoplyst arbejdstid.
+Kilde: Bevægelsesregisteret (2021), Sundhedsdatastyrelsen
+
+I gennemsnit har der i perioden 2012-2021 været cirka 179 personer med tandlægeautorisation i beskæftigelse
+med en udenlandsk uddannelse (tabel 7).
+
+Tabel 7. Udvikling i beskæftigede tandlæger i Danmark med udenlandsk uddannelse, 2012-2021
+
+EU/EØS            2012    2013    2014          2015              2016   2017          2018   2019   2020   2021
+
+                    52      56      64            78                87     104           111    115    111    126
+                                                                    33     35            35     31     35     31
+Norden            26         26          27                30       51     63            63     72     81     88
+                                                                   171    202           209    218    227    245
+Tredjeland        39         36          39                47
+
+I alt             117        118         130               155
+
+Note: Ekskl. tandlæger med ukendt udenlandsk uddannelse.
+Kilde: Bevægelsesregisteret (2021), Sundhedsdatastyrelsen
+Tandplejeprognose 2023-2045                                                                                                Side 14/66
+
+3.2 Specialtandlæger
+
+I Danmark er det som tandlæge muligt at videreuddanne sig til specialtandlæge i ortodonti og i tand-, mund-
+og kæbekirurgi. Inden specialtandlægeuddannelsen kan påbegyndes, skal tandlæger have været beskæftiget i
+to år med praktisk-klinisk odontologi samt have tilladelse til selvstændigt virke som tandlæge.
+
+Specialtandlægeuddannelsen i ortodonti tager tre år og gennemføres ved ansættelse på én af de to godkendte
+afdelinger for ortodonti på de odontologiske institutter i København og Aarhus. Specialtandlægeuddannelsen i
+tand-, mund- og kæbekirurgi varer fem år og tandlægerne er under uddannelsesforløbet ansat på godkendte
+tand-, mund- og kæbekirurgiske uddannelsesafdelinger på sygehuse.
+
+3.2.1 Antallet af fuldførte på specialtandlægeuddannelser er stabilt
+
+Antallet af uddannelsesforløb i specialtandlægeuddannelsen fastlægges af Sundhedsstyrelsen i forbindelse
+med udfærdigelsen af dimensioneringsplaner. I den aktuelle dimensioneringsplan for perioden 2020-2024 er
+antallet af uddannelsesforløb fastlagt til otte i ortodonti og seks i tand-, mund- og kæbekirurgi. Udviklingen i
+antallet af optagne og fuldførte på de to specialtandlægeuddannelser kan ses i tabel 8.
+
+Tabel 8. Antal optagne og fuldførte på specialtandlægeuddannelser, 2018-2021
+
+                    Ortodonti                      Tand-, mund- og kæbekirurgi
+
+År         Optagne               Fuldførte         Optagne                                                      Fuldførte
+
+2018       7                     9                 4                                                            3
+
+2019       7                     6                 4                                                            3
+
+2020       7                     6                 5                                                            3
+
+2021       8                     8                 4                                                            3
+
+I alt      29                    29                17                                                           12
+
+Note: Ekskl. udenlandske optagne på Aarhus Universitet (udgør cirka 3 specialtandlæger årligt i ortodonti).
+Kilde: Uddannelsesafdelinger i tandlægernes videreuddannelse
+
+Tabel 9 viser en vis variation i antallet af udstedte specialtandlægeanerkendelser indenfor de to specialtand-
+lægelige specialer. I specialet ortodonti varierer antallet af udstedte anerkendelser mellem 7-14, og for speci-
+alet tand-, mund- og kæbekirurgi mellem 3-8.
+
+Tabel 9. Antal udstedte specialtandlægeanerkendelser, 2012-2022
+
+           2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+
+Ortodonti     9              10  16         8  13  14            4            9                              7      8      9
+
+Tand-, mund-, --- 4 4 5 8 3 7 7 --- 8 8
+kæbekirurgi
+
+--- Data diskretioneret: værdi 1 eller 2
+Kilde: Det Statistiske Autorisationsregister, Sundhedsdatastyrelsen
+Tandplejeprognose 2023-2045                                                                               Side 15/66
+
+3.2.2 Antallet af beskæftigede specialtandlæger i tand-, mund- og kæbekirurgi
+er steget
+
+Antallet af beskæftigede speciallæger i tand-, mund- og kæbekirurgi var i gennemsnit 67, med en variation på
+58-77 i perioden 2012-2021. Endvidere ses det af tabel 10, at de fleste specialtandlæger i tand-, mund- og kæ-
+bekirurgi er beskæftiget i Region Hovedstaden og Region Midtjylland, hvor de to største tand-, mund- og kæ-
+bekirurgiske afdelinger også er placeret.
+
+Tabel 10. Udvikling i antal beskæftigede specialtandlæger i tand-, mund- og kæbekirurgi fordelt på region,
+2012-2021
+
+Region Hovedstaden  2012     2013  2014                    2015  2016             2017  2018  2019  2020  2021
+
+                      24       27    25                      25    24               25    27    30    24    28
+                                                             14    14               14    14    13    15    19
+Region Midtjylland  13       12    13                         7     7                8     8     9     7     7
+                                                              8     8                9    10     9     8     7
+Region Nordjylland  5        6     7                          9    14               13    13    15    14    16
+                                                             63    67               69    72    76    68    77
+Region Sjælland     7        6     7
+
+Region Syddanmark   9        9     9
+
+I alt               58       60    61
+
+Kilde: Bevægelsesregisteret (2021), Sundhedsdatastyrelsen
+
+Af figur 7 fremgår det, at der i 2021 var flest specialtandlæger i tand-, mund- og kæbekirurgi per 100.000 ind-
+byggere i Region Hovedstaden, og færrest i Region Sjælland. På landsplan var der 1,3 specialtandlæger i tand-
+, mund og kæbekirurgi per 100.000 indbyggere i 2021.
+
+Figur 7. Antal beskæftigede specialtandlæger i tand-, mund og kæbekirurgi per 100.000 indbyggere, 2021
+
+Kilde: Bevægelsesregisteret (2021), Sundhedsdatastyrelsen, og Danmarks Statistik
+Tandplejeprognose 2023-2045                                                                                                    Side 16/66
+
+Tabel 11 viser, at 88 pct. af beskæftigede specialtandlæger i tand-, mund- og kæbekirurgi er ansat på hospital
+(52 pct.) og i privat praksis (36 pct.).
+
+Tabel 11. Udvikling i antal beskæftigede specialtandlæger i tand-, mund- og kæbekirurgi fordelt på branche,
+2012-2021
+
+                          2012 2013 2014 2015 2016 2017 2018 2019 2020 2021
+
+Hospitalsansat               30  28                   31      31                       36         38  37  39               36  38
+
+Kommunal tandpleje           0   0                         0  0                        0          0   0   0                0   0
+
+Privat praksis               17  21                   22      24                       23         24  27  25               24  29
+
+Undervisning, stat m.fl.     9   8                         6  6                        6          5   6   9                6   7
+
+Note: I perioden 2012-2021 er der årligt 1-3 specialtandlæger beskæftiget i øvrige brancher.
+Kilde: Bevægelsesregisteret (2021), Sundhedsdatastyrelsen
+
+Det fremgår af figur 8, at hovedparten af specialtandlægerne i tand-, mund- og kæbekirurgi er mænd, og at
+cirka en femtedel i 2021 er over 60 år.
+
+Figur 8. Køns- og aldersfordeling blandt beskæftigede specialtandlæger i tand-, mund- og kæbekirurgi, 2021
+
+25
+
+                                                                                              20
+20
+
+15 13
+
+                                                  10                                                               9
+10                                                                                                        6
+
+    7           7
+
+                                                                                    5
+5
+
+0                                40-49 år                             50-59 år                        60 år eller derover
+       39 år eller derunder                Kvinder            Mænd
+
+Kilde: Bevægelsesregisteret (2021), Sundhedsdatastyrelsen
+
+3.2.3 Antallet af beskæftigede specialtandlæger i ortodonti er steget
+
+Det gennemsnitlige antal af beskæftigede specialtandlæger i ortodonti var 156 i perioden 2012-2021 med en
+variation fra 145 til 162. Flest specialtandlæger i ortodonti er beskæftiget i Region Hovedstaden og Region
+Midtjylland, mens færrest er beskæftiget i Region Sjælland og Region Nordjylland (tabel 12).
+Tandplejeprognose 2023-2045                                                                         Side 17/66
+
+Tabel 12. Udvikling i antal beskæftigede specialtandlæger i ortodonti fordelt på region, 2012-2021
+
+                    2012 2013 2014 2015 2016 2017 2018 2019 2020 2021
+
+Region Hovedstaden           55  55  55                    61  57  55  61              61  61       60
+
+Region Midtjylland           42  44  43                    41  41  43  41              43  44       43
+
+Region Nordjylland           12  10  14                    16  12  12  10              11  11       11
+
+Region Sjælland              13  15  15                    16  19  23  21              20  19       18
+
+Region Syddanmark            23  25  28                    27  27  28  29              24  22       27
+
+I alt                        145 149 155 161 156 161 162 159 157 159
+
+Kilde: Bevægelsesregisteret (2021), Sundhedsdatastyrelsen
+
+Af figur 9 fremgår det, at der er flest specialtandlæger i ortodonti per 100.000 indbyggere i Region Midtjylland
+og Region Hovedstaden og færrest i Region Nordjylland. På landsplan var der 2,7 specialtandlæger i ortodonti
+per 100.000 indbyggere i 2021.
+
+Figur 9. Antal beskæftigede specialtandlæger i ortodonti per 100.000 indbyggere, 2021
+
+Kilde: Bevægelsesregisteret (2021), Sundhedsdatastyrelsen og Danmarks Statistik
+
+Tabel 13 viser, at 82 pct. af beskæftigede specialtandlæger i ortodonti er ansat i kommunal tandpleje (57
+pct.) og privat praksis (25 pct.).
+Tandplejeprognose 2023-2045                                                                                       Side 18/66
+
+Tabel 13. Udvikling i antal beskæftigede specialtandlæger i ortodonti fordelt på branche, 2012-2021
+
+                             2012 2013 2014 2015 2016 2017 2018 2019 2020 2021
+
+Hospitalsansat               4       5                     5   8                 7   7   5   6                6   7
+
+Kommunal tandpleje           81  83                        93  91                85  91  93  92               92  96
+
+Privat praksis               37  38                        36  39                38  39  38  41               41  41
+
+Undervisning, stat m.fl.     18  13                        11  16                16  14  15  14               11  9
+
+Øvrige                       5   10                        10  7                 10  10  11  6                7   6
+I alt
+                             145 149 155 161 156 161 162 159 157 159
+
+Kilde: Bevægelsesregisteret (2021), Sundhedsdatastyrelsen og Danmarks Statistik
+
+Der er flere kvinder blandt specialtandlæger i ortodonti under 59 år, hvorimod der er flere mænd blandt spe-
+cialtandlæger over 60 år i 2021. En større gruppe af specialtandlægerne i ortodonti (26 pct.) er over 60 år (fi-
+gur 10).
+
+Figur 10. Køns- og aldersfordeling blandt beskæftigede specialtandlæger i ortodonti, 2021
+
+50
+
+                                 45
+
+45
+
+40
+
+35
+
+30
+
+25                                                              25                                      22
+                                        19                                                     19
+20      17
+                                                                           8             60 år eller derover
+15
+
+10
+ 54
+
+0                                40-49 år                              50-59 år
+       39 år eller derunder                Kvinder             Mænd
+
+Kilde: Bevægelsesregisteret (2021), Sundhedsdatastyrelsen
+Tandplejeprognose 2023-2045                                                                         Side 19/66
+
+3.3 Tandplejere
+
+3.3.1 Tilgangen til tandplejeuddannelsen har varieret
+
+Tandplejeruddannelsen er en professionsbacheloruddannelse af tre års varighed, som foregår på de sundheds-
+videnskabelige fakulteter i Aarhus og København. Udviklingen i tilgangen til tandplejeruddannelsen og særligt
+antallet af færdiguddannede, har afgørende betydning for udviklingen i antallet af tandplejere, der er til rå-
+dighed på arbejdsmarkedet.
+
+Gennemsnitsalderen ved påbegyndelsen af uddannelsen var i 2022 23 år, og den gennemsnitlige studietid var
+cirka 2,9 år. Gennemførselsprocenten for personer, der påbegynder tandplejeruddannelsen er cirka
+78 pct.
+
+Tilgangen til tandplejeruddannelsen var i perioden 2012 til 2022 i gennemsnit 149 studerende årligt med en
+variation på 136 til 156 (figur 11). Antallet af færdiguddannede tandplejere varierede fra 87 i 2012 til 129 i
+2022 med et gennemsnit på 117 årlige gennemførte på tandplejeruddannelsen. I gennemsnit var der i perioden
+2012-2022 cirka 14 personer med udenlandsk statsborgerskab, som startede på tandplejeuddannelsen.
+
+Figur 11. Tilgang og fuldførte ved tandplejeruddannelsen, 2012-2022
+
+180
+
+160
+
+140
+
+120
+
+100
+
+80
+
+60
+
+40
+
+20
+
+         0  2012             2013             2014  2015  2016  2017  2018  2019  2020  2021  2022
+            150              136              149   149   148   147   148   149   152   156   152
+Tilgang      87              123              121   109   119   108   120   122   128   125   129
+Fuldførte
+
+Kilde: Uddannelses- og Forskningsministeriet
+
+I perioden 2012-2022 var det langt overvejende kvinder, som startede på tandplejeruddannelsen. Samlet set
+var der i samme periode i gennemsnit cirka 93 pct. kvinder og cirka 7 pct. mænd på tandplejereuddannelse
+(figur 12). Dette ses også i fordelingen mellem mænd og kvinder, der på baggrund af en dansk uddannelse har
+opnået autorisation som tandplejer (tabel 13).
+Tandplejeprognose 2023-2045                                                                                            Side 20/66
+
+Figur 12. Tilgang til tandplejeruddannelsen fordelt på køn (pct.), 2012-2022
+                         120%
+
+         100%
+
+         80%
+
+         60%
+
+         40%
+
+         20%
+
+                      0%  2012    2013        2014  2015             2016  2017  2018  2019          2020  2021  2022
+                          86%     90%         95%   93%              95%   95%   91%   97%           95%   92%   95%
+         Andel kvinder    14%     10%          5%    7%               5%    5%    9%    3%            5%    8%    5%
+         Andel mænd
+
+Kilde: Uddannelses- og Forskningsministeriet
+
+Tabel 13. Køns- og aldersfordelingen af tandplejere, der på baggrund af en dansk uddannelse har opnået auto-
+risation i perioden 2012-2022
+
+   29 år eller derunder                                                          Kvinder                               Mænd
+
+   30-39 år                                                                          977                                  67
+                                                                                     243                                  23
+   40-49 år                                                                           56                                   3
+                                                                                      12                                   3
+   50-59 år                                                                           ---                                  0
+
+   60 år eller derover
+
+--- Data diskretioneret: værdi 1 eller 2
+Kilde: Det Statistiske Autorisationsregister, Sundhedsdatastyrelsen
+
+3.3.2 Antallet af beskæftigede tandplejere er steget
+
+Langt størstedelen af de udstedte autorisationer til tandplejere i perioden 2012 til 2022 skete på baggrund af
+en dansk uddannelse. Der er ganske få, der opnår autorisation på baggrund af en udenlandsk uddannelse (ta-
+bel 14).
+
+Tabel 14. Udvikling i antallet af udstedte autorisationer til dansk uddannede tandplejere, 2012-2022
+
+         2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+
+Danmark  94                  131              129   126              119   109         142           121   140   144          130
+
+Note: Ekskl. 13 udstedte autorisationer til udenlandske uddannede tandplejere i perioden 2012-2022.
+Kilde: Det Statistiske Autorisationsregister, Sundhedsdatastyrelsen
+Tandplejeprognose 2023-2045                                                                                      Side 21/66
+
+I 2021 var der 2.598 personer med tanplejeautorisation i beskæftigelse. I perioden 2012-2021 steg antallet af
+personer med tandplejerautorisation i beskæftigelse fra 1.976 i 2012 til 2.598 i 2021, en samlet stigning på
+31,5 pct., svarende til en gennemsnitlig årlig vækst på 3,1 pct. Ledigheden var omkring 2 pct.
+
+Tabel 15. Udvikling i antal beskæftigede tandplejere fordelt på branche, 2012-2021
+
+                             2012 2013 2014 2015 2016 2017 2018 2019 2020 2021
+
+Hospitalsansat               33    45                      42   39          40    44     47     43          44   47
+
+Kommunal tandpleje           383   402                     397  403         411   395    426    444         427  429
+
+Privat praksis               976   998 1.040 1.092 1.171 1.203 1.277 1.320 1.370 1.431
+
+Undervisning, stat m.fl.     188   203                     195  202         196   185    181    170         181  183
+
+Øvrige                       396   407                     433  436         426   470    493    482         497  508
+
+I alt                        1.976 2.055 2.107                  2.172  2.244      2.297  2.424  2.459  2.519     2.598
+
+Kilde: Bevægelsesregisteret (2021), Sundhedsdatastyrelsen
+
+Kategorien ”øvrige” i tabel 15 er relativ stor, og udgør i 2021 20 pct. af den samlede gruppe. Den angiver,
+hvor mange tandplejere, som ikke er praktiserende inden for den danske tandpleje, men fx er beskæftiget
+med fremstilling af farmaceutiske råvarer og præparater, engroshandel med medicinalvarer eller anden type
+beskæftigelse der ligger udenfor tandplejen.
+
+Af figur 13 fremgår det, at der har været en vækst i antallet af personer med tandplejerautorisation i alle re-
+gioner, og flest er i beskæftigelse i Region Hovedstaden og Region Midtjylland, hvilket formentlig skyldes pla-
+ceringen af uddannelsesinstitutioner i Aarhus og København.
+
+Figur 13. Udvikling i antal beskæftigede tandplejere fordelt på region, 2012-2021
+
+                     1.000   2012  2013  2014                   2015  2016  2017  2018   2019   2020  2021
+                        900  696   741   742                    780   791   815   847    859    894   940
+                        800  576   597   624                    628   638   662   702    712    720   736
+                        700  163   156   158                    161   177   191   195    194    208   202
+                        600  204   212   222                    225   242   239   254    262    260   275
+                        500  337   349   361                    378   396   390   426    429    437   445
+                        400
+                        300
+                        200
+                        100
+                          -
+
+        Region Hovedstaden
+        Region Midtjylland
+        Region Nordjylland
+        Region Sjælland
+        Region Syddanmark
+
+Kilde: Bevægelsesregisteret (2021), Sundhedsdatastyrelsen
+Tandplejeprognose 2023-2045                                                                Side 22/66
+
+Af figur 14 fremgår det, at der er flest tandplejerautoriserede i beskæftigelse per 100.000 indbyggere i Region
+Midtjylland og Region Hovedstaden. Region Sjælland havde færreste antal tandplejere per 100.000 indbyg-
+gere. På landsplan var der 44,3 personer med tandplejerautoration per 100.000 indbyggere i 2021.
+
+Figur 14. Tandplejere i beskæftigelse per 100.000 indbyggere fordelt på region, 2021
+
+Kilde: Bevægelsesregisteret (2021), Sundhedsdatastyrelsen og Danmarks Statistik
+
+I 2021 var cirka 17 pct. af de beskæftigede tandplejere ansat i den kommunale tandpleje, mens 1.431 tand-
+plejere, svarende til cirka 55 pct., var ansat i privat praksis. En forholdsvis stor gruppe af tandplejere på om-
+kring 20 pct. var i 2021 beskæftiget i brancher, der ikke kan henføres til tandplejen (tabel 16).
+
+Tabel 16. Fordelingen af beskæftigede tandplejere fordelt på region og branche, 2021
+
+                        Region       Region                        Region         Region      Region
+                    Hovedstaden   Midtjylland                   Nordjylland      Sjælland  Syddanmark
+
+Hospitalsansat               14                            18            4             4            7
+                                                                        39             37           83
+Kommunal tandpleje           146                           124         138            171          277
+                                                                         5             14           24
+Privat praksis               462                           383          16             49           54
+                                                                       202           275           445
+Undervisning, stat 77 63
+m.fl.
+
+Øvrige                       241                           148
+
+I alt                        940                           736
+
+Kilde: Bevægelsesregisteret (2021), Sundhedsdatastyrelsen
+Tandplejeprognose 2023-2045                                                                                 Side 23/66
+
+Figur 15 viser, at der i perioden er sket stigninger i antallet af personer i alle aldersgrupper med tandplejerau-
+torisation, som er i beskæftigelse. Det fremgår af figur 16, at de fleste tandplejere er kvinder.
+
+Figur 15. Antal beskæftigede tandplejere i 2012 og 2021 fordelt på aldersgruppe
+
+400
+
+350
+
+300
+
+250
+
+200
+
+150
+
+100
+
+50
+
+   0   24 år  25-29          30-34  35-39  40-44                  45-49  50-54  55-59  60-64  65-69  70-74
+       eller    år             år     år     år                     år     år     år     år     år     år
+2012  derund
+2021           238            266    267    327                    293    256    235     44     17     3
+         er    307            325    352    353                    296    328    278    210     84
+
+         30
+
+         63
+
+Note: Diskretioneret data i 2021 i aldersgruppe 70-74 år
+Kilde: Bevægelsesregisteret (2021), Sundhedsdatastyrelsen
+
+Figur 16. Køns- og aldersfordeling blandt beskæftigede tandplejere, 2021
+
+350
+
+300
+
+250
+
+200
+
+150
+
+100
+
+     50
+
+      0   24 år  25-29       30-34  35-39                  40-44  45-49  50-54  55-59  60-64  65-69  70-74
+          eller    år          år     år                     år     år     år     år     år     år     år
+Kvinder  derund
+Mænd        er    284         294    331                    333    288    313    268    204     82
+                   23          31     21                     20      8     15     10      6
+            58
+
+            5
+
+Note: Diskretioneret data i aldersgruppe 70-74 år og 65-69 år.
+Kilde: Bevægelsesregisteret (2021), Sundhedsdatastyrelsen
+Tandplejeprognose 2023-2045                                                                                Side 24/66
+
+Tabel 14 viser, at der fra 2012 til 2021 var en mindre stigning i andelen af beskæftigede tandplejere på deltid
+(32 timer eller derunder), således at 47 pct. af tandplejere i 2021 arbejdede på deltid.
+
+Tabel 14. Udvikling i antal beskæftigede tandplejere fordelt på fuldtid og deltid, 2012-2021
+
+            2012 2013 2014 2015                               2016     2017     2018     2019     2020     2021
+
+Deltid      831     902         930  958                        1.017    1.057    1.083    1.120    1.108    1.183
+                                                                1.163    1.175    1.272    1.272    1.342    1.349
+Fuldtid     1.084 1.091 1.115 1.153
+
+Note: Ekskl. uoplyst arbejdstid.
+Kilde: Bevægelsesregisteret (2021), Sundhedsdatastyrelsen
+
+I gennemsnit har der i perioden 2012-2021 været cirka 7 beskæftigede tandplejere med en udenlandsk uddan-
+nelse (tabel 15).
+
+Tabel 15. Udvikling i beskæftigede tandplejere i Danmark med udenlandsk uddannelse, 2012-2021
+
+            2012 2013 2014 2015                               2016     2017     2018     2019     2020     2021
+
+EU/EØS           0           0  0                          0       0        0        0       ---      ---      ---
+                                                                   4        5        5        6        8        7
+Norden           4           5  4                          4       3       ---       3        3        3       ---
+                                                                   7       ---       8       ---      ---      ---
+Tredjeland  ---              3  3                          3
+
+I alt       ---              8  7                          7
+
+--- Data diskretioneret: værdi 1 eller 2
+Kilde: Bevægelsesregisteret (2021), Sundhedsdatastyrelsen
+
+3.4 Kliniske tandteknikere
+
+3.4.1 Tilgangen til uddannelsen i klinisk teknik har varieret
+
+Uddannelsen i klinisk tandteknik blev i 2023 ændret fra at være en erhvervsakademiuddannelse på to år til en
+professionsbacheloruddannelse af 3,5 års varighed, som foregår på Aarhus Universitet.
+
+Gennemsnitsalderen ved påbegyndelse af uddannelsen i klinisk tandteknik har i perioden 2012-2021 været
+28,6 år og gennemførselsprocenten er på omkring 94 pct.
+
+I gennemsnit har den årlige tilgang til uddannelsen i klinisk tandteknik været 13 studerende, heraf har i gen-
+nemsnit 12 personer årligt fuldført uddannelsen (figur 17). I perioden 2012-2022 var det udelukkende personer
+med dansk statsborgerskab, som startede på uddannelsen i klinisk tandteknik.
+Tandplejeprognose 2023-2045                                                                                         Side 25/66
+
+Figur 17. Tilgang og fuldførte ved uddannelsen i klinisk tandteknik, 2012-2022
+
+20
+
+18
+
+16
+
+14
+
+12
+
+10
+
+8
+
+6
+
+4
+
+2
+
+         0  2012             2013             2014  2015  2016  2017  2018  2019                  2020  2021  2022
+             13               12               12    12    14    12    18    16                    15    10    15
+Tilgang       9               11                9    13    13    13    10    12                    16    16
+Fuldførte
+
+Kilde: Uddannelses- og Forskningsministeriet
+Note: I 2022 er der ingen tilgang til uddannelsen på grund af omlægning til professionsbachelor.
+
+Af figur 18 fremgår det, at det i perioden 2012-2021 langt overvejende var kvinder, som startede på uddannel-
+sen til klinisk tandtekniker, svarende til cirka 70 pct. kvinder og 30 pct. mænd. Dette ses også i fordelingen
+mellem mænd og kvinder, der på baggrund af en dansk uddannelse har opnået autorisation som klinisk tand-
+tekniker (tabel 16).
+
+Figur 18. Tilgang til uddannelsen i klinisk tandteknik fordelt på køn (pct.), 2012-2021
+
+    90%
+
+    80%
+
+    70%
+
+    60%
+
+    50%
+
+    40%
+
+    30%
+
+    20%
+
+    10%
+
+             0%  2012              2013             2014  2015  2016  2017  2018                  2019  2020  2021
+                 69%               58%              67%   58%   86%   83%   78%                   69%   73%   60%
+Andel kvinder    31%               42%              33%   42%   14%   17%   22%                   31%   27%   40%
+Andel mænd
+
+Kilde: Uddannelses- og Forskningsministeriet
+Tandplejeprognose 2023-2045                                                                                       Side 26/66
+
+Tabel 16. Køns- og aldersfordelingen af kliniske tandteknikere, der på baggrund af en dansk uddannelse har
+opnået autorisation i perioden 2012-2022
+
+   29 år eller derunder                                                      Kvinder                      Mænd
+
+   30-39 år                                                                       46                         20
+                                                                                  40                         12
+   40-49 år                                                                       15                         ---
+                                                                                   4                         ---
+   50-59 år
+
+--- Data diskretioneret: værdi 1 eller 2
+Kilde: Det Statistiske Autorisationsregister, Sundhedsdatastyrelsen
+
+3.4.2 Antallet af beskæftigede kliniske tandteknikere er faldet
+
+Der er variation i antallet, der har opnået autorisation som klinisk tandtekniker. Der er ikke registreret nogen,
+der har opnået autorisation på baggrund af en udenlandsk uddannelse (tabel 17).
+
+Tabel 17. Antal udstedte autorisationer til klinisk tandtekniker med en dansk uddannelse, 2012-2022
+
+                 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022
+
+Danmark          10     8                 7    11                    12  21      17      16      10       15      14
+
+Kilde: Det Statistiske Autorisationsregister, Sundhedsdatastyrelsen
+
+I 2021 var der 326 personer med klinisk tandteknikerautorisation i beskæftigelse, og cirka 1 pct. var ledige. I
+perioden 2012-2021 har antallet af beskæftigede kliniske tandteknikere varieret fra 312 til 348 (tabel 18). Der
+er ingen beskæftigede kliniske tandteknikere i Danmark med en udenlandsk uddannelse i perioden 2012-2021.
+
+Tabel 18. Udvikling i antal beskæftigede kliniske tandteknikere fordelt på branche, 2012-2021
+
+                        2012 2013 2014                     2015          2016    2017    2018    2019     2020    2021
+
+Fremstilling af         164               158  148            143           139     144     141     138      132     140
+                                                                8             5       3       3      ---       3      ---
+dentale instrumenter                                            3             3       3       4       4        3       3
+                                                                                                    125              133
+Hospitalsansat               7            6    7              122           127     126     127              122
+                                                                                                      7                7
+Kommunal tandpleje           4            5    4                9             8       7       8                7
+                                                                                                     40               41
+Privat praksis          112               114  105             49            45      37      38      ---      45      ---
+                                                              334           327     320     321              312
+Undervisning,
+
+offentlige forvaltning       17           11   12
+
+mm.
+
+Øvrige                       44           50   49
+
+I alt                   348               344  325
+
+--- Data diskretioneret: værdi 1 eller 2
+
+Kilde: Bevægelsesregisteret (2021), Sundhedsdatastyrelsen
+
+I Region Hovedstaden, Region Sjælland og Region Syddanmark ses et fald i antallet af beskæftigede kliniske
+tandteknikere fra 2012 til 2021, mens der ses en mindre stigning i antallet i Region Nordjylland og Region
+Midtjylland (figur 19).
+Tandplejeprognose 2023-2045                                                                            Side 27/66
+
+Figur 19. Udvikling i antal beskæftigede kliniske tandteknikere fordelt på region, 2012-2021
+
+120
+
+100
+
+80
+
+60
+
+40
+
+20
+
+                  -          2012  2013  2014              2015  2016  2017  2018  2019  2020  2021
+                             105   107    95                98    92    87    86    86    81    87
+Region Hovedstaden            69    71    73                74    69    75    79    73    75    73
+Region Midtjylland            38    39    37                39    38    36    35    36    37    41
+Region Nordjylland            56    54    50                53    55    50    51    51    47    52
+Region Sjælland               80    73    70                70    73    72    70    70    72    73
+Region Syddanmark
+
+Kilde: Bevægelsesregisteret (2021), Sundhedsdatastyrelsen
+
+I figur 20 ses, at antallet af kliniske tandteknikere i beskæftigelse per 100.000 indbyggere i 2021 varierer regi-
+onerne imellem, hvor der er flest kliniske tandteknikere i Region Nordjylland og færrest i Region Hovedstaden.
+På landsplan var der i 2021 5,6 kliniske tandteknikere per 100.000 indbyggere.
+
+Figur 20. Antal kliniske tandteknikere i beskæftigelse per 100.000 indbyggere fordelt på region, 2021
+
+Kilde: Bevægelsesregisteret (2021), Sundhedsdatastyrelsen
+
+I 2021 var 140 kliniske tandteknikere, svarende til cirka 43 pct., beskæftiget i branchen ”fremstilling af den-
+tale instrumenter”, som blandt andet dækker over kliniske tandteknikere, der har deres egen praksis, mens
+Tandplejeprognose 2023-2045                                                                               Side 28/66
+
+cirka 41 pct. var beskæftiget hos en praktiserende tandlæge. Omkring 13 pct. var i 2021 beskæftiget uden for
+de traditionelle brancher for kliniske tandteknikere og heller ikke beskæftiget med undervisning og offentlig
+forvaltning (tabel 19).
+
+Tabel 19. Antal beskæftigede kliniske tandteknikere fordelt på region og branche, 2021
+
+                                          Region           Region         Region      Region          Region
+                                                                       Nordjylland   Sjælland      Syddanmark
+                                Hovedstaden Midtjylland
+                                                                               19          24               37
+Fremstilling af dentale                   34                 26
+                                                                               ---         0                0
+instrumenter                                                                   ---         0                ---
+                                                                               15          24               27
+Hospitalsansat                            ---                0                  0         ---               ---
+
+Kommunal tandpleje                        0                  ---                5          3                7
+
+Privat praksis                            32                 35
+
+Undervisning, offentlige                  ---                4
+
+forvaltning mm.
+
+Øvrige                                    19                 7
+
+--- Data diskretioneret: værdi 1 eller 2
+
+Kilde: Bevægelsesregisteret (2021), Sundhedsdatastyrelsen
+
+Figur 21 viser, at gruppen af kliniske tandteknikere over 55 år udgjorde en større andel i 2012 (44 pct.) end i
+2021 (28 pct.).
+
+Figur 21. Antal beskæftigede kliniske tandteknikere i 2012 og 2021 fordelt på aldersgruppe
+
+        80
+
+        70
+
+        60
+
+        50
+
+        40
+
+        30
+
+        20
+
+        10
+
+           0   24 år     25-29  30-34          35-39  40-44     45-49  50-54  55-59  60-64  65-69  70-74
+               eller       år     år             år     år        år     år     år     år     år     år
+        2012  derund
+        2021               21     31             44     43        31     22     67     47     29     10
+                 er        28     29             45     41        53     39     29     23     28     11
+
+                 3
+
+                 0
+
+Kilde: Bevægelsesregisteret (2021), Sundhedsdatastyrelsen
+
+Figur 22 viser, at der er flest kvindelige kliniske tandteknikere fra 25 år i 2021, og at den gennemsnitlig forde-
+ling mellem kvinder og mænd på tværs af aldersgrupperne 25-74 år er henholdsvis 71 pct. og 29 pct.
+Tandplejeprognose 2023-2045                                                                                 Side 29/66
+
+Figur 22. Køns- og aldersfordeling blandt beskæftigede kliniske tandteknikere, 2021
+
+         40
+
+         35
+
+         30
+
+         25
+
+         20
+
+         15
+
+         10
+
+         5
+
+      0       24 år  25-29   30-34  35-39                  40-44  45-49  50-54  55-59  60-64  65-69  70-74
+              eller    år      år     år                     år     år     år     år     år     år     år
+Kvinder      derund
+Mænd            er     20      21     31                     35     38     30     17     14     19      8
+                        8       8     14                      6     15      9     12      9      9      3
+                0
+
+                0
+
+Kilde: Bevægelsesregisteret (2021), Sundhedsdatastyrelsen
+
+Tabel 20 viser, at der har været en faldende andel af beskæftigede kliniske tandteknikere på deltid (32 timer
+eller derunder) fra 22 pct. i 2012 til 16 pct. i 2021.
+
+Tabel 20. Udvikling i antal beskæftigede kliniske tandteknikere fordelt på fuldtid og deltid, 2012-2021
+
+         2012 2013 2014 2015 2016 2017 2018 2019 2020 2021
+
+Deltid       39      38      33            33                     25     29            31     29     31     35
+
+Fuldtid      141     141     136           146                    154    151           160    163    169    181
+
+Note: Ekskl. uoplyst arbejdstid.
+Kilde: Bevægelsesregisteret (2021), Sundhedsdatastyrelsen
+Tandplejeprognose 2023-2045                                                                                                    Side 30/66
+
+4. Det fremtidige udbud af personale
+    i tandplejen
+
+I dette kapitel præsenteres den forventede udvikling i udbuddet af tandlæger, specialtandlæger i ortodonti,
+specialtandlæger i tand-, mund- og kæbekirurgi, tandplejere og kliniske tandteknikere. En nærmere beskri-
+velse af udgangspopulationen og prognosemodellen fremgår i kapitel 5.
+
+4.1 Antallet af tandlæger i arbejdsstyrken forventes at stige
+
+Prognosen indeholder fremskrivninger baseret på følgende fem scenarier, der beskriver udbuddet af tandlæger
+i arbejdsstyrken på baggrund af varierende tilgang til kandidatuddannelsen i odontologi:
+
+      • Grundscenariet, hvor der årligt forventes en uændret tilgang til kandidatuddannelsen på omkring 154
+            studerende. I perioden 2026-2029 forventes en variation i tilgangen1.
+
+      • Scenarie 1, hvor tilgangen til kandidatuddannelsen stiger med 10 pct. fra 2023 og frem.
+      • Scenarie 2, hvor tilgangen til kandidatuddannelsen stiger med 20 pct. fra 2023 og frem.
+      • Scenarie 3, hvor tilgangen til kandidatuddannelsen falder med 10 pct. fra 2023 og frem.
+      • Scenarie 4, hvor tilgangen til kandidatuddannelsen falder med 20 pct. fra 2023 og frem.
+
+Fremskrivningerne baseret på de fem scenarier fremgår af figur 23.
+
+1 https://ufm.dk/aktuelt/pressemeddelelser/2022/125-millioner-kroner-fra-politisk-aftale-forer-til-flere-uddannede-tandlaeger
+Tandplejeprognose 2023-2045                                                                                           Side 31/66
+
+Figur 23. Udvikling i antal tandlæger i arbejdsstyrken, 2023-2045
+
+    6.000
+    5.500
+    5.000
+    4.500
+    4.000
+    3.500
+    3.000
+    2.500
+    2.000
+    1.500
+    1.000
+
+      500
+        -
+
+Grundscenariet                                                              Tilgang til kandidatuddannelsen +10 pct.
+Tilgang til kandidatuddannelsen +20 pct.                                    Tilgang til kandidatuddannelsen -10 pct.
+Tilgang til kandidatuddannelsen -20 pct.
+
+Kilde: Prognosekørsel på Bevægelsesregistret (2021), Sundhedsdatastyrelsen
+
+I grundscenariet forventes et mindre fald på 90 personer med tandlægeautorisation frem mod 2030 (4.629),
+hvorefter udbuddet forventes at stige frem mod 2045. Antallet af personer med tandlægeautorisation forven-
+tes samlet set at stige med 347 personer i perioden 2023-2045, svarende til en stigning på 7,4 pct. (tabel 21).
+
+Såfremt tilgangen til kandidatuddannelsen i odontologi øges med 10 eller 20 pct. fra 2023 (scenarie 1 og 2),
+forventes det at medføre en stigning på henholdsvis 635 og 919 tandlæger i arbejdsstyrken frem mod 2045.
+
+Reduceres tilgangen til kandidatuddannelsen i odontologi med 10 eller 20 pct. fra 2023 (scenarie 3 og 4), ses
+ændringer på henholdsvis 63 og -215 tandlæger i arbejdsstyrken frem mod 2045. I tabel 21 sammenlignes de
+fem scenarier for udviklingen i udbuddet af tandlæger.
+
+Tabel 21. Sammenligning af udvikling i antal tandlæger i de forskellige scenarier
+
+                              Grund-    Tilgang                             Tilgang   Tilgang   Tilgang
+                             scenariet  +10 pct.                            +20 pct.  -10 pct.  -20 pct.
+
+Antal i 2023                 4.719      4.718                               4.719        4.719     4.719
+Antal i 2045                 5.066      5.353                               5.638        4.782     4.504
+Ændring (antal), 2023-2045    347        635                                 919                    -215
+                                                                                           63      -4,5%
+Ændring (pct.), 2023-2045    7,4%       13,5%                               19,5%        1,3%      -0,2%
+                                                                                         0,1%
+Ændring (gns.) pr. år        0,3%       0,6%                                0,8%
+
+Kilde: Prognosekørsel på Bevægelsesregistret (2021), Sundhedsdatastyrelsen
+Tandplejeprognose 2023-2045                                                                                                   Side 32/66
+
+Såfremt ratioen på 79,5 tandlæger per 100.000 indbyggere i 2023 fastholdes, fremgår det af figur 24, at det
+forventede udbud i antallet af tandlæger i grundscenariet, ikke følger med befolkningsudviklingen (ligger un-
+der 2023-ratioen) frem mod 2033, hvorefter det forventede udbud nogenlunde følge befolkningsudviklingen
+(ligger på linje med 2023-ration).
+
+Figur 24. Grundscenariet og udvikling i antal tandlæger per 100.000 indbyggere hvis ratio fastholdes
+som i 2023
+
+   5.500
+   5.000
+   4.500
+   4.000
+   3.500
+   3.000
+   2.500
+   2.000
+   1.500
+   1.000
+
+      500
+       -
+
+                             Grundscenariet  2023 ratio
+
+Kilde: Prognosekørsel på Bevægelsesregistret (2021), Sundhedsdatastyrelsen, og Danmarks Statistiks befolkningsfremskrivning.
+
+4.2 Antallet af specialtandlæger i tand-, mund- og kæbekirurgi
+forventes at stige
+
+Prognosen indeholder fremskrivninger baseret på følgende fem scenarier for udviklingen i udbuddet af special-
+tandlæger i tand-, mund- og kæbekirurgi:
+
+      • Grundscenariet, hvor fremskrivningen af udviklingen i antallet af specialtandlæger i tand-, mund-
+            og kæbekirurgi i arbejdsstyrken er baseret på, at den gældende dimensionering på 6 uddannelses-
+            forløb i 2024 fastholdes.
+
+      • Scenarie 1, hvor dimensioneringen øges med 1 uddannelsesforløb årligt fra 2025.
+      • Scenarie 2, hvor dimensioneringen øges med 2 uddannelsesforløb årligt fra 2025.
+      • Scenarie 3, hvor dimensioneringen reduceres med 1 uddannelsesforløb årligt fra 2025.
+      • Scenarie 4, hvor dimensioneringen reduceres med 2 uddannelsesforløb årligt fra 2025.
+
+I fremskrivningerne antages det, at uddannelsen gennemføres på fem år.
+
+I grundscenariet forventes en stigning på 20 personer med specialtandlægeanerkendelse i tand-, mund- og kæ-
+bekirurgi frem mod 2030 (99). Udbuddet af specialtandlæger forventes at stige til 139 personer i 2045. Antal-
+let af specialtandlæger forventes samlet set at stige med 60 i perioden 2023-2045, svarende til en stigning på
+76,2 pct. (figur 25 og tabel 22).
+Tandplejeprognose 2023-2045                                                                                             Side 33/66
+
+Figur 25. Udvikling i antal specialtandlæger i tand-, mund- og kæbekirurgi i arbejdsstyrken, 2023-2045
+   200
+   175
+   150
+   125
+   100
+     75
+     50
+     25
+     -
+
+                              Grundscenariet                                      Dimensionering øges (+1)
+                              Dimensionering øges (+2)                            Dimensionering reduceres (-1)
+                              Dimensionering reduceres (-2)
+
+Kilde: Prognosekørsel på Bevægelsesregistret (2021), Sundhedsdatastyrelsen
+
+Øges dimensionering med 1 uddannelsesforløb (scenarie 1) eller 2 uddannelsesforløb (scenarie 2) ses en stig-
+ning i antallet af specialtandlæger i tand-, mund- og kæbekirurgi på henholdsvis 78 og 90 i perioden 2023-
+2045. Reduceres dimensioneringen derimod med 1 uddannelsesforløb (scenarie 3) eller 2 uddannelsesforløb
+(scenarie 4) ses en mindre stigning på henholdsvis 47 og 29 specialtandlæger frem mod 2045. En nærmere
+sammenligning af de fem scenarier ses i tabel 22.
+
+Tabel 22. Sammenligning af antal specialtandlæger i tand-, mund- og kæbekirurgi i de forskellige scenarier
+
+                             Grund-  Dim.   Dim.                                  Dim.                           Dim.
+
+                             scenariet øges (+1) øges (+2) reduceres (-1) reduceres (-2)
+
+Antal i 2023                 79      79                                     79      79                             79
+                                                                                   126                            108
+Antal i 2045                 139     157                                    169     47                             29
+                                                                                  60,0%                          36,8%
+Ændring (antal), 2023-2045   60      78                                     90    2,2%                           1,4%
+
+Ændring (pct.), 2023-2045    76,2%   98,6%  113,4%
+
+Ændring (gns.) pr. år        2,6%    3,2%                                   3,5%
+
+Kilde: Prognosekørsel på Bevægelsesregistret (2021), Sundhedsdatastyrelsen
+
+Såfremt ratioen på 1,3 specialtandlæger i tand-, mund- og kæbekirurgi per 100.000 indbyggere i 2023 fasthol-
+des, ses det, at det forventede udbud i antallet af specialtandlæger i tand-, mund- og kæbekirurgi i grundsce-
+nariet, ligger væsentligt over befolkningsudviklingen (2023-ratioen) frem mod 2045 (figur 26).
+Tandplejeprognose 2023-2045                                                                                                   Side 34/66
+
+Figur 26. Grundscenariet og udvikling i antal specialtandlæger i tand-, mund- og kæbekirurgi per 100.000 ind-
+byggere hvis ratio fastholdes som i 2023
+
+   160
+   140
+   120
+   100
+
+    80
+    60
+    40
+    20
+     -
+
+                             Grundscenariet  2023 ratio
+
+Kilde: Prognosekørsel på Bevægelsesregistret (2021), Sundhedsdatastyrelsen, og Danmarks Statistiks befolkningsfremskrivning.
+
+4.3 Antallet af specialtandlæger i ortodonti forventes at stige
+
+Prognosens fremskrivninger indeholder følgende fem scenarier for udviklingen af udbuddet af specialtandlæ-
+ger i ortodonti:
+
+      • Grundscenariet, hvor fremskrivningen af udviklingen i antallet af specialtandlæger i ortodonti er ba-
+            seret på, at den gældende dimensionering på 8 uddannelsesforløb i 2024 fastholdes.
+
+      • Scenarie 1, hvor dimensioneringen øges med 1 uddannelsesforløb årligt fra 2025.
+      • Scenarie 2, hvor dimensioneringen øges med 2 uddannelsesforløb årligt fra 2025.
+      • Scenarie 3, hvor dimensioneringen reduceres med 1 uddannelsesforløb årligt fra 2025.
+      • Scenarie 4, hvor dimensioneringen reduceres med 2 uddannelsesforløb årligt fra 2025.
+
+I fremskrivningerne antages det, at specialtandlægeuddannelsen i ortodonti gennemføres på tre år.
+
+I grundscenariet forventes en mindre stigning på 12 personer med specialtandlægeanerkendelse i ortodonti
+frem mod 2030 (175), hvorefter udbuddet forventes at stige til 208 i 2045. Antallet af specialtandlæger i orto-
+donti forventes samlet set at stige med 45 i perioden 2023-2045, svarende til en stigning på 27,6 pct. (figur 27
+og tabel 23).
+Tandplejeprognose 2023-2045                                                                                            Side 35/66
+
+Figur 27. Udvikling i antal specialtandlæger i ortodonti i arbejdsstyrken, 2023-2045
+   300
+   250
+   200
+   150
+   100
+    50
+     -
+
+                             Grundscenariet                                       Dimensionering øges (+1)
+                             Dimensionering øges (+2)                             Dimensionering reduceres (-1)
+                             Dimensionering reduceres (-2)
+
+Kilde: Prognosekørsel på Bevægelsesregistret (2021), Sundhedsdatastyrelsen
+
+Øges dimensionering med 1 uddannelsesforløb (scenarie 1) eller 2 forløb (scenarie 2) ses en stigning i antallet
+af specialtandlæger i ortodonti på henholdsvis 65 og 78 i perioden 2023-2045. Reduceres dimensioneringen
+med 1 uddannelsesforløb (scenarie 3) eller 2 uddannelsesforløb (scenarie 4) ses en mindre stigning på hen-
+holdsvis 30 og 13 specialtandlæger i ortodonti frem mod 2045. En nærmere sammenligning af de fem scenarier
+for specialtandlæger i ortodonti ses i tabel 23.
+
+Tabel 23. Sammenligning af antal specialtandlæger i ortodonti i de forskellige scenarier
+
+                             Grund-  Dim.   Dim.                                  Dim.                           Dim.
+
+                             scenariet øges (+1) øges (+2) reduceres (-1) reduceres (-2)
+
+Antal i 2023                 163     164                                    163    163                           163
+                                                                                   193                           176
+Antal i 2045                 208     229                                    241     30                            13
+                                                                                  18,4%                          8,0%
+Ændring (antal), 2023-2045   45      65                                     78    0,8%                           0,3%
+
+Ændring (pct.), 2023-2045    27,6%   39,6%  47,9%
+
+Ændring (gns.) pr. år        1,1%    1,5%                                   1,8%
+
+Kilde: Prognosekørsel på Bevægelsesregistret (2021), Sundhedsdatastyrelsen
+
+Såfremt ratioen på 2,8 specialtandlæger i ortodonti per 100.000 indbyggere i 2023 fastholdes, ses det at det
+forventede udbud i antallet af specialtandlæger i ortodonti, ligger væsentligt over befolkningsudviklingen
+(2023-ratioen) frem mod 2045 (figur 28).
+Tandplejeprognose 2023-2045                                                                                                   Side 36/66
+
+Figur 28. Grundscenariet og udvikling i antal specialtandlæger i ortodonti per 100.000 indbyggere hvis ratio
+fastholdes som i 2023
+
+   225
+   200
+   175
+   150
+   125
+   100
+
+    75
+    50
+    25
+     -
+
+                             Grundscenariet  2023 ratio
+
+Kilde: Prognosekørsel på Bevægelsesregistret (2021), Sundhedsdatastyrelsen, og Danmarks Statistiks befolkningsfremskrivning.
+
+4.4 Antallet af tandplejere forventes at stige
+
+Prognosens fremskrivninger indeholder følgende fem scenarier for udviklingen i udbuddet af personer, som har
+opnået autorisation som tandplejer:
+
+      • Grundscenariet, hvor der forventes en uændret tilgang til uddannelsen på omkring 150 studerende
+            årligt fra 2023 og frem.
+
+      • Scenarie 1, hvor tilgangen til uddannelsen stiger med 10 pct. fra 2023 og frem.
+      • Scenarie 2, hvor tilgangen til uddannelsen stiger med 20 pct. fra 2023 og frem.
+      • Scenarie 3, hvor tilgangen til uddannelsen falder med 10 pct. fra 2023 og frem.
+      • Scenarie 4, hvor tilgangen til uddannelsen falder med 20 pct. fra 2023 og frem.
+
+I fremskrivningerne antages det, at uddannelsen gennemføres på tre år.
+
+I grundscenariet forventes en stigning på 228 personer med tandplejerautorisation frem mod 2030 (3.246),
+hvorefter udbuddet forventes at stige til 3.704 i 2045. Antallet af personer med tandplejerautorisation forven-
+tes samlet set at stige med 686 i perioden 2023-2045, svarende til en stigning på 22,7 pct. (figur 29 og tabel
+24).
+Tandplejeprognose 2023-2045                                                                                   Side 37/66
+
+Figur 29. Udvikling i antal tandplejere i arbejdsstyrken, 2023-2045
+
+   4.500
+   4.000
+   3.500
+   3.000
+   2.500
+   2.000
+   1.500
+   1.000
+
+      500
+       -
+
+                              Grundscenariet                                Tilgang til uddannelsen +10 pct.
+                              Tilgang til uddannelsen +20 pct.              Tilgang til uddannelsen -10 pct.
+                              Tilgang til uddannelsen -20 pct.
+
+Kilde: Prognosekørsel på Bevægelsesregistret (2021), Sundhedsdatastyrelsen
+
+Såfremt tilgangen til uddannelsen i tandpleje øges med 10 eller 20 pct. fra 2023 (scenarie 1 og 2), vil det med-
+føre stigninger på henholdsvis 879 og 1.052 tandplejere i arbejdsstyrken frem mod 2045.
+
+Reduceres tilgangen til uddannelsen med 10 eller 20 pct. fra 2023 (scenarie 3 og 4), vil det medføre stigninger
+på henholdsvis 470 og 282 personer med autorisation som tandplejer i arbejdsstyrken frem mod 2045. En nær-
+mere sammenligning af de fem scenarier for tandplejere ses i tabel 24.
+
+Tabel 24. Sammenligning af antal tandplejere i de forskellige scenarier
+
+                              Grund-    Tilgang                             Tilgang   Tilgang                 Tilgang
+                             scenariet  +10 pct.                            +20 pct.  -10 pct.                -20 pct.
+
+Antal i 2023                 3.018      3.018                               3.018        3.018                   3.018
+                                                                            4.070        3.488                   3.300
+Antal i 2045                 3.704      3.897                               1.052         470                     282
+                                                                            34,9%        15,6%                   9,3%
+Ændring (antal), 2023-2045   686        879                                 1,4%         0,7%                    0,4%
+
+Ændring (pct.), 2023-2045    22,7%      29,1%
+
+Ændring (gns.) pr. år        0,9%       1,2%
+
+Kilde: Prognosekørsel på Bevægelsesregistret (2021), Sundhedsdatastyrelsen
+
+Såfremt ratioen på 50,9 personer med tandplejerautorisation per 100.000 indbyggere i 2023 fastholdes, ses
+det at det forventede udbud i antallet af tandplejere i grundscenariet ligger over befolkningsudviklingen
+(2023-ratioen) frem mod 2045 (figur 30).
+Tandplejeprognose 2023-2045                                                                                                   Side 38/66
+
+Figur 30. Grundscenariet og udvikling i antal tandplejere per 100.000 indbyggere hvis ratio fastholdes
+som i 2023
+
+   4.000
+   3.500
+   3.000
+   2.500
+   2.000
+   1.500
+   1.000
+
+      500
+       -
+
+                             Grundscenariet  2023 ratio
+
+Kilde: Prognosekørsel på Bevægelsesregistret (2021), Sundhedsdatastyrelsen, og Danmarks Statistiks befolkningsfremskrivning.
+
+4.5 Antallet af kliniske tandteknikere forventes at stige
+
+Prognosens fremskrivninger indeholder følgende fem scenarier for udviklingen af udbuddet af kliniske tandtek-
+nikere:
+
+      • Grundscenariet, hvor der forventes en tilgang til uddannelsen på 25 studerende årligt i perioden
+            2023-2025 og 18 studerende årligt fra 2026 og frem.
+
+      • Scenarie 1, hvor tilgangen til uddannelsen stiger med 10 pct. fra 2023 og frem.
+      • Scenarie 2, hvor tilgangen til uddannelsen stiger med 20 pct. fra 2023 og frem.
+      • Scenarie 3, hvor tilgangen til uddannelsen falder med 10 pct. fra 2023 og frem.
+      • Scenarie 4, hvor tilgangen til uddannelsen falder med 20 pct. fra 2023 og frem.
+
+Fremskrivningerne baseret på de fem scenarier ses i figur 29.
+
+I grundscenariet forventes en stigning på 21 personer med autorisation i klinisk tandteknik frem mod 2030
+(367), hvorefter udbuddet forventes at stige til 450 i 2045. Antallet af kliniske tandteknikere forventes samlet
+set at stige med 104 i perioden 2023-2045, svarende til en stigning på 30,1 pct. (figur 31 og tabel 25).
+Tandplejeprognose 2023-2045                                                                                   Side 39/66
+
+Figur 31. Udvikling i antal kliniske tandteknikere i arbejdsstyrken, 2023-2045
+
+  600
+  550
+  500
+  450
+  400
+  350
+  300
+  250
+  200
+  150
+  100
+
+    50
+     0
+
+                       Grundscenariet                                       Tilgang til uddannelsen +10 pct.
+                       Tilgang til uddannelsen +20 pct.                     Tilgang til uddannelsen -10 pct.
+                       Tilgang til uddannelsen -20 pct.
+
+Kilde: Prognosekørsel på Bevægelsesregistret (2021), Sundhedsdatastyrelsen
+
+Såfremt tilgangen til uddannelsen i klinisk tandteknik øges med 10 eller 20 pct. fra 2023 (scenarie 1 og 2), vil
+det medføre stigninger på henholdsvis 137 og 190 kliniske tandteknikere i arbejdsstyrken frem mod 2045.
+
+Reduceres tilgangen til uddannelsen med 10 eller 20 pct. fra 2023 (scenarie 3 og 4), vil det medføre stigninger
+på henholdsvis 86 og 56 kliniske tandteknikere i arbejdsstyrken frem mod 2045.
+
+I årene 2024 – 2026 bliver der ikke uddannet nye kliniske tandteknikere som følge af omlægning af uddan-
+nelsen til professionsbachelor. Der er således ingen forskel på de forskellige scenarier før omkring 2030. Da
+forskellene først indtræffer i 2030, er der ligeledes ikke stor forskel på de forskellige scenarier i 2045. En nær-
+mere sammenligning af de fem scenarier for kliniske tandteknikere ses i tabel 25.
+
+Tabel 25. Sammenligning af antal kliniske tandteknikere i de forskellige scenarier
+
+                              Grund-    Tilgang                             Tilgang   Tilgang                 Tilgang
+                             scenariet  +10 pct.                            +20 pct.  -10 pct.                -20 pct.
+
+Antal i 2023                 346                         346                     346      346                     346
+                                                                                 536      432                     402
+Antal i 2045                 450                         483                     190       86                      56
+                                                                               54,9%     24,9%                   16,2%
+Ændring (antal), 2023-2045   104                         137                    2,0%     1,0%                    0,7%
+
+Ændring (pct.), 2023-2045    30,1%      39,6%
+
+Ændring (gns.) pr. år        1,2%       1,5%
+
+Kilde: Prognosekørsel på Bevægelsesregistret (2021), Sundhedsdatastyrelsen
+Tandplejeprognose 2023-2045                                                                                                   Side 40/66
+
+Såfremt ratioen på 5,8 kliniske tandteknikere per 100.000 indbyggere i 2023 fastholdes, ses det, at det forven-
+tede udbud i antallet af kliniske tandteknikere i grundscenariet ligger over befolkningsudviklingen (2023-rati-
+oen) frem mod 2045 (figur 32).
+
+Figur 32. Grundscenariet og udvikling i antal kliniske tandteknikere per 100.000 indbyggere hvis ratio fasthol-
+des som i 2023
+
+   500
+   450
+   400
+   350
+   300
+   250
+   200
+   150
+   100
+
+    50
+     -
+
+                             Grundscenariet  2023 ratio
+
+Kilde: Prognosekørsel på Bevægelsesregistret (2021), Sundhedsdatastyrelsen, og Danmarks Statistiks befolkningsfremskrivning.
+Tandplejeprognose 2023-2045                                                                                                                 Side 41/66
+
+4.6 Sammenligning af grundscenarierne
+
+Overordnet set forventes udbuddet af personer med tandfaglig autorisation og/eller specialanerkendelse at
+stige for alle faggrupper. En sammenligning af grundscenarierne fremgår af figur 33 og figur
+34 nedenfor.
+
+Figur 33. Sammenligning af grundscenarier for tandlæger, tandplejere og kliniske tandteknikere,
+2023-2045
+
+5.500   4.719                                                                                       5.066
+5.000   3.018                                                                                       3.704
+4.500   346
+4.000                                                                                                 450
+3.500
+3.000
+2.500
+2.000
+1.500
+1.000
+
+  500
+     0
+
+                 Tandplejere  Tandlæger                                     Kliniske tandteknikere
+
+Kilde: Prognosekørsel på Bevægelsesregistret (2021), Sundhedsdatastyrelsen
+
+Figur 34. Sammenligning af grundscenarier for specialtandlæger, 2023-2045
+
+225
+                                                                                                                                       208
+
+200
+
+175     163
+
+150                                                                                                 139
+
+125
+
+100
+             79
+
+ 75
+
+50
+
+25
+
+0
+
+                                                 Specialtandlæger (ortodonti)
+                                                 Specialtandlæger (tand,- mund- og kæbekirurgi)
+
+Kilde: Prognosekørsel på Bevægelsesregistret (2021), Sundhedsdatastyrelsen
+Tandplejeprognose 2023-2045  Side 42/66
+
+5. Modelbeskrivelse
+
+Tandplejeprognosen er en såkaldt mikrosimulationsmodel, der simulerer alle autoriserede tandplejepersona-
+lers fremtidige tilknytning til arbejdsmarkedet og tilbagetrækning. For tandlægerne simuleres også videreud-
+dannelse til specialtandlæge. Prognosen baserer sig på data fra Bevægelsesregisteret, der er op- dateret til og
+med 2021. For alle faggrupperne i tandplejeprognosen gælder at udgangspopulationen (2021) i den kohorte,
+der følges til og med 2045, udgøres af personer der:
+
+      • Har gyldig dansk autorisation
+      • Er bosiddende i Danmark
+      • Er under 75 år
+      • Ikke er pensioneret
+
+Ud over de personer, der har en af de pågældende autorisationer i startåret 2021, simuleres nyt tand-
+plejepersonale, der tilgår kohorten årligt. For hvert prognoseår simuleres desuden, hvor meget tand-
+plejepersonale, der forlader arbejdsstyrken, som følge af pension, orlov, død eller udvandring. Der
+tages ikke særskilt hensyn til udenlandske uddannede tandlæger, der får en dansk autorisation. De
+tilgår kohorten på samme måde som dansk uddannede tandlæger.
+
+Mikrosimulationsmetoden indebærer, at modellen følger enkeltindivider igennem prognoseårene. Hver
+af de tre faggrupper følger forskellige uddannelses- og pensionsmønstre, og der er derfor udar-
+bejdet følgende tre modeller:
+
+      • En model for tandlæger og specialtandlæger
+      • En model for tandplejere
+      • En model for kliniske tandteknikere
+
+Modellerne består overordnet af to dele. Den ene del prøver at beskrive, hvad der fra år til år sker
+med hvert enkelt individ i modellerne. Den anden del behandler størrelsen af populationerne, der
+hvert år suppleres med nye autoriserede.
+
+For hvert prognoseår er der en vis sandsynlighed for, at det enkelte individ overgår fra én status på
+arbejdsmarkedet til en anden, fx fra at være i arbejde til at gå på pension. På samme måde er der en
+vis sandsynlighed for, at en tandlæge uden speciale begynder på en specialtandlægeuddannelse. Sand-
+synligheden for at overgå til en ny arbejdsmarkedsstatus er beregnet ud fra køns- og aldersspecifikke
+historiske data fra perioden 2011-2021 for henholdsvis sygeplejersker (der anvendes til tandplejere) og
+tandlæger (der anvendes til tandlæger og kliniske tandteknikere).
+
+Hvor sandsynlighederne for at overgå fra én kategori af arbejdsmarkedstilknytning til en anden base-
+rer sig på historiske data, anvendes opgørelser fra Uddannelses- og Forskningsministeriet til hvert år til
+at estimere antallet af nye autoriserede.
+
+Estimater for antallet af nye autoriserede og bevægelser på arbejdsmarkedet for dem, der allerede er
+en del af populationen udgør grundlaget for en mikrosimulation. Mikrosimulationen gentages flere
+gange for at opnå et resultat, som er mindre påvirket af enkelte udsving. For små grupper (fx
+Tandplejeprognose 2023-2045  Side 43/66
+
+specialtandlæger) er én simulation behæftet med større risiko for udsving end gennemsnittet af
+mange gentagne simulationer.
+
+Prognoserne indeholder forskellige scenarier for udvikling i antallet af personer med de pågældende
+autorisationer. Der udarbejdes dels et grundscenarie af udvikling for hver af de tre faggrupper. Herud-
+over udarbejdes scenarier, hvor der er ændret i antagelser om antallet af nyuddannede og antallet af
+specialtandlæger. Scenarierne er udarbejdet for at belyse, hvilken betydning ændringer af antagelser
+kan have for det forventede udbud af tandplejepersonale. Figur 35 giver en oversigt over mikrosimula-
+tionsmodellerne og de parametre, der er indarbejdet i simuleringen. I figuren er tandlægerne anvendt
+som eksempel.
+
+Figur 35. Beskrivelse af mikrosimulationsmodel, eksempel med tandlæger
+
+Note: Populationen af autoriserede tandlæger vises i firkanten med hvid baggrund. Tandlægerne er en del af arbejdsstyrken, så
+længe de enten arbejder, er ledige eller er på orlov. Den grå kasse er nyuddannede tandlæger, der bliver en del af populationen.
+Den lyse- grønne kasse er de tandlæger, der har forladt arbejdsstyrken. Pilene illustrere, at en tandlæge kan gå fra arbejdsstyrken (i
+arbejde eller ledig) til enten orlov (stadig en del af arbejdsstyrken) eller helt ud af arbejdsstyrken (pension, udvandring eller død).
+Den røde firkant skal illustrere at enkelte tandlæger får en anerkendelse som specialtandlæge. Antallet af specialtandlægeuddan-
+nelsespladser fastlægges i Sundhedsstyrelsens dimensioneringsplaner.
+
+Kilde: Sundhedsdatastyrelsen
+
+5.1 Modelinput
+
+Datagrundlaget for tandplejeprognosen er Bevægelsesregisteret (2021), der kombinerer data om auto-
+risationer fra Det Statistiske Autorisationsregister (2022) med blandt andet uddannelses- og arbejds-
+markedsoplysninger fra Danmarks Statistik. Opgørelsen er opgjort med arbejdsmarkedstilknytning
+i november, mens autorisation, uddannelsesoplysninger med videre er fra december i det pågældende
+år. Bevægelsesregisteret indeholder oplysninger om personer med en sundhedsfaglig uddannelse
+og deres tilknytning til det danske arbejdsmarked. Data dækker perioden fra 1980 til og med 2021,
+og opdateres årligt.
+Tandplejeprognose 2023-2045  Side 44/66
+
+Data i Bevægelsesregisteret stammer fra:
+
+      • Det Statistiske Autorisationsregister (AUT)
+      • Den Registerbaserede ArbejdsStyrke (RAS), der bl.a. dannes af
+      • eIndkomstregisteret (arbejdssituation defineres pr. ultimo november)
+      • Uddannelsesstatistikken
+      • Barsel og sygedagpengestatistikken
+      • Centrale personregister (CPR)
+
+Data fra 2011-2021 benyttes til at bestemme sandsynligheden for at overgå fra én status på arbejdsmarkedet
+til en anden, fx fra at være i arbejde til at gå på pension. Ud over disse input bygger modellen også på Uddan-
+nelses- og Forskningsministeriets prognose for antallet af nyuddannede. For tandlægerne er der desuden opgø-
+relser af kandidatalder (år efter autorisation) i forhold til specialtandlægeuddannelse. Det vil sige, at sand-
+synligheden for at påbegynde en specialtandlægeuddannelse er baseret på historiske data om køn og al-
+der for tandlæger, der blev specialtandlæger fra 2011 til 2021. I modellen antages det, at en tandlæge, der
+påbegynder en uddannelse som specialtandlæge, færdiggør uddannelsen på normeret tid.
+
+Oplysninger anvendt i tandplejeprognosemodellen:
+
+      • Sociodemografiske data
+      • Køn og alder
+      • Arbejdsmarkedstilknytning (fx orlov, pension)
+      • Faglige autorisation fra Styrelsen for Patientsikkerhed
+      • Sandsynlighed for død fra CPR
+      • Prognose for kandidat- og professionsbachelorproduktionen fra Uddannelses- og Forskningsministeriet
+      • Kandidatalder for specialtandlæger
+      • Sundhedsstyrelsens dimensioneringsplaner for specialtandlægeuddannelsen
+
+5.2 Udgangspopulation
+
+Udgangspopulationerne omfatter autoriserede tandplejepersonale i 2021 under 75 år. Grænsen på
+de 75 år er valgt, da tandplejepersonales tilladelse til selvstændigt virke bortfalder, når de fylder 75
+år.
+
+      • Udgangspopulationen for tandlæger omfatter 4.561 autoriserede tandlæger i arbejdsstyrken (beskæf-
+            tigede (4.535) og ledige læger (26)) og 212 tandlæger på orlov i alt 4.773 tandlæger.
+
+      • Udgangspopulationen for tandplejere omfatter 2.661 personer med tandplejerautorisation i arbejds-
+            styrken (beskæftigede (2.598) og ledige tandplejere (63)) og 222 tandplejere på orlov i alt 2.883
+            tandplejere.
+
+      • Udgangspopulationen for kliniske tandteknikere omfatter 331 autoriserede kliniske tandteknikere i
+            arbejdsstyrken (beskæftigede (326) og ledige tandteknikere (5)) og 12 kliniske tandteknikere på orlov
+            i alt 343 kliniske tandteknikere.
+
+Derudover omfatter udgangspopulationerne henholdsvis 133 tandlæger, 138 tandplejere og 23 kliniske
+tandteknikere uden for arbejdsstyrken, som hverken er på pension eller orlov. Sundhedspersoner i
+tandplejen på orlov og øvrige uden for arbejdsstyrken inkluderes i udgangspopulationerne, da der er
+en mulighed for, at de vender tilbage til arbejdsstyrken.
+Tandplejeprognose 2023-2045                                                                          Side 45/66
+
+5.3 Simulation af tandplejepersonalets tilknytning til
+arbejdsmarkedet
+
+I mikrosimulationsmodellen opdeles alle autoriserede i forhold til tilknytning til arbejdsmarkedet på
+baggrund oplysninger om socioøkonomisk status23:
+
+      • I arbejdsstyrken, der omfatter personer med autorisation inden for tandplejen, som er i arbejde og
+            ledige, der står til rådighed for arbejdsmarkedet.
+
+      • Orlov, der omfatter tandplejepersonale på børnepasningsorlov, fravær på grund af sygdom og fra-
+            vær på grund af barsel.
+
+      • Pension, der opfatter tandplejepersonale på pension; men ikke førtidspensionerede.
+      • Øvrige uden for arbejdsstyrken, der omfatter tandplejepersonale, der ikke står til rådighed for ar-
+
+            bejdsmarkedet, heriblandt førtidspensionerede og udrejste. Gruppen indeholder ikke tandplejeperso-
+            nale på pension og orlov.
+
+Det er indarbejdet i modellen, at tandplejepersonale, der er fyldt 75 år automatisk overgår til pension
+uanset deres tilknytning til arbejdsmarkedet.
+
+Ud over tandplejepersonalets tilknytning til arbejdsmarkedet opdeles tandlægerne også efter uddan-
+nelsesstatus (se afsnit: overgang fra tandlæge til specialtandlæge) og i hvert prognoseår er der desu-
+den indarbejdet en vis risiko for at afgå ved døden.
+
+For at modellere bevægelserne på arbejdsmarkedet er det nødvendigt at kende sandsynlighederne for
+at tandplejepersonaler går fra én status til en anden. I mikrosimulationsmodellen anvendes informa-
+tion om sandsynligheden for, at tandplejepersonalet i et givent år fx går fra at være i arbejde til i det
+efterfølgende år at være på orlov. Sådan en sandsynlighed kaldes en overgangssandsynlighed. Over-
+gangen mellem de forskellige former for arbejdsmarkedstilknytning i mikrosimulationsmodellen af-
+hænger af alder, køn og for tandlægerne, om vedkommende har en specialtandlægeanerkendelse el-
+ler ej.
+
+2 https://www.dst.dk/da/Statistik/dokumentation/Times/moduldata-for-arbejdsmarked/soc-status-kode
+3 https://www.dst.dk/da/Statistik/dokumentation/Times/moduldata-for-arbejdsmarked/fravaer-besk-kode
+Tandplejeprognose 2023-2045  Side 46/66
+
+      Faktaboks 1: Estimation af overgangsandsynligheder
+
+       Overgangsandsynlighederne estimeres i en multinominal logistisk regression. Det er en
+       statistisk model, der bliver anvendt, når den variabel, der undersøges, har mere end to
+       udfald. Fx hvis udfaldet af en behandling ikke er ’syg’ eller ’rask’, men i stedet er ’syg’,
+       ’syg uden symptomer’ og ’rask’. I den model, der bliver anvendt i prognoserne, er det
+       tilknytningen til arbejdsmarkedet (fire kategorier), der skal bestemmes ud fra alder
+       (kontinuert), køn og for tandlægerne desuden specialtandlægeanerkendelse (binær).
+       Modellen kan bruges til at beregne de forventede sandsynligheder for, at hvert af de
+       forskellige udfald sker.
+
+       I mikrosimulationsmodellen bruger vi ikke testresultatet fra den multinominale logisti-
+       ske regressionsmodel, men alene de beregnede sandsynligheder til at simulere overgan-
+       gene på arbejdsmarkedet.
+
+       Modellen estimerer sandsynligheden for hvert af udfaldene på samme tid, det vil sige
+       modellen estimerer fx sandsynligheden for, at en 45-årig mandlig tandlæge, der pt. er
+       i arbejdsstyrken, næste år enten (1) forbliver i arbejdsstyrken, (2) går på orlov, (3) går
+       på pension eller kategoriseres som (4) øvrige uden for arbejdsstyrken. Summen af sand-
+       synlighederne for de forskellige overgange summere til 1 (100 pct.). For tandplejeper-
+       sonale i en given alder og et givent køn vil summen af sandsynlighederne for overgang
+       fra ’arbejde til arbejde’ + ’arbejde til orlov’ + ’arbejde til uden for arbejdsstyrken’ +
+       ’arbejde til pension’ være lig med 1 (100 pct.).
+
+Et eksempel på de estimerede overgangssandsynligheder for kvindelige tandlæge, der er i arbejde,
+vises i figur 36. For hvert alderstrin er der en population af tandlæger, hvoraf en del har forladt ar-
+bejdsmarkedet (døde, pensionerede eller udvandrede), en del vil være på orlov og en del vil være i
+arbejde. Den samlede population af 28-årige kvindelige tandlæger er således summen af dem, der er i
+arbejdsstyrken og dem, der er uden for arbejdsstyrken.
+
+Overgangssandsynlighederne er fordelt på alder, og opgjort for hvert køn og arbejdsmarkedsstatus for
+sig. Om en tandlæge er i arbejde, på orlov eller har forladt arbejdsstyrken i år, trækkes blandt de
+tandlæger, der henholdsvis er i arbejde eller på orlov. Af figuren fremgår det, at en 28-årig kvindelig
+tandlæge, der i 2023 var en del af arbejdsstyrken, har cirka 16 pct. sandsynlighed for at gå på orlov i
+2024. Tilsvarende har hun omkring 82 pct. sandsynlighed for at forblive i arbejde i 2024. De reste-
+rende cirka 2 pct. udgøres af sandsynligheden for at blive pensioneret eller udtræde af arbejdsstyrken
+(øvrige uden for arbejdsmarkedet). De cirka 2 pct., der forlader arbejdsstyrken, henholdsvis dør, bli-
+ver pensioneret eller udvandrer, er ikke en del af arbejdsstyrken året efter. Følges populationen af
+28-årige kvindelige tandlæger i fem år, vil antallet der er i arbejde eller på orlov derfor være faldet.
+
+For en 70-årig kvindelig tandlæge, der stadig er i arbejdsstyrken er sandsynligheden for at gå på pen-
+sion cirka 24 pct. En meget stor andel af de 70-årige kvindelige tandlæger vil dog allerede have forladt
+arbejdsstyrken. Bidraget til samlede antal af tandlæger i prognoseårene udgøres med overvægt af
+tandlæger i alderen 30-69 år.
+Tandplejeprognose 2023-2045                                                                                               Side 47/66
+
+Figur 36. Eksempel på overgangssandsynligheder for kvindelige tandlæger og kliniske tandteknikere i
+arbejde beregnet med mikrosimulationsmodellen, beregnet på akkumuleret data fra 2011-2021
+
+Note: For alle aldre er der ca. 1-3 pct. sandsynlighed for at overgå til kategorien ”øvrige uden for arbejdsmarkedet”
+Kilde: Bevægelsesregisteret (2021), Sundhedsdatastyrelsen
+
+Tilsvarende viser figur 37 overgangssandsynligheder for kvindelige tandplejere i arbejde. En 28-årig
+kvindelig tandplejer har cirka 20 pct. sandsynlighed for at gå på orlov. Figurerne viser, at der er for-
+skel på tandplejeres og tandlægers sandsynligheder for at gå på pension, gå på orlov, forlade ar-
+bejdsstyrken eller forblive i arbejdsstyrken året efter.
+
+Figur 37. Eksempel på overgangssandsynligheder for kvindelige tandplejere i arbejde beregnet med mikrosimu-
+lationsmodellen, beregnet på akkumuleret data fra 2011-2021
+
+Note: For alle aldre er der ca. 1-3 pct. sandsynlighed for at overgå til populationen ”øvrige uden for arbejdsmarkedet”.
+Kilde: Bevægelsesregisteret (2021), Sundhedsdatastyrelsen
+Tandplejeprognose 2023-2045                                                                    Side 48/66
+
+Sandsynlighederne for at gå på orlov ændrer sig ikke over tid. En 28-årig tandplejer har i mikrosimula-
+tionsmodellen derfor samme sandsynlighed for at gå på orlov i 2037 som i 2023.
+
+Faktaboks 2: Eksempel på mikrosimulation af tandlægens arbejdsmarkedstil-
+knytning
+
+Eksemplet tager udgangspunkt i en kvindelig tandlæge, der i 2022 er 35 år. Den kvindelige
+tandlæge er i arbejde, og hendes arbejdsmarkedstilknytning er, at hun er i arbejdsstyrken.
+
+I anden række ses kvindens status i 2023. Sandsynligheden for at, en 36-årig (et år ældre end
+i 2022) kvindelige tandlæge forbliver i arbejde er 87,8 pct. Den grønne markering indikerer,
+at denne arbejdsmarkedstilknytning blev trukket for 2022, jf. trækningsmetoden beskrevet i
+faktaboks 1. I 2025 ændres den kvindelige tandlæges tilknytning til arbejdsmarkedet. For en
+38-årige kvindelige tandlæge i arbejdsstyrken er der 9,4 pct. sandsynlighed for orlov. Dette
+udfald trækkes. I 2026 trækkes der fra de sandsynligheder, der hører til en 39-årig kvinde på
+orlov. I trækningen vender den kvindelige tandlæge tilbage til arbejdsstyrken.
+
+År    Alder Status sidste år                Overgangsandsynligheder, pct.
+2022       35 ARB                ARB ORL PEN UAR Status indeværende år
+2023       36 ARB
+2024       37 ARB                 87,1 10,7 0,0 2,1 ARB
+2025       38 ARB                 87,8 10,0 0,0 2,1 ARB
+2026       39 ORL                 88,6 9,4 0,0 2,0 ARB
+…                                 89,2 8,8 0,0 1,9 ORL
+      …                           89,9 8,3 0,0 1,9 ARB
+
+Fortsatte modellen til 2050 ville den kvindelige tandlæge være 63 år og i dette eksempel er
+tandlægen stadig i arbejde. I 2052 er tandlægen 65 år og har 10,7 pct. sandsynlighed for at
+gå på pension. Dette udfald trækkes. Hun er herefter med 100 pct. sandsynlighed på pension
+i resten af prognosen, da pension er et endeligt stadie i tandplejeprognosemodellerne.
+
+År    Alder    Status sidste år  ARB ORL PEN UAR Status indeværende år
+…     …
+2050           ARB                91,3 1,4 6,8 0,6 ARB
+2051       63  ARB                89,7 1,2 8,6 0,5 ARB
+2052       64  ARB                87,7 1,1 10,7 0,5 PEN
+2053       65  PEN
+2054       66  PEN                  0,0 0,0 100,0 0,0 PEN
+           67                       0,0 0,0 100,0 0,0 PEN
+
+For at gå fra overgangssandsynlighed til udfald og realisere overgangene, foretages tilfældige træk fra en
+uniform fordeling (se Faktaboks 2). Faktaboks 2 viser desuden et simuleret forløb for en kvindelig tandlæge
+og hvordan sandsynlighederne ændrer sig med alderen.
+Tandplejeprognose 2023-2045                                          Side 49/66
+
+Figur 38 illustrerer bevægelser i mikrosimulationsmodellen mellem forskellige former for tilknytning til ar-
+bejdsmarkedet. Overgår tandplejepersonalet til pension eller død kan de i mikrosimulationsmodellen ikke
+indgå i arbejdsstyrken igen.
+
+Figur 38. Bevægelser i mikrosimulationsmodellen, bevægelse på arbejdsmarkedet
+
+Arbejdsstyrken
+
+                                   Orlov  Pension
+                                          /Dødsfald
+
+Øvrige uden for
+Arbejdsstyrken
+
+Kilde: Sundhedsdatastyrelsen
+
+Figur 39 illustrere hver enkelt klinisk tandtekniker, tandlæge, og tandplejer, som følges fra år til år. I hvert
+år er der en vis sandsynlighed for, at vedkommende er i arbejdsstyrken, går på orlov, går på pension eller
+dør, hvorefter personen forlader populationen.
+
+Figur 39. Illustration af bevægelser fra år til år på individniveau
+
+2022                         2023         2045
+
+Kilde: Sundhedsdatastyrelsen
+
+5.3.1 Pension
+
+Det er i mikrosimulationsmodellen muligt at gå på pension på to måder:
+      • Tandplejepersonale under 75 år overgår til pension via udregnede overgangssandsynligheder.
+      • Tandplejepersonale, der fylder 75 år bliver automatisk pensioneret.
+
+For tandplejere og kliniske tandteknikere er der ikke er nok, der er blevet pensioneret endnu til at der kan
+anvendes fagspecifikke pensionssandsynligheder i modellerne. Derfor er pensionsmønsteret for sygeplejer-
+sker anvendt i modellen, når det gælder tandplejere. For de kliniske tandteknikere anvendes pensionsmøn-
+steret for tandlæger.
+Tandplejeprognose 2023-2045                                   Side 50/66
+
+5.3.2 Udrejse
+
+For tandplejere og tandlæger indarbejdes en øget udrejsetilbøjelig for de udenlandske statsborgere uddan-
+net i Danmark (gruppen ”øvrige uden for arbejdsstyrken”). Det betyder, at sandsynligheden for at en uden-
+landsk statsborger skifter arbejdsmarkedstilknytning til ”øvrige uden for arbejdsstyrken” er større end for
+en dansk statsborger.
+
+Udrejsesandsynligheden findes ved en binomial logistisk regression for udenlandske statsborgere uddannet i
+Danmark. Udrejsesandsynligheden er alene afhængig af kandidatalderen, og falder over tid.
+
+5.4 Tilgang af nyt tandplejepersonale
+
+En prognosemodel der strækker sig over mere end 20 år får udskiftet en stor del af populationen. Aldersfor-
+delingen af tilgangen af de individer, populationen bliver suppleret med, er derfor en vigtig del af model-
+len.
+
+Prognosemodellen anvender input fra Uddannelses- og Forskningsministeriet, der har estimeret den forven-
+tede kandidat- og professionsbachelorproduktion i prognoseårene. I Uddannelses- og Forskningsministeriets
+fremskrivning findes også den forventede kønsfordeling, men ikke alder. Som beskrevet i det foregående
+afsnit ændrer overgangssandsynlighederne sig med alderen. Den forventede alder for nyuddannede tandple-
+jepersonale estimeres ud fra data fra den aldersprofil de forskellige ny-autoriserede sundhedsprofessioner
+har ifølge Bevægelsesregisteret i årene 2011-2021.
+
+I figur 40, 41 og 42 ses den samlede aldersfordeling ved autorisation i årene 2011-2021. Figurerne viser
+blandt andet, at aldersprofilen for tandplejerne er yngre end for de to andre professioner. Figur 40 viser, at
+næsten en tredjedel af de ny-autoriserede tandplejere højst er 24 år, når de får deres autorisation, hvor-
+imod andelen af ny-autoriserede kliniske tandteknikere, der højest er 24 år, blot er 2 pct. (figur 41).
+
+Figurerne viser endvidere, hvordan den bedste tilnærmede lognormal fordeling ser ud. Det er den fordeling,
+der bestemmer, hvilken alder de ny-autoriserede får tildelt, når de tilgår kohorterne.
+
+Figur 40. Aldersfordeling af ny-autoriserede tandplejere uddannet i Danmark, 2011-2021
+
+     Pct.
+
+                                                                                              Lognormal
+
+                                                       Alder
+
+Kilde: Bevægelsesregisteret (2021), Sundhedsdatastyrelsen
+Tandplejeprognose 2023-2045                                                                               Side 51/66
+
+Figur 41. Aldersfordeling af ny-autoriserede kliniske tandteknikere uddannet i Danmark, 2011-2021
+     Pct.
+
+                                                                                               Lognormal
+
+                                                          Alder
+
+Kilde: Bevægelsesregisteret (2021), Sundhedsdatastyrelsen
+
+Figur 42. Aldersfordeling af ny-autoriserede tandlæger uddannet i Danmark, 2011-2011
+     Pct.
+
+                                                                                              Lognormal
+
+                                                          Alder
+
+Kilde: Bevægelsesregisteret (2021), Sundhedsdatastyrelsen
+
+5.5 Overgang fra tandlæge til specialtandlæge
+
+For hvert år i mikrosimulationsmodellerne bliver der tilføjet et antal tandlæger, der påbegynder special-
+tandlægeuddannelsen. Hvor mange nye speciallæger i ortodonti og i tand-, mund- og kæbekirurgi, der skal
+uddannes fastsættes i Sundhedsstyrelsens dimensioneringsplaner. En tandlæge, der ikke har en specialtand-
+lægeuddannelse har mulighed for at blive specialtandlæge. I 2023 er der dog blot otte nye specialtandlæ-
+ger i ortodonti og seks nye specialtandlæger i tand-, mund- og kæbekirurgi. I modellen kan enhver tand-
+læge, der har en kandidatalder på mindre end 20 år blive specialtandlæge. Modellen trækker tilfældigt de
+tandlæger, der får en specialtandlægeanerkendelse.
+
+Modellen antager, at en tandlæge, der i prognosen er startet på en specialtandlægeuddannelse, færdiggør
+specialtandlægeuddannelsen. Tandlægen har dog samme sandsynlighed for at gå på pension, udvandrer el-
+ler dø som resten af kohorten med samme køn og alder.
+Tandplejeprognose 2023-2045  Side 52/66
+
+5.6 Kliniske tandteknikere
+
+I mikrosimulationsmodellen for kliniske tandteknikere benyttes arbejdsmarkeds- og pensionsmønstre fra
+tandlæger. En 45-årig mandlig klinisk tandtekniker har i modellen samme sandsynlighed for at gå på orlov,
+forlade arbejdsstyrken, være i arbejde eller blive pensioneret som en 45-årig tandlæge. Modellen anvender
+aldersfordelingen for de ny-autoriserede kliniske tandteknikere i 2011-2021 til at estimere alderen for de
+kliniske tandteknikere, der hvert år tilgår kohorten.
+
+I modellen bliver der ikke taget højde for, at der kan være en øget eller mindsket udvandring blandt de kli-
+niske tandteknikere på grund af begrænset datagrundlag.
+
+5.7 Scenarier
+
+Der er udarbejdet forskellige scenarier for udviklingen i udbuddet af tandplejepersonale. For hver af faggrup-
+perne udfærdiges følgende scenarier:
+
+For tandlæger, tandplejere og kliniske tandteknikere:
+      • Grundscenariet, hvor der forventes en uændret tilgang til uddannelsen.
+      • Scenarie 1, hvor tilgangen til uddannelsen stiger med 10 pct. fra 2023 og frem.
+      • Scenarie 2, hvor tilgangen til uddannelsen stiger med 20 pct. fra 2023 og frem.
+      • Scenarie 3, hvor tilgangen til uddannelsen falder med 10 pct. fra 2023 og frem.
+      • Scenarie 4, hvor tilgangen til uddannelsen falder med 20 pct. fra 2023 og frem.
+
+For specialtandlæger:
+      • Grundscenariet, hvor fremskrivningen af udviklingen i antallet af specialtandlæger er baseret på den
+            gældende dimensionering.
+      • Scenarie 1, hvor dimensioneringen øges med 1 forløb årligt fra 2025.
+      • Scenarie 2, hvor dimensioneringen øges med 2 forløb årligt fra 2025.
+      • Scenarie 3, hvor dimensioneringen reduceres med 1 forløb årligt fra 2025.
+      • Scenarie 4, hvor dimensioneringen reduceres med 2 forløb årligt fra 2025.
+
+5.8 Test af mikrosimulationsmodellen
+
+For at vurdere prognosernes validitet og robusthed, er prognosen testet på data fra 2001 og til og med
+2011, hvor prognoseårene er 2012-2021. Det er derfor muligt at sammenligne resultaterne fra prognose-
+fremskrivningerne med den faktisk observerede udvikling.
+
+Figur 43 viser antallet af tandplejere i test af modellen og det faktiske antal. Mikrosimulationsmodellen
+estimerer, at der i 2021 vil være 2.669 tandplejere, hvor det faktiske antal er 2.661 tandplejere. Det giver
+en forskel fra det prognosticerede til det observerede på mindre end 0,5 pct. i år 2021. I perioden gælder
+det, at modellen ikke afviger mere end et par procent, hvor der er størst forskel. Figur 43 viser, at der en
+jævn tilvækst af tandplejere i årene 2012-2021.
+Tandplejeprognose 2023-2045                                                            Side 53/66
+
+Figur 43. Test af mikrosimulationsmodel for tandplejere baseret på data fra 2001-2011
+
+Kilde: Bevægelsesregisteret (2021), Sundhedsdatastyrelsen
+
+Figur 44 viser udviklingen over tid for mikrosimulationsmodellen og det faktisk antal kliniske tandteknikere.
+Udgangspunktet er det samme for henholdsvis mikrosimulationsmodel og det faktiske antal; 366 kliniske
+tandteknikere, hvilket er en lille population, når der både skal tages højde for køn, alder og arbejdsmar-
+kedstilknytning.
+
+Herudover fluktuerer antallet af kliniske tandteknikere over tid, og det er medvirkende til en difference
+mellem mikrosimulationsmodellen og det faktisk observerede. Den procentuelle forskel på test af modellen
+og det faktiske antal af kliniske tandteknikere varierer fra cirka 0,1 pct. til knap 12 pct. i perioden. I star-
+ten af perioden, hvor der ikke er store udsving, men hvor antallet af kliniske tandteknikere falder mere
+jævnt, følger modellen med.
+Tandplejeprognose 2023-2045                                                                       Side 54/66
+
+Figur 44. Test af mikrosimulationsmodel for kliniske tandteknikere baseret på data fra 2001-2011
+
+Kilde: Bevægelsesregisteret (2021), Sundhedsdatastyrelsen
+
+For tandlægerne er der testet både hvor mange tandlæger, der er i alt, og hvor mange specialtandlæger
+der er. Figur 45 viser, at der er overensstemmelse mellem mikrosimulationsmodellen og det faktiske antal
+tandlæger i alt. Den største forskel på det faktiske antal og mikrosimulationsmodellen ses i 2021, hvor an-
+tallet af tandlæger stiger efter at være faldet i hele perioden. En sådan udvikling bliver ikke modelleret af
+mikrosimulationsmodellen i samme år, men modellen vil justere over tid. Den procentuelle forskel er min-
+dre end 5 pct. i hele perioden.
+Figur 45. Test af mikrosimulationsmodel for tandlæger baseret på data fra 2001 – 2011
+
+Kilde: Bevægelsesregisteret (2021), Sundhedsdatastyrelsen
+Tandplejeprognose 2023-2045  Side 55/66
+
+For specialtandlægerne er der ligeledes overensstemmelse mellem det faktiske antal og mikrosimula-
+tionsestimater. For tand-, mund- og kæbekirurgi stiger det faktiske antal specialtandlæger fra 59 i
+2011 til 77 i 2021, hvor mikrosimulationsmodellen estimerer 76 i 2021 (figur 46). Tilsvarende gælder
+for specialtandlæger i ortodonti (figur 47), hvor det faktiske antal stiger fra 141 i 2011 til 159 i 2021,
+hvor mikrosimulationsmodellen estimerer 170 i 2021.
+
+Figur 46. Test af mikrosimulationsmodel for tand-, mund- og kæbekirurgi baseret på data fra 2001 – 2011
+
+Kilde: Bevægelsesregisteret (2021), Sundhedsdatastyrelsen
+
+Figur 47. Test af mikrosimulationsmodel for specialtandlæger i ortodonti baseret på data fra 2001 – 2011
+
+Kilde: Bevægelsesregisteret (2021), Sundhedsdatastyrelsen
+Tandplejeprognose 2023-2045  Side 56/66
+
+  6. Bilagsfortegnelse
+
+Bilag 1. Uddannelses- og Forskningsministeriets fremskrivninger af tilgang og fuldførte på tandfaglige uddannelser
+Tandplejeprognose 2023-2045                                                                                                                                             Side 57/66
+
+Bilag 1. Uddannelses- og Forskningsministeriets fremskrivninger af tilgang og fuldførte på tandfaglige uddannelser
+
+Fremskrivninger – Tandplejere
+
+Tabel 1. Forventet tilgang og fuldførte fra tandplejeruddannelsen i kalenderåret.
+
+                    2023       2024                          2025     2026     2027     2028                                  2029 2030 og frem
+
+Tilgang, i alt      150        150                           150      150      150                                    150     150  150
+Mænd
+Kvinder             8                                  8     8        8        8                                      8       8                                     8
+Danmark
+Øvrige Norden       142        142                           142      142      142                                    142     142  142
+Øvrige verden
+Fuldførte, ialt     135        135                           135      135      135                                    135     135  135
+Mænd
+Kvinder             15         15                            15       15       15                                     15      15                                    15
+Danmark
+Øvrige Norden    -        -                               -        -        -        -                                     -                                        -
+Øvrige verden
+                    118        120                           119      118      117                                    117     117  117
+Anm.:
+                    5                                  8     6        6        5                                      5       5                                     5
+
+                    113        112                           113      112      112                                    112     112  112
+
+                    107        108                           107      107      106                                    106     106  106
+
+                    11         12                            12       11       11                                     11      11                                    11
+
+                 -        -                               -        -        -        -                                     -                                        -
+
+                 Fordelingen efter nationalitet er i beregningerne forudsat til at følge fordelingen, som den var blandt de seneste fire års tilgange (2019-2022).
+
+                 Det er endvidere forudsat, at fuldførelsesprocenten mellem nationaliteterne er ens. Antal færre end
+
+                 fem vises ikke af diskretionshensyn.
+
+Kilde:           Uddannelses- og Forskningsministeriet
+Tandplejeprognose 2023-2045                                                                                                                                             Side 58/66
+
+Tabel 2. Tilgang og fuldførte fra tandplejeruddannelsen i kalenderåret, hvis tilgang øges med 10 pct. i forhold til aktuelt
+
+gældende loft.
+
+                             2023     2024                 2025     2026     2027     2028     2029 2030 og frem
+
+Tilgang, i alt               166      166                  166      166      166      166      166                                                              166
+
+Mænd                         10       9                    9        9        9        9        9                                                                    9
+
+Kvinder                      156      157                  157      157      157      157      157                                                              157
+
+Danmark                      149      149                  149      149      149      149      149                                                              149
+
+Øvrige Norden                16       16                   16       16       16       16       16                                                                   16
+
+Øvrige verden -                    -                    -        -        -        -        -                                                                       -
+
+Fuldførte, ialt              118      120                  119      129      129      129      129                                                              129
+
+Mænd                         5        8                    6        6        6        6        6                                                                    6
+
+Kvinder                      113      112                  113      123      123      123      123                                                              123
+
+Danmark                      107      108                  107      116      116      116      116                                                              116
+
+Øvrige Norden                11       12                   12       13       13       13       13                                                                   13
+
+Øvrige verden -                    -                    -        -        -        -        -                                                                       -
+
+Anm.:            Fordelingen efter nationalitet er i beregningerne forudsat til at følge fordelingen, som den var blandt de seneste fire års tilgange (2019-2022).
+
+                 Det er endvidere forudsat, at fuldførelsesprocenten mellem nationaliteterne er ens. Antal færre end fem vises af diskretionshensyn ikke i ta-
+
+                 bellen.
+
+Kilde:           Uddannelses- og Forskningsministeriet
+
+Tabel 3. Tilgang og fuldførte fra tandplejeruddannelsen i kalenderåret, hvis tilgang øges med 20 pct. i forhold til aktuelt
+gældende loft.
+
+                             2023     2024                 2025     2026     2027     2028     2029 2030 og frem
+
+Tilgang, i alt               181      181                  181      181      181      181      181                                                              181
+Mænd
+Kvinder                      10       9                    9        9        9        9        9                                                                    9
+Danmark
+Øvrige Norden                171      172                  172      172      172      172      172                                                              172
+Øvrige verden
+Fuldførte, ialt              162      162                  162      162      162      162      162                                                              162
+Mænd
+Kvinder                      18       18                   18       18       18       18       18                                                                   18
+Danmark
+Øvrige Norden    -                 -                    -        -        -        -        -                                                                       -
+Øvrige verden
+                             118      120                  119      138      140      140      140                                                              140
+Anm.:
+                             5        8                    6        7        6        6        6                                                                    6
+Kilde:
+                             113      112                  113      131      134      134      134                                                              134
+
+                             107      108                  107      124      126      126      126                                                              126
+
+                             11       12                   12       14       14       14       14                                                                   14
+
+                 -                 -                    -        -        -        -        -                                                                       -
+
+                 Fordelingen efter nationalitet er i beregningerne forudsat til at følge fordelingen, som den var blandt de seneste fire års tilgange (2019-2022).
+                 Det er endvidere forudsat, at fuldførelsesprocenten mellem nationaliteterne er ens. Antal færre end fem vises af diskretionshensyn ikke i ta-
+                 bellen.
+
+                 Uddannelses- og Forskningsministeriet
+Tandplejeprognose 2023-2045                                                                                                                                             Side 59/66
+
+Tabel 4. Tilgang og fuldførte fra tandplejeruddannelsen i kalenderåret, hvis tilgang reduceres med 10 pct. i forhold til
+aktuelt gældende loft.
+
+                             2023     2024                 2025     2026     2027     2028     2029 2030 og frem
+
+Tilgang, i alt               136      136                  136      136      136      136      136                                                              136
+Mænd
+Kvinder                      8        7                    7        7        7        7        7                                                                    7
+Danmark
+Øvrige Norden                128      129                  129      129      129      129      129                                                              129
+Øvrige verden
+Fuldførte, ialt              122      122                  122      122      122      122      122                                                              122
+Mænd
+Kvinder                      13       13                   13       13       13       13       13                                                                   13
+Danmark
+Øvrige Norden    -                 -                    -        -        -        -        -                                                                       -
+Øvrige verden
+                             118      120                  119      107      106      106      106                                                              106
+Anm.:
+                             5        8                    6        5        5        5        5                                                                    5
+Kilde:
+                             113      112                  113      102      101      101      101                                                              101
+
+                             107      108                  107      97       96       96       96                                                                   96
+
+                             11       12                   12       10       10       10       10                                                                   10
+
+                 -                 -                    -        -        -        -        -                                                                       -
+
+                 Fordelingen efter nationalitet er i beregningerne forudsat til at følge fordelingen, som den var blandt de seneste fire års tilgange (2019-2022).
+
+                 Det er endvidere forudsat, at fuldførelsesprocenten mellem nationaliteterne er ens. Antal færre end fem vises af diskretionshensyn ikke i ta-
+
+                 bellen.
+
+                 Uddannelses- og Forskningsministeriet
+
+Tabel 5. Tilgang og fuldførte fra tandplejeruddannelsen i kalenderåret, hvis tilgang reduceres med 20 pct. i forhold til
+aktuelt gældende loft.
+
+                             2023     2024                 2025     2026     2027     2028     2029 2030 og frem
+
+Tilgang, i alt               121      120                  120      120      120      120      120                                                              120
+Mænd
+Kvinder                      7        6                    6        6        6        6        6                                                                    6
+Danmark
+Øvrige Norden                114      114                  114      114      114      114      114                                                              114
+Øvrige verden
+Fuldførte, ialt              108      108                  108      108      108      108      108                                                              108
+Mænd
+Kvinder                      12       12                   12       12       12       12       12                                                                   12
+Danmark
+Øvrige Norden    -                 -                    -        -        -        -        -                                                                       -
+Øvrige verden
+                             118      120                  119      97       94       94       94                                                                   94
+Anm.:
+                             5        8                    6        5
+
+                             113      112                  113      92       90       90       90                                                                   90
+
+                             107      108                  107      88       85       85       85                                                                   85
+
+                             11       12                   12       9        9        9        9                                                                    9
+
+                 -                 -                    -        -        -        -        -                                                                       -
+
+                 Fordelingen efter nationalitet er i beregningerne forudsat til at følge fordelingen, som den var blandt de seneste fire års tilgange (2019-2022).
+
+                 Det er endvidere forudsat, at fuldførelsesprocenten mellem nationaliteterne er ens. Antal færre end fem vises af diskretionshensyn ikke i ta-
+
+                 bellen.
+
+Kilde:           Uddannelses- og Forskningsministeriet
+Tandplejeprognose 2023-2045                                                                                                                         Side 60/66
+
+Fremskrivninger - Tandlæger
+
+Tabel 6. Forventet tilgang og fuldførte fra tandlægeuddannelsen (KA) i kalenderåret.
+
+                             2023  2024                 2025  2026  2027                                          2028  2029  2030  2031  2032 2033 og frem
+
+Tilgang, i alt               154   154                  154   183   183                                           183   172   154   154        154                                                                      154
+Mænd
+Kvinder                      31    31                   31    36    36                                            36    34    31    31         31                                                                       31
+Danmark
+Øvrige Norden                123   123                  123   147   147                                           147   138   123   123        123                                                                      123
+Øvrige verden
+Fuldførte, ialt              141   141                  141   168   168                                           168   157   141   141        141                                                                      141
+Mænd
+Kvinder                      5     5                    5     5     5                                             5     5     5     5          5                                                                        5
+Danmark
+Øvrige Norden                8     8                    8     10    10                                            10    10    8     8          8                                                                        8
+Øvrige verden
+                             146   151                  152   153   153                                           176   180   181   173        156                                                                      153
+Anm.
+                             31    29                   30    31    31                                            35    36    36    35         31                                                                       31
+Kilde:
+                             115   122                  122   122   122                                           141   144   145   138        125                                                                      122
+
+                             134   138                  139   140   140                                           161   165   166   159        143                                                                      140
+
+                                   5                    5     5     5                                             5     5     5     5          5                                                                        5
+
+                             8     8                    8     8     8                                             10    10    10    9          8                                                                        8
+
+                 Fordelingen efter nationalitet er i beregningerne forudsat til at følge fordelingen, som den var blandt de seneste fire års tilgange (2019-2022). Det er endvidere forudsat, at fuldførelsesprocenten
+
+                 mellem nationaliteterne er ens. Antal færre end fem vises af diskretionshensyn ikke i tabellen.
+
+                 Uddannelses- og Forskningsministeriet
+
+Tabel 7. Tilgang og fuldførte fra tandlægeuddannelsen (KA) i kalenderåret, hvis tilgang øges med 10 pct. i forhold til aktuelt gældende loft.
+
+                             2023  2024                 2025  2026  2027                                          2028  2029  2030  2031  2032 2033 og frem
+
+Tilgang, i alt               169   169                  169   201   201                                           201   189   169   169        169                                                                      169
+Mænd
+Kvinder                      34    34                   34    40    40                                            40    38    34    34         34                                                                       34
+Danmark
+Øvrige Norden                135   135                  135   161   161                                           161   151   135   135        135                                                                      135
+Øvrige verden
+Fuldførte, ialt              155   155                  155   184   184                                           184   173   155   155        155                                                                      155
+Mænd
+Kvinder                      5     5                    5     6     6                                             6     6     5     5          5                                                                        5
+Danmark
+Øvrige Norden                9     9                    9     11    11                                            11    10    9     9          9                                                                        9
+Øvrige verden
+                             146   151                  165   166   168                                           194   199   199   183        170                                                                      168
+Anm.:
+                             31    29                   33    33    34                                            39    40    40    37         34                                                                       34
+Kilde:
+                             115   122                  132   133   134                                           155   159   159   146        136                                                                      134
+
+                             134   138                  152   152   154                                           177   182   182   168        156                                                                      154
+
+                                   5                          5     5                                             7     6     6     6          5                                                                        5
+
+                             8     8                    9     9     9                                             10    11    11    9          9                                                                        9
+
+                 Fordelingen efter nationalitet er i beregningerne forudsat til at følge fordelingen, som den var blandt de seneste fire års tilgange (2019-2022). det er endvidere forudsat, at fuldførelsesprocenten
+
+                 mellem nationaliteterne er ens. Antal færre end fem vises af diskretionshensyn ikke i tabellen.
+
+                 Uddannelses- og Forskningsministeriet
+Tandplejeprognose 2023-2045                                                                                                                             Side 61/66
+
+Tabel 8. Tilgang og fuldførte fra tandlægeuddannelsen (KA) i kalenderåret, hvis tilgang øges med 20 pct. i forhold til aktuelt gældende loft.
+
+                             2023     2024                 2025  2026  2027                                       2028  2029  2030     2031     2032 2033 og frem
+
+Tilgang, i alt               185      185                  185   220   220                                        220   206   185      185      185     185
+Mænd
+Kvinder                      37       37                   37    43    44                                         44    41    37       37       37                                                                      37
+Danmark
+Øvrige Norden                148      148                  148   177   176                                        176   165   148      148      148                                                                     148
+Øvrige verden
+Fuldførte, ialt              169      169                  169   202   202                                        202   189   169      169      169     169
+Mænd
+Kvinder                      6        6                    6     6     6                                          6     6     6        6        6                                                                       6
+Danmark
+Øvrige Norden                10       10                   10    12    12                                         12    11    10       10       10                                                                      10
+Øvrige verden
+                             146      151                  177   183   183                                        212   217   218      206      188     184
+Anm.:
+                             31       29                   35    37    37                                         42    43    44       41       38                                                                      37
+Kilde:
+                             115      122                  142   146   146                                        170   174   174      165      150                                                                     147
+
+                             134      138                  162   168   168                                        194   199   200      189      172     169
+
+                                      5                    5     5     5                                          7     6     6        6        6                                                                       5
+
+                             8        8                    10    10    10                                         11    12    12       11       10                                                                      10
+
+                 Fordelingen efter nationalitet er i beregningerne forudsat til at følge fordelingen, som den var blandt de seneste fire års tilgange (2019-2022). det er endvidere forudsat, at fuldførelsesprocenten
+
+                 mellem nationaliteterne er ens. Antal færre end fem vises af diskretionshensyn ikke i tabellen.
+
+                 Uddannelses- og Forskningsministeriet
+
+Tabel 9. Tilgang og fuldførte fra tandlægeuddannelsen (KA) i kalenderåret, hvis tilgang reduceres med 10 pct. i forhold til aktuelt gældende loft.
+
+                             2023     2024                 2025  2026  2027                                       2028  2029  2030     2031     2032 2033 og frem
+
+Tilgang, i alt               139      139                  139   165   165                                        165   155   139      139      139     139
+Mænd
+Kvinder                      28       28                   28    33    33                                         33    31    28       28       28                                                                      28
+Danmark
+Øvrige Norden                111      111                  111   132   132                                        132   124   111      111      111                                                                     111
+Øvrige verden
+Fuldførte, ialt              127      127                  127   151   151                                        151   142   127      127      127     127
+Mænd
+Kvinder          -                 -                    -        5     5                                          5     5 -         -        -       -
+Danmark
+Øvrige Norden                8        8                    8     9     9                                          9     8     8        8        8                                                                       8
+Øvrige verden
+                             146      151                  140   138   138                                        159   163   163      155      140     138
+Anm.:
+                             31       29                   28    28    28                                         32    33    33       31       28                                                                      28
+Kilde:
+                             115      122                  112   110   110                                        127   130   130      124      112                                                                     110
+
+                             135      138                  128   126   126                                        146   149   149      142      129     126
+
+                                      5                          5     5                                                5     5        5                                                                                5
+
+                             8        8                    8     7     7                                          9     9     9        8        8                                                                       7
+
+                 Fordelingen efter nationalitet er i beregningerne forudsat til at følge fordelingen, som den var blandt de seneste fire års tilgange (2019-2022). det er endvidere forudsat, at fuldførelsesprocenten
+
+                 mellem nationaliteterne er ens. Antal færre end fem vises af diskretionshensyn ikke i tabellen.
+
+                 Uddannelses- og Forskningsministeriet
+Tandplejeprognose 2023-2045                                                                                                                          Side 62/66
+
+Tabel 10. Tilgang og fuldførte fra tandlægeuddannelsen (KA) i kalenderåret, hvis tilgang reduceres med 20 pct. i forhold til aktuelt gældende loft.
+
+                             2023     2024                 2025     2026     2027     2028     2029     2030     2031     2032 2033 og frem
+
+Tilgang, i alt               123      123                  123      146      146      146      138      123      123      123                        123
+Mænd
+Kvinder                      24       24                   24       29       29       29       27       24       24       24                                                                                            24
+Danmark
+Øvrige Norden                99       99                   99       117      117      117      111      99       99       99                                                                                            99
+Øvrige verden
+Fuldførte, ialt              113      113                  113      134      134      134      126      113      113      113                        113
+Mænd
+Kvinder          -                 -                    -        -        -        -        -        -        -        -       -
+Danmark
+Øvrige Norden                7        7                    7        8        8        8        7        7        7        7                                                                                             7
+Øvrige verden
+                             146      151                  127      123      123      141      144      144      138      125                        123
+Anm.:
+                             31       29                   25       25       25       28       29       29       28       25                                                                                            25
+Kilde:
+                             115      122                  102      98       98       113      115      115      110      100                                                                                           98
+
+                             134      138                  116      112      112      129      132      132      126      115                        112
+
+                                      5                                                                          5
+
+                             8        8                    7        7        7        8        8        8        7        7                                                                                             7
+
+                 Fordelingen efter nationalitet er i beregningerne forudsat til at følge fordelingen, som den var blandt de seneste fire års tilgange (2019-2022). det er endvidere forudsat, at fuldførelsesprocenten
+                 mellem nationaliteterne er ens. Antal færre end fem vises af diskretionshensyn ikke i tabellen.
+
+                 Uddannelses- og Forskningsministeriet
+Tandplejeprognose 2023-2045                                                                                                                                             Side 63/66
+
+Fremskrivninger - Kliniske tandteknikere
+
+Tabel 11. Forventet tilgang og antal fuldførte fra uddannelsen i klinisk tandteknik.
+
+                             2023             2024        2025  2026  2027            2028  2029 2030 og frem
+
+Tilgang, i alt               25               25          25    18    18              18    18                                                                   18
+
+Tilgang kvinder              19               19          19    14    14              14    14                                                                   14
+
+Tilgang mænd                 6                6           6     4     4               4     4                                                                    4
+
+Fuldførte i alt              9                0           0     0     21              21    21                                                                   15
+
+Fuldførte kvinder            7                0           0     0     16              16    16                                                                   11
+
+Fuldførte mænd               2                0           0     0     5               5     5                                                                    4
+
+Anm.:              Antal fuldførte i 2023 er anslået ud fra, at tilgangen i 2021 var på 10 personer med en gennemførselsfrekvens på 90 %.
+                   Det er forudsat, at det særligt forhøjede loft, der gælder indtil og med 2025, vil være uændret. Beregning af kønsfordeling er lavet af SST.
+                   Resultater er vist med almindelig afrunding.
+
+Kilde:             Uddannelses- og Forskningsministeriet
+
+Tabel 12. Tilgang og antal fuldførte fra uddannelsen i klinisk tandteknik, hvis tilgang øges med 10 pct. i forhold til aktuelt
+gældende loft.
+
+                             2023             2024        2025  2026  2027            2028  2029 2030 og frem
+
+Tilgang, i alt               25               25          25    20    20              20    20                                                                   20
+Tilgang kvinder
+Tilgang mænd                 19               19          19    15    15              15    15                                                                   15
+Fuldførte i alt
+Fuldførte kvinder            6                6           6     5     5               5     5                                                                        5
+Fuldførte mænd
+                             9                0           0     0     21              21    21                                                                   17
+Anm.:
+                             7                0           0     0     16              16    16                                                                   13
+
+                             2                0           0     0     5               5     5                                                                        4
+
+                   Antal fuldførte i 2023 er anslået ud fra, at tilgangen i 2021 var på 10 personer med en gennemførselsfrekvens på 90 %. Det er forudsat, at
+
+                   det særligt forhøjede loft, der gælder indtil og med 2025, vil være uændret. Beregning af kønsfordeling er lavet af SST. Resultater er vist
+
+                   med almindelig afrunding.
+
+Kilde:             Uddannelses- og Forskningsministeriet
+Tandplejeprognose 2023-2045                                                                                                                                         Side 64/66
+
+Tabel 13. Tilgang og antal fuldførte fra uddannelsen i klinisk tandteknik, hvis tilgang øges med 20 pct. i forhold til aktuelt
+gældende loft.
+
+                             2023             2024        2025  2026  2027  2028  2029 2030 og frem
+
+Tilgang, i alt               25               25          25    24    24    24    24                                                                            24
+Tilgang kvinder
+Tilgang mænd                 19               19          19    18    18    18    18                                                                            18
+Fuldførte i alt
+Fuldførte kvinder            6                6           6     6     6     6     6                                                                             6
+Fuldførte mænd
+                             9                0           0     0     21    21    21                                                                            20
+Anm.:
+                             7                0           0     0     16    16    16                                                                            15
+
+                             2                0           0     0     5     5     5                                                                             5
+
+                   Antal fuldførte i 2023 er anslået ud fra, at tilgangen i 2021 var på 10 personer med en gennemførselsfrekvens på 90 %. Det er forudsat, at
+
+                   det særligt forhøjede loft, der gælder indtil og med 2025, vil være uændret. Beregning af kønsfordeling er lavet af SST. Resultater er vist
+
+                   med almindelig afrunding.
+
+Kilde:             Uddannelses- og Forskningsministeriet
+
+Tabel 14. Tilgang og antal fuldførte fra uddannelsen i klinisk tandteknik, hvis tilgang reduceres med 10 pct. i forhold til
+aktuelt gældende loft.
+
+                             2023             2024        2025  2026  2027  2028  2029 2030 og frem
+
+Tilgang, i alt               25               25          25    16    16    16    16                                                                            16
+Tilgang kvinder
+Tilgang mænd                 19               19          19    12    12    12    12                                                                            12
+Fuldførte i alt
+Fuldførte kvinder            6                6           6     4     4     4     4                                                                             4
+Fuldførte mænd
+                             9                0           0     0     21    21    21                                                                            14
+Anm.:
+                             7                0           0     0     16    16    16                                                                            10
+
+                             2                0           0     0     5     5     5                                                                             4
+
+                   Antal fuldførte i 2023 er anslået ud fra, at tilgangen i 2021 var på 10 personer med en gennemførselsfrekvens på 90 %. Det er forudsat, at
+
+                   det særligt forhøjede loft, der gælder indtil og med 2025, vil være uændret. Beregning af kønsfordeling er lavet af SST. Resultater er vist
+
+                   med almindelig afrunding.
+
+Kilde:             Uddannelses- og Forskningsministeriet
+Tandplejeprognose 2023-2045                                                                                                                                          Side 65/66
+
+Tabel 15. Tilgang og antal fuldførte fra uddannelsen i klinisk tandteknik, hvis tilgang reduceres med 20 pct. i forhold til
+aktuelt gældende loft.
+
+                             2023  2024                   2025  2026  2027  2028  2029 2030 og frem
+
+Tilgang, i alt               25    25                     25    14    14    14    14                                                                             14
+
+Tilgang kvinder              19    19                     19    10    10    10    10                                                                             10
+
+Tilgang mænd                 6     6                      6     4     4     4     4                                                                              4
+
+Fuldførte i alt              9     0                      0     0     21    21    21                                                                             12
+
+Fuldførte kvinder            7     0                      0     0     16    16    16                                                                             9
+
+Fuldførte mænd               2     0                      0     0     5     5     5                                                                              3
+
+Anm.:              Antal fuldførte i 2023 er anslået ud fra, at tilgangen i 2021 var på 10 personer med en gennemførselsfrekvens på 90 %.
+                   Det er forudsat, at det særligt forhøjede loft, der gælder indtil og med 2025, vil være uændret. Beregning af kønsfordeling er lavet af SST.
+                   Resultater er vist med almindelig afrunding.
+
+Kilde:             Uddannelses- og Forskningsministeriet
+Tandplejeprognose 2023-2045  Side 66/66
+
+Sundhedsstyrelsen
+Islands Brygge 67
+2300 København S
+
+www.sst.dk
+

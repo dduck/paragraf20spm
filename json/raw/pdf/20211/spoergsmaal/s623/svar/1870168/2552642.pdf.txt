@@ -1,0 +1,137 @@
+Folketingets Sundhedsudvalg                                                                                    Sundhedsudvalget 2021-22
+
+                                                                                                                                        Offentligt
+                                                                                                            Sundhedsudvalget 2020-21
+
+                                                                                                                                     Offentligt
+
+                                                                                           Holbergsgade 6
+                                                                                           DK-1057 København K
+
+                                                                                           T +45 7226 9000
+                                                                                           F +45 7226 9001
+                                                                                           M sum@sum.dk
+                                                                                           W sum.dk
+
+                                                                                           Dato: 01-07-2021
+                                                                                           Enhed: JURPEM
+                                                                                           Sagsbeh.: DEPKAHJ
+                                                                                           Sagsnr.: 2110318
+                                                                                           Dok. nr.: 1787520
+
+Folketingets Sundhedsudvalg har den 10. juni 2021 stillet følgende spørgsmål nr.
+1399 (Alm. del) til sundhedsministeren, som hermed besvares. Spørgsmålet er stillet
+efter ønske fra Per Larsen (KF).
+
+Spørgsmål nr. 1399:
+”Hvad vil ministeren gøre for at sikre, at ingen danskere fremover oplever, at uved-
+kommende uberettiget skaffer sig adgang til fortrolige patientoplysninger, som det
+blandt andet fremgår i TV2 Nords artikel 6/6-21: "Læger snager i Inges journaler: - Jeg
+kan ikke stole på systemet". Herunder bedes ministeren oplyse, om det er teknisk
+muligt, at patienter får en automatisk besked i e-boks, når der er blevet søgt i patien-
+tens journal.”
+
+Svar:
+I artiklen omtales en konkret sag, hvor to læger ansat i Region Nordjylland ifølge ar-
+tiklen har skaffet sig adgang til patientoplysninger uden at være berettiget til det. Jeg
+kan i den forbindelse indledningsvis oplyse, at det er Region Nordjylland, der som
+driftsansvarlig og dataansvarlig har ansvaret for, at gældende regler i sundhedsloven
+om tavshedspligt og indhentning af oplysninger i patientjournaler og databeskyttel-
+sesretlige regler overholdes.
+
+Om sundhedslovens regler kan jeg generelt oplyse, at sundhedspersoners tavsheds-
+pligt og patienters ret til fortrolighed er to grundlæggende og vigtige principper i
+dansk sundhedsret. Det er derfor også fastsat i sundhedsloven, at en patient har krav
+på, at sundhedspersoner iagttager tavshed om, hvad de under udøvelsen af deres er-
+hverv erfarer eller får formodning om angående helbredsforhold, øvrige rent private
+forhold og andre fortrolige oplysninger.
+
+Der gælder dog en række – lovbestemte – undtagelser til dette udgangspunkt. Det
+følger således bl.a. af sundhedslovens § 42 a, at sundhedspersoner ved opslag i elek-
+troniske systemer i fornødent omfang kan indhente oplysninger om en patients hel-
+bredsforhold og andre fortrolige oplysninger, når det er nødvendigt i forbindelse med
+aktuel behandling af patienten.
+
+Sundhedslovens regler om adgang til elektroniske patientjournaler skal ses i sammen-
+hæng med, at den dataansvarlige region, eller privatpraktiserende læge m.v. efter da-
+tabeskyttelsesforordningens regler vil være forpligtet til at overholde databeskyttel-
+sesforordningen krav til behandlingssikkerhed.
+
+Den dataansvarlige region vil således være forpligtet til at fastlægge et sikkerhedsni-
+veau, der passer til de risici, der er forbundet med behandlingen af personoplysnin-
+gerne. Regionen er dermed gennem systemtekniske og organisatoriske foranstaltnin-
+ger forpligtet til at sikre, at det kun er de sundhedspersoner eller andre personer, der
+deltager i den samlede patientbehandling, der har brug for helbredsoplysninger m.v.
+om en patient i forbindelse med aktuel patientbehandling, der rent faktisk må have
+adgang til oplysningerne.
+
+Hvis man som patient mener, at en dataansvarlig region behandler personoplysnin-
+ger i strid med databeskyttelseslovgivningen, vil der være mulighed for at klage til Da-
+tatilsynet.
+
+Som patient har man desuden mulighed for at klage, hvis man mener, at en sund-
+hedsperson eller andre har skaffet sig adgang til ens patientjournal i strid med sund-
+hedslovens regler om tavshedspligt og indhentning af helbredsoplysninger m.v.
+
+Det følger således af § 1, stk. 1, 1. pkt., i lov om klage- og erstatningsadgang inden for
+sundhedsvæsenet (klage- og erstatningsloven), at Styrelsen for Patientklager behand-
+ler klager fra patienter over sundhedsvæsenets sundhedsfaglige virksomhed og for-
+hold omfattet af bl.a. sundhedslovens kapitel 9, som vedrører regler om tavsheds-
+pligt, videregivelse og indhentning af helbredsoplysninger m.v.
+
+Styrelsen for Patientklager træffer i sager efter § 1, stk. 1, afgørelse om, hvorvidt den
+sundhedsfaglige virksomhed har været kritisabel, eller om sundhedsvæsenet har
+handlet i strid med sundhedslovens kapitel 4-9.
+
+En patient kan desuden klage til Sundhedsvæsenets Disciplinærnævn over autorise-
+rede sundhedspersoners sundhedsfaglige virksomhed og forhold omfattet af bl.a.
+sundhedslovens kapitel 9. Det følger af klage- og erstatningslovens § 2, stk. 1.
+
+Sundhedsvæsenets Disciplinærnævn afgiver i sager efter § 2 en udtalelse om, hvor-
+vidt sundhedspersonens sundhedsfaglige virksomhed har været kritisabel, eller om
+sundhedspersonen har handlet i strid med bl.a. sundhedslovens kapitel 9. Nævnet
+kan herunder udtale kritik med indskærpelse eller søge iværksat sanktioner.
+
+I forhold til spørgsmålet vedr. besked i e-boks kan jeg oplyse, at sundhedsloven ikke
+stiller krav om, at patienten skal have besked, hver gang der bliver søgt i patientens
+journal. Det er teknisk muligt at lave en sådan løsning, men den vil ikke nødvendigvis
+skabe overblik for borgerne. Der kan være mange opslag i løbet af f.eks. en indlæg-
+gelse, som i givet fald vil afstedkomme så mange beskeder i e-Boks, at det vil kunne
+opleves som uoverskueligt for den enkelte og dermed modvirke formålet. Regerin-
+gens tilgang er derfor at skabe en samlet, brugervenlig visning på sundhed.dk
+
+Jeg kan i forlængelse heraf oplyse, at man som patient allerede i dag i et vist omfang
+har mulighed for at se, hvem der har foretaget opslag i ens patientjournal. Patienten
+har således i dag i ”Mi Log” på su dhed.dk adga g til logoplys i ger på opslag i sy-
+stemer, der er forbundet hertil, såsom sundhedsjournalen, Det Fælles Medicinkort
+(FMK) og Det Danske Vaccinationscenter (DDV). Patienten har adgang til at se tids-
+punkt for opslag, hvem der har foretaget opslaget (fulde navn), samt hvilken organi-
+sation (om det er apotek eller læge), der har slået op. På sundhed.dk har patienten
+imidlertid endnu ikke adgang til opslag fra sygehusenes interne systemer, herunder
+patientjournalsystemer, billeddiagnostiske oplysninger, intern sygehusmedicin m.v.
+Dog har borgere i Regio Hovedstade og Regio Sjælla d via ”Mi Su dhedsplat-
+for ” adga g til at se opslag.
+
+For også på sundhed.dk at tilbyde borgere overblik over opslag fra regionernes in-
+terne patientjournalsystemer, aftalte regeringen i regi af økonomiforhandlingerne for
+
+                                                                                            Side 2
+2020 med Danske Regioner, at logoplysninger fra sygehusenes elektroniske patient-
+journaler skal indgå i Min Log på sundhed.dk.
+Et udkast til ”Beke dtgørelse o i for atio og sa tykke i forbi delse ed beha d-
+ling og ved videregivelse og indhentning af helbredsoplysninger samt logning m.v.
+(herefter logningsbekendtgørelsen) har været i høring fra den 12. november til den
+10. december 2020.
+Sundhedsministeriet har i forlængelse af denne høring igangsat et arbejde, der har til
+formål at afdække, om – og i så fald hvordan – der kan fastsættes regler, der giver
+mulighed for, at den dataansvarlige region i særlige tilfælde (af hensyn til beskyttelse
+af særligt udsatte sundhedspersoner) vil kunne undtage oplysninger vedrørende visse
+sundhedspersoner fra logvisningen. Når denne afklaring er afsluttet, vil bekendtgørel-
+sen blive udstedt og løsningen blive færdigudviklet.
+
+                                          Med venlig hilsen
+
+                   Magnus Heunicke / Karoline Haugsted Jørgensen
+
+                                                                                                                                              Side 3
+
